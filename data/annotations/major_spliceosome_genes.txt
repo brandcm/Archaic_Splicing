@@ -1,0 +1,247 @@
+HGNC_ID	Approved_symbol	Approved_name	Status	Locus_type	Previous_symbols	Alias_symbols	Chromosome	NCBI_Gene_ID	Ensembl_gene_ID	Vega_gene_ID	Group_ID	Group_name
+HGNC:17040	CASC3	CASC3 exon junction complex subunit	Approved	gene with protein product		MLN51, BTZ	17q21.1	22794	ENSG00000108349	OTTHUMG00000133323	1238	Exon junction complex
+HGNC:18683	EIF4A3	eukaryotic translation initiation factor 4A3	Approved	gene with protein product	DDX48	KIAA0111, EIF4AIII, Fal1	17q25.3	9775	ENSG00000141543	OTTHUMG00000177538	1238	Exon junction complex
+HGNC:6815	MAGOH	mago homolog, exon junction complex subunit	Approved	gene with protein product		MAGOHA, MAGOH1	1p32.3	4116	ENSG00000162385	OTTHUMG00000008932	1238	Exon junction complex
+HGNC:25504	MAGOHB	mago homolog B, exon junction complex subunit	Approved	gene with protein product		FLJ10292, MGN2	12p13.2	55110	ENSG00000111196	OTTHUMG00000168407	1238	Exon junction complex
+HGNC:9905	RBM8A	RNA binding motif protein 8A	Approved	gene with protein product	RBM8	ZNRP, BOV-1A, BOV-1B, BOV-1C, RBM8B, Y14	1q21.1	9939	ENSG00000265241	OTTHUMG00000013736	1238	Exon junction complex
+HGNC:20472	LSM1	LSM1 homolog, mRNA degradation associated	Approved	gene with protein product		CASM, YJL124C	8p11.23	27257	ENSG00000175324	OTTHUMG00000164051	1505	LSm proteins
+HGNC:17562	LSM10	LSM10, U7 small nuclear RNA associated	Approved	gene with protein product		MGC15749	1p34.3	84967	ENSG00000181817	OTTHUMG00000008140	1505	LSm proteins
+HGNC:30860	LSM11	LSM11, U7 small nuclear RNA associated	Approved	gene with protein product		FLJ38273	5q33.3	134353	ENSG00000155858	OTTHUMG00000130255	1505	LSm proteins
+HGNC:26407	LSM12	LSM12 homolog	Approved	gene with protein product		FLJ30656	17q21.31	124801	ENSG00000161654	OTTHUMG00000181804	1505	LSm proteins
+HGNC:24489	LSM14A	LSM14A mRNA processing body assembly factor	Approved	gene with protein product	C19orf13, FAM61A	DKFZP434D1335, RAP55A, RAP55	19q13.11	26065	ENSG00000257103	OTTHUMG00000180491	1505	LSm proteins
+HGNC:15887	LSM14B	LSM family member 14B	Approved	gene with protein product	C20orf40, FAM61B	FT005, bA11M20.3, FLJ25473, LSM13, RAP55B	20q13.33	149986	ENSG00000149657	OTTHUMG00000032901	1505	LSm proteins
+HGNC:13940	LSM2	LSM2 homolog, U6 small nuclear RNA and mRNA degradation associated	Approved	gene with protein product	C6orf28	G7b, YBL026W	6p21.33	57819	ENSG00000204392	OTTHUMG00000031121	1505	LSm proteins
+HGNC:17874	LSM3	LSM3 homolog, U6 small nuclear RNA and mRNA degradation associated	Approved	gene with protein product		YLR438C, SMX4, USS2	3p25.1	27258	ENSG00000170860	OTTHUMG00000129838	1505	LSm proteins
+HGNC:17259	LSM4	LSM4 homolog, U6 small nuclear RNA and mRNA degradation associated	Approved	gene with protein product		YER112W	19p13.11	25804	ENSG00000130520	OTTHUMG00000183357	1505	LSm proteins
+HGNC:17162	LSM5	LSM5 homolog, U6 small nuclear RNA and mRNA degradation associated	Approved	gene with protein product		YER146W	7p14.3	23658	ENSG00000106355	OTTHUMG00000022913	1505	LSm proteins
+HGNC:17017	LSM6	LSM6 homolog, U6 small nuclear RNA and mRNA degradation associated	Approved	gene with protein product		YDR378C	4q31.22	11157	ENSG00000164167	OTTHUMG00000161440	1505	LSm proteins
+HGNC:20470	LSM7	LSM7 homolog, U6 small nuclear RNA and mRNA degradation associated	Approved	gene with protein product		YNL147W	19p13.3	51690	ENSG00000130332	OTTHUMG00000180441	1505	LSm proteins
+HGNC:20471	LSM8	LSM8 homolog, U6 small nuclear RNA associated	Approved	gene with protein product		YJR022W	7q31.31	51691	ENSG00000128534	OTTHUMG00000156956	1505	LSm proteins
+HGNC:28212	NAA38	N-alpha-acetyltransferase 38, NatC auxiliary subunit	Approved	gene with protein product	LSMD1	MGC14151, PFAAP2	17p13.1	84316	ENSG00000183011	OTTHUMG00000178023	1505	LSm proteins
+HGNC:975	BCAS2	BCAS2 pre-mRNA processing factor	Approved	gene with protein product		DAM1, SPF27, Snt309	1p13.2	10286	ENSG00000116752	OTTHUMG00000011898	1361	NineTeen complex
+HGNC:1743	CDC5L	cell division cycle 5 like	Approved	gene with protein product		PCDC5RP, hCDC5, CEF1, CDC5	6p21.1	988	ENSG00000096401	OTTHUMG00000014767	1361	NineTeen complex
+HGNC:15879	CTNNBL1	catenin beta like 1	Approved	gene with protein product	C20orf33	FLJ21108, P14L, P14, NAP, NYD-SP19	20q11.23	56259	ENSG00000132792	OTTHUMG00000032428	1361	NineTeen complex
+HGNC:26939	CWC15	CWC15 spliceosome associated protein homolog	Approved	gene with protein product		C11orf5, HSPC148, Cwf15, AD002	11q21	51503	ENSG00000150316	OTTHUMG00000181616	1361	NineTeen complex
+HGNC:9089	PLRG1	pleiotropic regulator 1	Approved	gene with protein product		PRL1, Prp46, PRPF46, Cwc1, TANGO4	4q31.3	5356	ENSG00000171566	OTTHUMG00000161411	1361	NineTeen complex
+HGNC:17896	PRPF19	pre-mRNA processing factor 19	Approved	gene with protein product	PRP19	UBOX4, NMP200, PSO4, hPSO4, SNEV	11q12.2	27339	ENSG00000110107	OTTHUMG00000167798	1361	NineTeen complex
+HGNC:10765	SF3A1	splicing factor 3a subunit 1	Approved	gene with protein product		SF3a120, SAP114, PRPF21, Prp21	22q12.2	10291	ENSG00000099995	OTTHUMG00000151005	1555	SF3a complex
+HGNC:10766	SF3A2	splicing factor 3a subunit 2	Approved	gene with protein product		SF3a66, SAP62, PRPF11, Prp11	19p13.3	8175	ENSG00000104897	OTTHUMG00000180414	1555	SF3a complex
+HGNC:10767	SF3A3	splicing factor 3a subunit 3	Approved	gene with protein product		SF3a60, SAP61, PRP9, PRPF9	1p34.3	10946	ENSG00000183431	OTTHUMG00000004438	1555	SF3a complex
+HGNC:18000	PHF5A	PHD finger protein 5A	Approved	gene with protein product		MGC1346, SF3b14b, INI, bK223H9.2, Rds3, SAP14b, SF3B7	22q13.2	84844	ENSG00000100410	OTTHUMG00000150966	1517	SF3b complex
+HGNC:10768	SF3B1	splicing factor 3b subunit 1	Approved	gene with protein product		SAP155, SF3b155, PRPF10, Prp10, Hsh155	2q33.1	23451	ENSG00000115524	OTTHUMG00000154447	1517	SF3b complex
+HGNC:10769	SF3B2	splicing factor 3b subunit 2	Approved	gene with protein product		SAP145, SF3b1, Cus1, SF3b145	11q13.1	10992	ENSG00000087365	OTTHUMG00000166751	1517	SF3b complex
+HGNC:10770	SF3B3	splicing factor 3b subunit 3	Approved	gene with protein product		SAP130, SF3b130, RSE1, KIAA0017	16q22.1	23450	ENSG00000189091	OTTHUMG00000137582	1517	SF3b complex
+HGNC:10771	SF3B4	splicing factor 3b subunit 4	Approved	gene with protein product		SAP49, SF3b49, Hsh49	1q21.2	10262	ENSG00000143368	OTTHUMG00000012208	1517	SF3b complex
+HGNC:21083	SF3B5	splicing factor 3b subunit 5	Approved	gene with protein product		SF3b10, MGC3133, Ysf3	6q24.2	83443	ENSG00000169976	OTTHUMG00000015737	1517	SF3b complex
+HGNC:30096	SF3B6	splicing factor 3b subunit 6	Approved	gene with protein product		P14, SF3B14a, Ht006, CGI-110, SAP14a	2p23.3	51639	ENSG00000115128	OTTHUMG00000125499	1517	SF3b complex
+HGNC:11153	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1	Approved	gene with protein product	SNRPB1	COD, SmB/SmB', Sm-B/B', snRNP-B	20p13	6628	ENSG00000125835	OTTHUMG00000031694	1255	Sm spliceosomal proteins
+HGNC:11158	SNRPD1	small nuclear ribonucleoprotein D1 polypeptide	Approved	gene with protein product	SNRPD	HsT2456, Sm-D1	18q11.2	6632	ENSG00000167088	OTTHUMG00000178934	1255	Sm spliceosomal proteins
+HGNC:11159	SNRPD2	small nuclear ribonucleoprotein D2 polypeptide	Approved	gene with protein product	SNRPD1	Sm-D2	19q13.2-q13.3	6633	ENSG00000125743	OTTHUMG00000182130	1255	Sm spliceosomal proteins
+HGNC:11160	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide	Approved	gene with protein product		SMD3, Sm-D3	22q11.23	6634	ENSG00000100028	OTTHUMG00000150727	1255	Sm spliceosomal proteins
+HGNC:11161	SNRPE	small nuclear ribonucleoprotein polypeptide E	Approved	gene with protein product		Sm-E	1q32.1	6635	ENSG00000182004	OTTHUMG00000035985	1255	Sm spliceosomal proteins
+HGNC:11162	SNRPF	small nuclear ribonucleoprotein polypeptide F	Approved	gene with protein product		Sm-F	12q23.1	6636	ENSG00000139343	OTTHUMG00000170351	1255	Sm spliceosomal proteins
+HGNC:11163	SNRPG	small nuclear ribonucleoprotein polypeptide G	Approved	gene with protein product		Sm-G	2p13.3	6637	ENSG00000143977	OTTHUMG00000129670	1255	Sm spliceosomal proteins
+HGNC:11164	SNRPN	small nuclear ribonucleoprotein polypeptide N	Approved	gene with protein product	PWCR	SMN, SM-D, HCERN3, SNRNP-N, SNURF-SNRPN, RT-LI	15q11.2	6638	ENSG00000128739	OTTHUMG00000129180	1255	Sm spliceosomal proteins
+HGNC:24236	CCAR1	cell division cycle and apoptosis regulator 1	Approved	gene with protein product		FLJ10590, CARP-1, CARP1	10q21.3	55749	ENSG00000060339	OTTHUMG00000018361	1504	Spliceosomal A complex
+HGNC:16930	CHERP	calcium homeostasis endoplasmic reticulum protein	Approved	gene with protein product		ERPROT213-21, DAN16	19p13.11	10523	ENSG00000085872	OTTHUMG00000169304	1504	Spliceosomal A complex
+HGNC:18681	DDX46	DEAD-box helicase 46	Approved	gene with protein product		KIAA0801, FLJ25329, PRPF5, Prp5	5q31.1	9879	ENSG00000145833	OTTHUMG00000163072	1504	Spliceosomal A complex
+HGNC:2738	DHX15	DEAH-box helicase 15	Approved	gene with protein product	DDX15	HRH2, DBP1, PRP43, PrPp43p, PRPF43	4p15.2	1665	ENSG00000109606	OTTHUMG00000160304	1504	Spliceosomal A complex
+HGNC:5031	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1	Approved	gene with protein product	HNRPA1	hnRNP-A1, ALS20	12q13.13	3178	ENSG00000135486	OTTHUMG00000169702	1504	Spliceosomal A complex
+HGNC:5034	HNRNPAB	heterogeneous nuclear ribonucleoprotein A/B	Approved	gene with protein product	HNRPAB	ABBP1, FLJ40338	5q35.3	3182	ENSG00000197451	OTTHUMG00000163452	1504	Spliceosomal A complex
+HGNC:16463	PRPF40A	pre-mRNA processing factor 40 homolog A	Approved	gene with protein product	FNBP3	FLJ20585, FBP11, HYPA, NY-REN-6, HIP10, FBP-11, FLAF1, Prp40	2q23.3	55660	ENSG00000196504	OTTHUMG00000154031	1504	Spliceosomal A complex
+HGNC:17042	PUF60	poly(U) binding splicing factor 60	Approved	gene with protein product		FIR, SIAHBP1, RoBPI	8q24.3	22827	ENSG00000179950	OTTHUMG00000165155	1504	Spliceosomal A complex
+HGNC:9896	RBM10	RNA binding motif protein 10	Approved	gene with protein product		DXS8237E, KIAA0122, GPATC9, ZRANB5, GPATCH9, S1-1	Xp11.3	8241	ENSG00000182872	OTTHUMG00000021432	1504	Spliceosomal A complex
+HGNC:16944	RBM17	RNA binding motif protein 17	Approved	gene with protein product		SPF45, MGC14439	10p15.1	84991	ENSG00000134453	OTTHUMG00000017618	1504	Spliceosomal A complex
+HGNC:23244	RBM25	RNA binding motif protein 25	Approved	gene with protein product	RNPC7	S164, fSAP94, NET52, Snu71	14q24.2	58517	ENSG00000119707	OTTHUMG00000167540	1504	Spliceosomal A complex
+HGNC:9902	RBM5	RNA binding motif protein 5	Approved	gene with protein product		LUCA15, LUCA-15, H37	3p21.31	10181	ENSG00000003756	OTTHUMG00000156785	1504	Spliceosomal A complex
+HGNC:12950	SF1	splicing factor 1	Approved	gene with protein product	ZNF162	ZFM1, ZCCHC25	11q13.1	7536	ENSG00000168066	OTTHUMG00000066833	1504	Spliceosomal A complex
+HGNC:16900	SMNDC1	survival motor neuron domain containing 1	Approved	gene with protein product		SPF30, SMNR, TDRD16C	10q25.2	10285	ENSG00000119953	OTTHUMG00000019036	1504	Spliceosomal A complex
+HGNC:18643	SUGP1	SURP and G-patch domain containing 1	Approved	gene with protein product	SF4	F23858, DKFZp434E2216, RBP	19p13.11	57794	ENSG00000105705	OTTHUMG00000182223	1504	Spliceosomal A complex
+HGNC:22964	THRAP3	thyroid hormone receptor associated protein 3	Approved	gene with protein product		TRAP150, BCLAF2	1p34.3	9967	ENSG00000054118	OTTHUMG00000007866	1504	Spliceosomal A complex
+HGNC:12453	U2AF1	U2 small nuclear RNA auxiliary factor 1	Approved	gene with protein product	U2AFBP	U2AF35, RNU2AF1, RN	21q22.3	7307	ENSG00000160201	OTTHUMG00000086836	1504	Spliceosomal A complex
+HGNC:23156	U2AF2	U2 small nuclear RNA auxiliary factor 2	Approved	gene with protein product		U2AF65	19q13.42	11338	ENSG00000063244	OTTHUMG00000180908	1504	Spliceosomal A complex
+HGNC:30855	U2SURP	U2 snRNP associated SURP domain containing	Approved	gene with protein product		fSAPa, SR140	3q23	23350	ENSG00000163714	OTTHUMG00000159323	1504	Spliceosomal A complex
+HGNC:29513	AQR	aquarius intron-binding spliceosomal factor	Approved	gene with protein product		KIAA0560, fSAP164, IBP160	15q14	9716	ENSG00000021776	OTTHUMG00000172257	1507	Spliceosomal B complex
+HGNC:29629	BUD31	BUD31 homolog	Approved	gene with protein product	G10	YCR063W, EDG-2, EDG2, fSAP17, Cwc14	7q22.1	8896	ENSG00000106245	OTTHUMG00000154602	1507	Spliceosomal B complex
+HGNC:15762	CRNKL1	crooked neck pre-mRNA splicing factor 1	Approved	gene with protein product		CRN, CLF, SYF3, Clf1	20p11.23	51340	ENSG00000101343	OTTHUMG00000032000	1507	Spliceosomal B complex
+HGNC:2738	DHX15	DEAH-box helicase 15	Approved	gene with protein product	DDX15	HRH2, DBP1, PRP43, PrPp43p, PRPF43	4p15.2	1665	ENSG00000109606	OTTHUMG00000160304	1507	Spliceosomal B complex
+HGNC:5958	IK	IK cytokine	Approved	gene with protein product		RED, RER	5q31.3	3550	ENSG00000113141	OTTHUMG00000163374	1507	Spliceosomal B complex
+HGNC:29201	ISY1	ISY1 splicing factor homolog	Approved	gene with protein product		KIAA1160, fSAP33	3q21.3	57461	ENSG00000240682	OTTHUMG00000137365	1507	Spliceosomal B complex
+HGNC:7032	MFAP1	microfibril associated protein 1	Approved	gene with protein product		AMP	15q15.3	4236	ENSG00000140259	OTTHUMG00000060145	1507	Spliceosomal B complex
+HGNC:9258	PPIE	peptidylprolyl isomerase E	Approved	gene with protein product		CyP-33, MGC3736, MGC111222	1p34.2	10450	ENSG00000084072	OTTHUMG00000009248	1507	Spliceosomal B complex
+HGNC:9260	PPIL1	peptidylprolyl isomerase like 1	Approved	gene with protein product		CYPL1	6p21.2	51645	ENSG00000137168	OTTHUMG00000014612	1507	Spliceosomal B complex
+HGNC:9330	PQBP1	polyglutamine binding protein 1	Approved	gene with protein product	RENS1, MRXS8, SHS, MRX55, MRX2, MRXS3		Xp11.23	10084	ENSG00000102103	OTTHUMG00000024128	1507	Spliceosomal B complex
+HGNC:25930	PRPF38A	pre-mRNA processing factor 38A	Approved	gene with protein product		FLJ14936, Prp38	1p32.3	84950	ENSG00000134748	OTTHUMG00000008199	1507	Spliceosomal B complex
+HGNC:25503	RBM22	RNA binding motif protein 22	Approved	gene with protein product		FLJ10290, ZC3H16, fSAP47, Cwc2	5q33.1	55696	ENSG00000086589	OTTHUMG00000163589	1507	Spliceosomal B complex
+HGNC:18247	SMU1	SMU1 DNA replication regulator and spliceosomal factor	Approved	gene with protein product		SMU-1, FLJ10805, BWD, fSAP57	9p21.1	55234	ENSG00000122692	OTTHUMG00000019757	1507	Spliceosomal B complex
+HGNC:16696	SNW1	SNW domain containing 1	Approved	gene with protein product	SKIIP	NCoA-62, SKIP, Prp45, PRPF45, Bx42, SKIP1, FUN20	14q24.3	22938	ENSG00000100603	OTTHUMG00000171527	1507	Spliceosomal B complex
+HGNC:17165	TFIP11	tuftelin interacting protein 11	Approved	gene with protein product		TIP39, DKFZP434B194, Spp382	22q12.1	24144	ENSG00000100109	OTTHUMG00000150883	1507	Spliceosomal B complex
+HGNC:16461	WBP11	WW domain binding protein 11	Approved	gene with protein product		NPWBP, SIPP1, PPP1R165, BUG13	12p12.3	51729	ENSG00000084463	OTTHUMG00000168737	1507	Spliceosomal B complex
+HGNC:12739	WBP4	WW domain binding protein 4	Approved	gene with protein product		FBP21, MGC117310	13q14.11	11193	ENSG00000120688	OTTHUMG00000016784	1507	Spliceosomal B complex
+HGNC:14089	XAB2	XPA binding protein 2	Approved	gene with protein product		HCNP, HCRN, SYF1, NTC90	19p13.2	56949	ENSG00000076924	OTTHUMG00000182404	1507	Spliceosomal B complex
+HGNC:26433	ZMAT2	zinc finger matrin-type 2	Approved	gene with protein product		FLJ31121, hSNU23, Snu23	5q31.3	153527	ENSG00000146007	OTTHUMG00000129503	1507	Spliceosomal B complex
+HGNC:29513	AQR	aquarius intron-binding spliceosomal factor	Approved	gene with protein product		KIAA0560, fSAP164, IBP160	15q14	9716	ENSG00000021776	OTTHUMG00000172257	1508	Spliceosomal Bact complex
+HGNC:29629	BUD31	BUD31 homolog	Approved	gene with protein product	G10	YCR063W, EDG-2, EDG2, fSAP17, Cwc14	7q22.1	8896	ENSG00000106245	OTTHUMG00000154602	1508	Spliceosomal Bact complex
+HGNC:28332	CCDC12	coiled-coil domain containing 12	Approved	gene with protein product		MGC23918	3p21.31	151903	ENSG00000160799	OTTHUMG00000133513	1508	Spliceosomal Bact complex
+HGNC:17350	CDC40	cell division cycle 40	Approved	gene with protein product		PRP17, EHB3, PRPF17, FLJ10564	6q21	51362	ENSG00000168438	OTTHUMG00000015358	1508	Spliceosomal Bact complex
+HGNC:15762	CRNKL1	crooked neck pre-mRNA splicing factor 1	Approved	gene with protein product		CRN, CLF, SYF3, Clf1	20p11.23	51340	ENSG00000101343	OTTHUMG00000032000	1508	Spliceosomal Bact complex
+HGNC:29322	CWC22	CWC22 spliceosome associated protein homolog	Approved	gene with protein product		KIAA1604, EIF4GL, fSAPb, NCM	2q31.3	57703	ENSG00000163510	OTTHUMG00000154244	1508	Spliceosomal Bact complex
+HGNC:25989	CWC25	CWC25 spliceosome associated protein homolog	Approved	gene with protein product	CCDC49	FLJ20291	17q12	54883	ENSG00000273559	OTTHUMG00000188505	1508	Spliceosomal Bact complex
+HGNC:10664	CWC27	CWC27 spliceosome associated cyclophilin	Approved	gene with protein product	SDCCAG10	NY-CO-10, SDCCAG-10	5q12.3	10283	ENSG00000153015	OTTHUMG00000074069	1508	Spliceosomal Bact complex
+HGNC:2739	DHX16	DEAH-box helicase 16	Approved	gene with protein product	DDX16	DBP2, Prp2, PRPF2	6p21.33	8449	ENSG00000204560	OTTHUMG00000031060	1508	Spliceosomal Bact complex
+HGNC:30858	EFTUD2	elongation factor Tu GTP binding domain containing 2	Approved	gene with protein product		U5-116KD, Snrp116, Snu114, SNRNP116	17q21.31	9343	ENSG00000108883	OTTHUMG00000179865	1508	Spliceosomal Bact complex
+HGNC:18683	EIF4A3	eukaryotic translation initiation factor 4A3	Approved	gene with protein product	DDX48	KIAA0111, EIF4AIII, Fal1	17q25.3	9775	ENSG00000141543	OTTHUMG00000177538	1508	Spliceosomal Bact complex
+HGNC:24658	GPATCH1	G-patch domain containing 1	Approved	gene with protein product	GPATC1	ECGP, FLJ10206, FLJ38686	19q13.11	55094	ENSG00000076650	OTTHUMG00000180341	1508	Spliceosomal Bact complex
+HGNC:30677	GPKOW	G-patch domain and KOW motifs	Approved	gene with protein product		T54, GPATC5, GPATCH5, Spp2, Mos2	Xp11.23	27238	ENSG00000068394	OTTHUMG00000021511	1508	Spliceosomal Bact complex
+HGNC:29201	ISY1	ISY1 splicing factor homolog	Approved	gene with protein product		KIAA1160, fSAP33	3q21.3	57461	ENSG00000240682	OTTHUMG00000137365	1508	Spliceosomal Bact complex
+HGNC:9258	PPIE	peptidylprolyl isomerase E	Approved	gene with protein product		CyP-33, MGC3736, MGC111222	1p34.2	10450	ENSG00000084072	OTTHUMG00000009248	1508	Spliceosomal Bact complex
+HGNC:9260	PPIL1	peptidylprolyl isomerase like 1	Approved	gene with protein product		CYPL1	6p21.2	51645	ENSG00000137168	OTTHUMG00000014612	1508	Spliceosomal Bact complex
+HGNC:9261	PPIL2	peptidylprolyl isomerase like 2	Approved	gene with protein product		UBOX7, CYC4, Cyp-60	22q11.21	23759	ENSG00000100023	OTTHUMG00000191763	1508	Spliceosomal Bact complex
+HGNC:9343	PRCC	proline rich mitotic checkpoint control factor	Approved	gene with protein product		RCCP1	1q23.1	5546	ENSG00000143294	OTTHUMG00000041294	1508	Spliceosomal Bact complex
+HGNC:17340	PRPF8	pre-mRNA processing factor 8	Approved	gene with protein product	RP13	PRPC8, Prp8, hPrp8, SNRNP220	17p13.3	10594	ENSG00000174231	OTTHUMG00000090553	1508	Spliceosomal Bact complex
+HGNC:25503	RBM22	RNA binding motif protein 22	Approved	gene with protein product		FLJ10290, ZC3H16, fSAP47, Cwc2	5q33.1	55696	ENSG00000086589	OTTHUMG00000163589	1508	Spliceosomal Bact complex
+HGNC:12974	RNF113A	ring finger protein 113A	Approved	gene with protein product	ZNF183	RNF113, Cwc24	Xq24	7737	ENSG00000125352	OTTHUMG00000022283	1508	Spliceosomal Bact complex
+HGNC:10211	RNU5A-1	RNA, U5A small nuclear 1	Approved	RNA, small nuclear	RNU5C, RNU5A	U5A, U5B1	15q22.31	26831	ENSG00000199568		1508	Spliceosomal Bact complex
+HGNC:10227	RNU6-1	RNA, U6 small nuclear 1	Approved	RNA, small nuclear	RNU6A	U6, U6-1	15q23	26827	ENSG00000206625		1508	Spliceosomal Bact complex
+HGNC:10530	SAP18	Sin3A associated protein 18	Approved	gene with protein product		SAP18p, 2HOR0202, MGC27131	13q12.11	10284	ENSG00000150459	OTTHUMG00000016535	1508	Spliceosomal Bact complex
+HGNC:30859	SNRNP200	small nuclear ribonucleoprotein U5 subunit 200	Approved	gene with protein product	ASCC3L1, RP33	U5-200KD, HELIC2, KIAA0788, BRR2	2q11.2	23020	ENSG00000144028	OTTHUMG00000130455	1508	Spliceosomal Bact complex
+HGNC:30857	SNRNP40	small nuclear ribonucleoprotein U5 subunit 40	Approved	gene with protein product	WDR57	PRP8BP, SPF38, PRPF8BP, HPRP8BP	1p35.2	9410	ENSG00000060688	OTTHUMG00000003790	1508	Spliceosomal Bact complex
+HGNC:16696	SNW1	SNW domain containing 1	Approved	gene with protein product	SKIIP	NCoA-62, SKIP, Prp45, PRPF45, Bx42, SKIP1, FUN20	14q24.3	22938	ENSG00000100603	OTTHUMG00000171527	1508	Spliceosomal Bact complex
+HGNC:14089	XAB2	XPA binding protein 2	Approved	gene with protein product		HCNP, HCRN, SYF1, NTC90	19p13.2	56949	ENSG00000076924	OTTHUMG00000182404	1508	Spliceosomal Bact complex
+HGNC:28291	ZNF830	zinc finger protein 830	Approved	gene with protein product	CCDC16	MGC20398, OMCG1	17q12	91603	ENSG00000198783	OTTHUMG00000179771	1508	Spliceosomal Bact complex
+HGNC:29513	AQR	aquarius intron-binding spliceosomal factor	Approved	gene with protein product		KIAA0560, fSAP164, IBP160	15q14	9716	ENSG00000021776	OTTHUMG00000172257	1510	Spliceosomal C complex
+HGNC:975	BCAS2	BCAS2 pre-mRNA processing factor	Approved	gene with protein product		DAM1, SPF27, Snt309	1p13.2	10286	ENSG00000116752	OTTHUMG00000011898	1510	Spliceosomal C complex
+HGNC:29629	BUD31	BUD31 homolog	Approved	gene with protein product	G10	YCR063W, EDG-2, EDG2, fSAP17, Cwc14	7q22.1	8896	ENSG00000106245	OTTHUMG00000154602	1510	Spliceosomal C complex
+HGNC:29938	CACTIN	cactin, spliceosome C complex subunit	Approved	gene with protein product	C19orf29	NY-REN-24, fSAPc	19p13.3	58509	ENSG00000105298	OTTHUMG00000180808	1510	Spliceosomal C complex
+HGNC:28332	CCDC12	coiled-coil domain containing 12	Approved	gene with protein product		MGC23918	3p21.31	151903	ENSG00000160799	OTTHUMG00000133513	1510	Spliceosomal C complex
+HGNC:17350	CDC40	cell division cycle 40	Approved	gene with protein product		PRP17, EHB3, PRPF17, FLJ10564	6q21	51362	ENSG00000168438	OTTHUMG00000015358	1510	Spliceosomal C complex
+HGNC:1743	CDC5L	cell division cycle 5 like	Approved	gene with protein product		PCDC5RP, hCDC5, CEF1, CDC5	6p21.1	988	ENSG00000096401	OTTHUMG00000014767	1510	Spliceosomal C complex
+HGNC:1770	CDK10	cyclin dependent kinase 10	Approved	gene with protein product		PISSLRE	16q24.3	8558	ENSG00000185324	OTTHUMG00000138049	1510	Spliceosomal C complex
+HGNC:15762	CRNKL1	crooked neck pre-mRNA splicing factor 1	Approved	gene with protein product		CRN, CLF, SYF3, Clf1	20p11.23	51340	ENSG00000101343	OTTHUMG00000032000	1510	Spliceosomal C complex
+HGNC:15879	CTNNBL1	catenin beta like 1	Approved	gene with protein product	C20orf33	FLJ21108, P14L, P14, NAP, NYD-SP19	20q11.23	56259	ENSG00000132792	OTTHUMG00000032428	1510	Spliceosomal C complex
+HGNC:26939	CWC15	CWC15 spliceosome associated protein homolog	Approved	gene with protein product		C11orf5, HSPC148, Cwf15, AD002	11q21	51503	ENSG00000150316	OTTHUMG00000181616	1510	Spliceosomal C complex
+HGNC:29322	CWC22	CWC22 spliceosome associated protein homolog	Approved	gene with protein product		KIAA1604, EIF4GL, fSAPb, NCM	2q31.3	57703	ENSG00000163510	OTTHUMG00000154244	1510	Spliceosomal C complex
+HGNC:10664	CWC27	CWC27 spliceosome associated cyclophilin	Approved	gene with protein product	SDCCAG10	NY-CO-10, SDCCAG-10	5q12.3	10283	ENSG00000153015	OTTHUMG00000074069	1510	Spliceosomal C complex
+HGNC:26239	STEEP1	STING1 ER exit protein 1	Approved	gene with protein product	CXorf56	FLJ22965	Xq24	63932	ENSG00000018610	OTTHUMG00000022276	1510	Spliceosomal C complex
+HGNC:18674	DDX41	DEAD-box helicase 41	Approved	gene with protein product		ABS, MGC8828	5q35.3	51428	ENSG00000183258	OTTHUMG00000130858	1510	Spliceosomal C complex
+HGNC:2739	DHX16	DEAH-box helicase 16	Approved	gene with protein product	DDX16	DBP2, Prp2, PRPF2	6p21.33	8449	ENSG00000204560	OTTHUMG00000031060	1510	Spliceosomal C complex
+HGNC:15861	DHX35	DEAH-box helicase 35	Approved	gene with protein product	C20orf15, DDX35	FLJ22759, KAIA0875	20q11.23-q12	60625	ENSG00000101452	OTTHUMG00000032463	1510	Spliceosomal C complex
+HGNC:2749	DHX8	DEAH-box helicase 8	Approved	gene with protein product	DDX8	HRH1, PRP22, PRPF22, Dhr2	17q21.31	1659	ENSG00000067596	OTTHUMG00000180883	1510	Spliceosomal C complex
+HGNC:30858	EFTUD2	elongation factor Tu GTP binding domain containing 2	Approved	gene with protein product		U5-116KD, Snrp116, Snu114, SNRNP116	17q21.31	9343	ENSG00000108883	OTTHUMG00000179865	1510	Spliceosomal C complex
+HGNC:24563	FAM32A	family with sequence similarity 32 member A	Approved	gene with protein product		DKFZP586O0120, OTAG-12	19p13.11	26017	ENSG00000105058	OTTHUMG00000182279	1510	Spliceosomal C complex
+HGNC:18786	FAM50A	family with sequence similarity 50 member A	Approved	gene with protein product		DXS9928E, XAP5, HXC-26, 9F	Xq28	9130	ENSG00000071859	OTTHUMG00000033292	1510	Spliceosomal C complex
+HGNC:1162	FRA10AC1	FRA10A associated CGG repeat 1	Approved	gene with protein product	C10orf4		10q23.33	118924	ENSG00000148690	OTTHUMG00000018776	1510	Spliceosomal C complex
+HGNC:24658	GPATCH1	G-patch domain containing 1	Approved	gene with protein product	GPATC1	ECGP, FLJ10206, FLJ38686	19q13.11	55094	ENSG00000076650	OTTHUMG00000180341	1510	Spliceosomal C complex
+HGNC:30677	GPKOW	G-patch domain and KOW motifs	Approved	gene with protein product		T54, GPATC5, GPATCH5, Spp2, Mos2	Xp11.23	27238	ENSG00000068394	OTTHUMG00000021511	1510	Spliceosomal C complex
+HGNC:5035	HNRNPC	heterogeneous nuclear ribonucleoprotein C	Approved	gene with protein product	HNRPC		14q11.2	3183	ENSG00000092199	OTTHUMG00000170757	1510	Spliceosomal C complex
+HGNC:5241	HSPA8	heat shock protein family A (Hsp70) member 8	Approved	gene with protein product	HSPA10	HSC71, HSC70, HSP73	11q24.1	3312	ENSG00000109971	OTTHUMG00000166030	1510	Spliceosomal C complex
+HGNC:29201	ISY1	ISY1 splicing factor homolog	Approved	gene with protein product		KIAA1160, fSAP33	3q21.3	57461	ENSG00000240682	OTTHUMG00000137365	1510	Spliceosomal C complex
+HGNC:15502	LENG1	leukocyte receptor cluster member 1	Approved	gene with protein product			19q13.42	79165	ENSG00000105617	OTTHUMG00000066486	1510	Spliceosomal C complex
+HGNC:17946	NOSIP	nitric oxide synthase interacting protein	Approved	gene with protein product		CGI-25	19q13.33	51070	ENSG00000142546	OTTHUMG00000183169	1510	Spliceosomal C complex
+HGNC:9089	PLRG1	pleiotropic regulator 1	Approved	gene with protein product		PRL1, Prp46, PRPF46, Cwc1, TANGO4	4q31.3	5356	ENSG00000171566	OTTHUMG00000161411	1510	Spliceosomal C complex
+HGNC:9258	PPIE	peptidylprolyl isomerase E	Approved	gene with protein product		CyP-33, MGC3736, MGC111222	1p34.2	10450	ENSG00000084072	OTTHUMG00000009248	1510	Spliceosomal C complex
+HGNC:14650	PPIG	peptidylprolyl isomerase G	Approved	gene with protein product		CARS-Cyp, SRCyp, SCAF10	2q31.1	9360	ENSG00000138398	OTTHUMG00000132206	1510	Spliceosomal C complex
+HGNC:9260	PPIL1	peptidylprolyl isomerase like 1	Approved	gene with protein product		CYPL1	6p21.2	51645	ENSG00000137168	OTTHUMG00000014612	1510	Spliceosomal C complex
+HGNC:9262	PPIL3	peptidylprolyl isomerase like 3	Approved	gene with protein product		CyPJ	2q33.1	53938	ENSG00000240344	OTTHUMG00000132782	1510	Spliceosomal C complex
+HGNC:28954	PPWD1	peptidylprolyl isomerase domain and WD repeat containing 1	Approved	gene with protein product		KIAA0073	5q12.3	23398	ENSG00000113593	OTTHUMG00000131226	1510	Spliceosomal C complex
+HGNC:17351	PRPF18	pre-mRNA processing factor 18	Approved	gene with protein product		hPrp18	10p13	8559	ENSG00000165630	OTTHUMG00000017702	1510	Spliceosomal C complex
+HGNC:17896	PRPF19	pre-mRNA processing factor 19	Approved	gene with protein product	PRP19	UBOX4, NMP200, PSO4, hPSO4, SNEV	11q12.2	27339	ENSG00000110107	OTTHUMG00000167798	1510	Spliceosomal C complex
+HGNC:17340	PRPF8	pre-mRNA processing factor 8	Approved	gene with protein product	RP13	PRPC8, Prp8, hPrp8, SNRNP220	17p13.3	10594	ENSG00000174231	OTTHUMG00000090553	1510	Spliceosomal C complex
+HGNC:25503	RBM22	RNA binding motif protein 22	Approved	gene with protein product		FLJ10290, ZC3H16, fSAP47, Cwc2	5q33.1	55696	ENSG00000086589	OTTHUMG00000163589	1510	Spliceosomal C complex
+HGNC:12974	RNF113A	ring finger protein 113A	Approved	gene with protein product	ZNF183	RNF113, Cwc24	Xq24	7737	ENSG00000125352	OTTHUMG00000022283	1510	Spliceosomal C complex
+HGNC:10211	RNU5A-1	RNA, U5A small nuclear 1	Approved	RNA, small nuclear	RNU5C, RNU5A	U5A, U5B1	15q22.31	26831	ENSG00000199568		1510	Spliceosomal C complex
+HGNC:10227	RNU6-1	RNA, U6 small nuclear 1	Approved	RNA, small nuclear	RNU6A	U6, U6-1	15q23	26827	ENSG00000206625		1510	Spliceosomal C complex
+HGNC:10530	SAP18	Sin3A associated protein 18	Approved	gene with protein product		SAP18p, 2HOR0202, MGC27131	13q12.11	10284	ENSG00000150459	OTTHUMG00000016535	1510	Spliceosomal C complex
+HGNC:26643	SDE2	SDE2 telomere maintenance homolog	Approved	gene with protein product	C1orf55	FLJ35382	1q42.12	163859	ENSG00000143751	OTTHUMG00000037504	1510	Spliceosomal C complex
+HGNC:16939	SLU7	SLU7 homolog, splicing factor	Approved	gene with protein product		9G8	5q33.3	10569	ENSG00000164609	OTTHUMG00000130324	1510	Spliceosomal C complex
+HGNC:30859	SNRNP200	small nuclear ribonucleoprotein U5 subunit 200	Approved	gene with protein product	ASCC3L1, RP33	U5-200KD, HELIC2, KIAA0788, BRR2	2q11.2	23020	ENSG00000144028	OTTHUMG00000130455	1510	Spliceosomal C complex
+HGNC:30857	SNRNP40	small nuclear ribonucleoprotein U5 subunit 40	Approved	gene with protein product	WDR57	PRP8BP, SPF38, PRPF8BP, HPRP8BP	1p35.2	9410	ENSG00000060688	OTTHUMG00000003790	1510	Spliceosomal C complex
+HGNC:16696	SNW1	SNW domain containing 1	Approved	gene with protein product	SKIIP	NCoA-62, SKIP, Prp45, PRPF45, Bx42, SKIP1, FUN20	14q24.3	22938	ENSG00000100603	OTTHUMG00000171527	1510	Spliceosomal C complex
+HGNC:16639	SRRM2	serine/arginine repetitive matrix 2	Approved	gene with protein product		SRm300, SRL300, KIAA0324, Cwc21	16p13.3	23524	ENSG00000167978	OTTHUMG00000177358	1510	Spliceosomal C complex
+HGNC:19824	SYF2	SYF2 pre-mRNA splicing factor	Approved	gene with protein product	CBPIN	p29, DKFZp564O2082, NTC31, fSAP29	1p36.11	25949	ENSG00000117614	OTTHUMG00000043610	1510	Spliceosomal C complex
+HGNC:32672	WDR83	WD repeat domain 83	Approved	gene with protein product		MORG1	19p13.13	84292	ENSG00000123154	OTTHUMG00000169356	1510	Spliceosomal C complex
+HGNC:14089	XAB2	XPA binding protein 2	Approved	gene with protein product		HCNP, HCRN, SYF1, NTC90	19p13.2	56949	ENSG00000076924	OTTHUMG00000182404	1510	Spliceosomal C complex
+HGNC:28291	ZNF830	zinc finger protein 830	Approved	gene with protein product	CCDC16	MGC20398, OMCG1	17q12	91603	ENSG00000198783	OTTHUMG00000179771	1510	Spliceosomal C complex
+HGNC:13917	DDX39B	DExD-box helicase 39B	Approved	gene with protein product	BAT1	D6S81E, UAP56	6p21.33	7919	ENSG00000198563	OTTHUMG00000031165	1522	Spliceosomal E complex
+HGNC:12950	SF1	splicing factor 1	Approved	gene with protein product	ZNF162	ZFM1, ZCCHC25	11q13.1	7536	ENSG00000168066	OTTHUMG00000066833	1522	Spliceosomal E complex
+HGNC:12453	U2AF1	U2 small nuclear RNA auxiliary factor 1	Approved	gene with protein product	U2AFBP	U2AF35, RNU2AF1, RN	21q22.3	7307	ENSG00000160201	OTTHUMG00000086836	1522	Spliceosomal E complex
+HGNC:23156	U2AF2	U2 small nuclear RNA auxiliary factor 2	Approved	gene with protein product		U2AF65	19q13.42	11338	ENSG00000063244	OTTHUMG00000180908	1522	Spliceosomal E complex
+HGNC:29513	AQR	aquarius intron-binding spliceosomal factor	Approved	gene with protein product		KIAA0560, fSAP164, IBP160	15q14	9716	ENSG00000021776	OTTHUMG00000172257	1516	Spliceosomal P complex
+HGNC:28199	BUD13	BUD13 homolog	Approved	gene with protein product		MGC13125, fSAP71, Cwc26	11q23.3	84811	ENSG00000137656	OTTHUMG00000045136	1516	Spliceosomal P complex
+HGNC:29629	BUD31	BUD31 homolog	Approved	gene with protein product	G10	YCR063W, EDG-2, EDG2, fSAP17, Cwc14	7q22.1	8896	ENSG00000106245	OTTHUMG00000154602	1516	Spliceosomal P complex
+HGNC:24932	C9orf78	chromosome 9 open reading frame 78	Approved	gene with protein product		HSPC220, HCA59, CSU2	9q34.11	51759	ENSG00000136819	OTTHUMG00000020796	1516	Spliceosomal P complex
+HGNC:29938	CACTIN	cactin, spliceosome C complex subunit	Approved	gene with protein product	C19orf29	NY-REN-24, fSAPc	19p13.3	58509	ENSG00000105298	OTTHUMG00000180808	1516	Spliceosomal P complex
+HGNC:28332	CCDC12	coiled-coil domain containing 12	Approved	gene with protein product		MGC23918	3p21.31	151903	ENSG00000160799	OTTHUMG00000133513	1516	Spliceosomal P complex
+HGNC:17350	CDC40	cell division cycle 40	Approved	gene with protein product		PRP17, EHB3, PRPF17, FLJ10564	6q21	51362	ENSG00000168438	OTTHUMG00000015358	1516	Spliceosomal P complex
+HGNC:1770	CDK10	cyclin dependent kinase 10	Approved	gene with protein product		PISSLRE	16q24.3	8558	ENSG00000185324	OTTHUMG00000138049	1516	Spliceosomal P complex
+HGNC:15762	CRNKL1	crooked neck pre-mRNA splicing factor 1	Approved	gene with protein product		CRN, CLF, SYF3, Clf1	20p11.23	51340	ENSG00000101343	OTTHUMG00000032000	1516	Spliceosomal P complex
+HGNC:29322	CWC22	CWC22 spliceosome associated protein homolog	Approved	gene with protein product		KIAA1604, EIF4GL, fSAPb, NCM	2q31.3	57703	ENSG00000163510	OTTHUMG00000154244	1516	Spliceosomal P complex
+HGNC:10664	CWC27	CWC27 spliceosome associated cyclophilin	Approved	gene with protein product	SDCCAG10	NY-CO-10, SDCCAG-10	5q12.3	10283	ENSG00000153015	OTTHUMG00000074069	1516	Spliceosomal P complex
+HGNC:26239	STEEP1	STING1 ER exit protein 1	Approved	gene with protein product	CXorf56	FLJ22965	Xq24	63932	ENSG00000018610	OTTHUMG00000022276	1516	Spliceosomal P complex
+HGNC:18674	DDX41	DEAD-box helicase 41	Approved	gene with protein product		ABS, MGC8828	5q35.3	51428	ENSG00000183258	OTTHUMG00000130858	1516	Spliceosomal P complex
+HGNC:2739	DHX16	DEAH-box helicase 16	Approved	gene with protein product	DDX16	DBP2, Prp2, PRPF2	6p21.33	8449	ENSG00000204560	OTTHUMG00000031060	1516	Spliceosomal P complex
+HGNC:2749	DHX8	DEAH-box helicase 8	Approved	gene with protein product	DDX8	HRH1, PRP22, PRPF22, Dhr2	17q21.31	1659	ENSG00000067596	OTTHUMG00000180883	1516	Spliceosomal P complex
+HGNC:30858	EFTUD2	elongation factor Tu GTP binding domain containing 2	Approved	gene with protein product		U5-116KD, Snrp116, Snu114, SNRNP116	17q21.31	9343	ENSG00000108883	OTTHUMG00000179865	1516	Spliceosomal P complex
+HGNC:18683	EIF4A3	eukaryotic translation initiation factor 4A3	Approved	gene with protein product	DDX48	KIAA0111, EIF4AIII, Fal1	17q25.3	9775	ENSG00000141543	OTTHUMG00000177538	1516	Spliceosomal P complex
+HGNC:16817	ESS2	ess-2 splicing factor homolog	Approved	gene with protein product	DGCR13, DGCR14	DGSI, Es2el, ES2, DGS-H, ESS-2, bis1	22q11.21	8220	ENSG00000100056	OTTHUMG00000150119	1516	Spliceosomal P complex
+HGNC:24563	FAM32A	family with sequence similarity 32 member A	Approved	gene with protein product		DKFZP586O0120, OTAG-12	19p13.11	26017	ENSG00000105058	OTTHUMG00000182279	1516	Spliceosomal P complex
+HGNC:18786	FAM50A	family with sequence similarity 50 member A	Approved	gene with protein product		DXS9928E, XAP5, HXC-26, 9F	Xq28	9130	ENSG00000071859	OTTHUMG00000033292	1516	Spliceosomal P complex
+HGNC:30677	GPKOW	G-patch domain and KOW motifs	Approved	gene with protein product		T54, GPATC5, GPATCH5, Spp2, Mos2	Xp11.23	27238	ENSG00000068394	OTTHUMG00000021511	1516	Spliceosomal P complex
+HGNC:5035	HNRNPC	heterogeneous nuclear ribonucleoprotein C	Approved	gene with protein product	HNRPC		14q11.2	3183	ENSG00000092199	OTTHUMG00000170757	1516	Spliceosomal P complex
+HGNC:5241	HSPA8	heat shock protein family A (Hsp70) member 8	Approved	gene with protein product	HSPA10	HSC71, HSC70, HSP73	11q24.1	3312	ENSG00000109971	OTTHUMG00000166030	1516	Spliceosomal P complex
+HGNC:29201	ISY1	ISY1 splicing factor homolog	Approved	gene with protein product		KIAA1160, fSAP33	3q21.3	57461	ENSG00000240682	OTTHUMG00000137365	1516	Spliceosomal P complex
+HGNC:15502	LENG1	leukocyte receptor cluster member 1	Approved	gene with protein product			19q13.42	79165	ENSG00000105617	OTTHUMG00000066486	1516	Spliceosomal P complex
+HGNC:6815	MAGOH	mago homolog, exon junction complex subunit	Approved	gene with protein product		MAGOHA, MAGOH1	1p32.3	4116	ENSG00000162385	OTTHUMG00000008932	1516	Spliceosomal P complex
+HGNC:17946	NOSIP	nitric oxide synthase interacting protein	Approved	gene with protein product		CGI-25	19q13.33	51070	ENSG00000142546	OTTHUMG00000183169	1516	Spliceosomal P complex
+HGNC:9258	PPIE	peptidylprolyl isomerase E	Approved	gene with protein product		CyP-33, MGC3736, MGC111222	1p34.2	10450	ENSG00000084072	OTTHUMG00000009248	1516	Spliceosomal P complex
+HGNC:14650	PPIG	peptidylprolyl isomerase G	Approved	gene with protein product		CARS-Cyp, SRCyp, SCAF10	2q31.1	9360	ENSG00000138398	OTTHUMG00000132206	1516	Spliceosomal P complex
+HGNC:9260	PPIL1	peptidylprolyl isomerase like 1	Approved	gene with protein product		CYPL1	6p21.2	51645	ENSG00000137168	OTTHUMG00000014612	1516	Spliceosomal P complex
+HGNC:9262	PPIL3	peptidylprolyl isomerase like 3	Approved	gene with protein product		CyPJ	2q33.1	53938	ENSG00000240344	OTTHUMG00000132782	1516	Spliceosomal P complex
+HGNC:28954	PPWD1	peptidylprolyl isomerase domain and WD repeat containing 1	Approved	gene with protein product		KIAA0073	5q12.3	23398	ENSG00000113593	OTTHUMG00000131226	1516	Spliceosomal P complex
+HGNC:17340	PRPF8	pre-mRNA processing factor 8	Approved	gene with protein product	RP13	PRPC8, Prp8, hPrp8, SNRNP220	17p13.3	10594	ENSG00000174231	OTTHUMG00000090553	1516	Spliceosomal P complex
+HGNC:25503	RBM22	RNA binding motif protein 22	Approved	gene with protein product		FLJ10290, ZC3H16, fSAP47, Cwc2	5q33.1	55696	ENSG00000086589	OTTHUMG00000163589	1516	Spliceosomal P complex
+HGNC:9905	RBM8A	RNA binding motif protein 8A	Approved	gene with protein product	RBM8	ZNRP, BOV-1A, BOV-1B, BOV-1C, RBM8B, Y14	1q21.1	9939	ENSG00000265241	OTTHUMG00000013736	1516	Spliceosomal P complex
+HGNC:12974	RNF113A	ring finger protein 113A	Approved	gene with protein product	ZNF183	RNF113, Cwc24	Xq24	7737	ENSG00000125352	OTTHUMG00000022283	1516	Spliceosomal P complex
+HGNC:10211	RNU5A-1	RNA, U5A small nuclear 1	Approved	RNA, small nuclear	RNU5C, RNU5A	U5A, U5B1	15q22.31	26831	ENSG00000199568		1516	Spliceosomal P complex
+HGNC:10227	RNU6-1	RNA, U6 small nuclear 1	Approved	RNA, small nuclear	RNU6A	U6, U6-1	15q23	26827	ENSG00000206625		1516	Spliceosomal P complex
+HGNC:26643	SDE2	SDE2 telomere maintenance homolog	Approved	gene with protein product	C1orf55	FLJ35382	1q42.12	163859	ENSG00000143751	OTTHUMG00000037504	1516	Spliceosomal P complex
+HGNC:16939	SLU7	SLU7 homolog, splicing factor	Approved	gene with protein product		9G8	5q33.3	10569	ENSG00000164609	OTTHUMG00000130324	1516	Spliceosomal P complex
+HGNC:30587	SNIP1	Smad nuclear interacting protein 1	Approved	gene with protein product		PML1	1p34.3	79753	ENSG00000163877	OTTHUMG00000004225	1516	Spliceosomal P complex
+HGNC:30859	SNRNP200	small nuclear ribonucleoprotein U5 subunit 200	Approved	gene with protein product	ASCC3L1, RP33	U5-200KD, HELIC2, KIAA0788, BRR2	2q11.2	23020	ENSG00000144028	OTTHUMG00000130455	1516	Spliceosomal P complex
+HGNC:30857	SNRNP40	small nuclear ribonucleoprotein U5 subunit 40	Approved	gene with protein product	WDR57	PRP8BP, SPF38, PRPF8BP, HPRP8BP	1p35.2	9410	ENSG00000060688	OTTHUMG00000003790	1516	Spliceosomal P complex
+HGNC:16696	SNW1	SNW domain containing 1	Approved	gene with protein product	SKIIP	NCoA-62, SKIP, Prp45, PRPF45, Bx42, SKIP1, FUN20	14q24.3	22938	ENSG00000100603	OTTHUMG00000171527	1516	Spliceosomal P complex
+HGNC:16639	SRRM2	serine/arginine repetitive matrix 2	Approved	gene with protein product		SRm300, SRL300, KIAA0324, Cwc21	16p13.3	23524	ENSG00000167978	OTTHUMG00000177358	1516	Spliceosomal P complex
+HGNC:19824	SYF2	SYF2 pre-mRNA splicing factor	Approved	gene with protein product	CBPIN	p29, DKFZp564O2082, NTC31, fSAP29	1p36.11	25949	ENSG00000117614	OTTHUMG00000043610	1516	Spliceosomal P complex
+HGNC:32672	WDR83	WD repeat domain 83	Approved	gene with protein product		MORG1	19p13.13	84292	ENSG00000123154	OTTHUMG00000169356	1516	Spliceosomal P complex
+HGNC:14089	XAB2	XPA binding protein 2	Approved	gene with protein product		HCNP, HCRN, SYF1, NTC90	19p13.2	56949	ENSG00000076924	OTTHUMG00000182404	1516	Spliceosomal P complex
+HGNC:28291	ZNF830	zinc finger protein 830	Approved	gene with protein product	CCDC16	MGC20398, OMCG1	17q12	91603	ENSG00000198783	OTTHUMG00000179771	1516	Spliceosomal P complex
+HGNC:28117	RBM42	RNA binding motif protein 42	Approved	gene with protein product		MGC10433	19q13.12	79171	ENSG00000126254	OTTHUMG00000182063	1506	tri-snRP complex
+HGNC:10538	SART1	spliceosome associated factor 1, recruiter of U4/U6.U5 tri-snRNP	Approved	gene with protein product		Ara1, Snu66, SNRNP110, HAF	11q13.1	9092	ENSG00000175467	OTTHUMG00000166771	1506	tri-snRP complex
+HGNC:30240	SNRNP27	small nuclear ribonucleoprotein U4/U6.U5 subunit 27	Approved	gene with protein product		RY1, U4/U6.U5-27K	2p13.3	11017	ENSG00000124380	OTTHUMG00000152689	1506	tri-snRP complex
+HGNC:20071	USP39	ubiquitin specific peptidase 39	Approved	gene with protein product		SAD1, CGI-21, SNRNP65	2p11.2	10713	ENSG00000168883	OTTHUMG00000153090	1506	tri-snRP complex
+HGNC:10120	RNU1-1	RNA, U1 small nuclear 1	Approved	RNA, small nuclear	RNU1, RNU1G4, RNU1A3, RNU1A	Rnu1a1, U1, HU1-1, U1A1, HSD1	1p36.13	26871	ENSG00000206652		1499	U1 small nuclear ribonucleoprotein
+HGNC:11150	SNRNP70	small nuclear ribonucleoprotein U1 subunit 70	Approved	gene with protein product	RNPU1Z, RPU1, SNRP70	U1-70K, Snp1	19q13.33	6625	ENSG00000104852	OTTHUMG00000183344	1499	U1 small nuclear ribonucleoprotein
+HGNC:11151	SNRPA	small nuclear ribonucleoprotein polypeptide A	Approved	gene with protein product		U1A, U1-A, Mud1	19q13.2	6626	ENSG00000077312	OTTHUMG00000182689	1499	U1 small nuclear ribonucleoprotein
+HGNC:11157	SNRPC	small nuclear ribonucleoprotein polypeptide C	Approved	gene with protein product		U1-C, Yhc1	6p21.31	6631	ENSG00000124562	OTTHUMG00000014555	1499	U1 small nuclear ribonucleoprotein
+HGNC:10142	RNU2-1	RNA, U2 small nuclear 1	Approved	RNA, small nuclear		U2	17q12	6066	ENSG00000274585		1501	U2 small nuclear ribonucleoprotein 
+HGNC:10765	SF3A1	splicing factor 3a subunit 1	Approved	gene with protein product		SF3a120, SAP114, PRPF21, Prp21	22q12.2	10291	ENSG00000099995	OTTHUMG00000151005	1501	U2 small nuclear ribonucleoprotein 
+HGNC:10766	SF3A2	splicing factor 3a subunit 2	Approved	gene with protein product		SF3a66, SAP62, PRPF11, Prp11	19p13.3	8175	ENSG00000104897	OTTHUMG00000180414	1501	U2 small nuclear ribonucleoprotein 
+HGNC:10767	SF3A3	splicing factor 3a subunit 3	Approved	gene with protein product		SF3a60, SAP61, PRP9, PRPF9	1p34.3	10946	ENSG00000183431	OTTHUMG00000004438	1501	U2 small nuclear ribonucleoprotein 
+HGNC:11152	SNRPA1	small nuclear ribonucleoprotein polypeptide A'	Approved	gene with protein product		Lea1, U2A'	15q26.3	6627	ENSG00000131876	OTTHUMG00000149871	1501	U2 small nuclear ribonucleoprotein 
+HGNC:11155	SNRPB2	small nuclear ribonucleoprotein polypeptide B2	Approved	gene with protein product		Msl1, U2B''	20p12.1	6629	ENSG00000125870	OTTHUMG00000031933	1501	U2 small nuclear ribonucleoprotein 
+HGNC:14651	PPIH	peptidylprolyl isomerase H	Approved	gene with protein product		USA-CYP, CYP-20, SnuCyp-20, CYPH, MGC5016	1p34.2	10465	ENSG00000171960	OTTHUMG00000007520	1502	U4/U6 small nuclear ribonucleoprotein 
+HGNC:17348	PRPF3	pre-mRNA processing factor 3	Approved	gene with protein product	RP18	Prp3, hPrp3, SNRNP90	1q21.2	9129	ENSG00000117360	OTTHUMG00000012807	1502	U4/U6 small nuclear ribonucleoprotein 
+HGNC:15446	PRPF31	pre-mRNA processing factor 31	Approved	gene with protein product	RP11	NY-BR-99, PRP31, hPrp31, SNRNP61	19q13.42	26121	ENSG00000105618	OTTHUMG00000066040	1502	U4/U6 small nuclear ribonucleoprotein 
+HGNC:17349	PRPF4	pre-mRNA processing factor 4	Approved	gene with protein product		Prp4p, HPRP4, HPRP4P, PRP4, SNRNP60	9q32	9128	ENSG00000136875	OTTHUMG00000020517	1502	U4/U6 small nuclear ribonucleoprotein 
+HGNC:10192	RNU4-1	RNA, U4 small nuclear 1	Approved	RNA, small nuclear	RNU4B2, RNU4A	U4BL, U4	12q24.31	26835	ENSG00000200795		1502	U4/U6 small nuclear ribonucleoprotein 
+HGNC:10227	RNU6-1	RNA, U6 small nuclear 1	Approved	RNA, small nuclear	RNU6A	U6, U6-1	15q23	26827	ENSG00000206625		1502	U4/U6 small nuclear ribonucleoprotein 
+HGNC:7819	SNU13	small nuclear ribonucleoprotein 13	Approved	gene with protein product	SSFA1, NHP2L1	FA-1, SPAG12, SNRNP15-5, 15.5K	22q13.2	4809	ENSG00000100138	OTTHUMG00000151189	1502	U4/U6 small nuclear ribonucleoprotein 
+HGNC:1656	CD2BP2	CD2 cytoplasmic tail binding protein 2	Approved	gene with protein product		LIN1, Snu40, PPP1R59, U5-52K	16p11.2	10421	ENSG00000169217	OTTHUMG00000132397	1503	U5 small nuclear ribonucleoprotein
+HGNC:17347	DDX23	DEAD-box helicase 23	Approved	gene with protein product		prp28, U5-100KD, PRPF28, SNRNP100	12q13.12	9416	ENSG00000174243	OTTHUMG00000170399	1503	U5 small nuclear ribonucleoprotein
+HGNC:30858	EFTUD2	elongation factor Tu GTP binding domain containing 2	Approved	gene with protein product		U5-116KD, Snrp116, Snu114, SNRNP116	17q21.31	9343	ENSG00000108883	OTTHUMG00000179865	1503	U5 small nuclear ribonucleoprotein
+HGNC:15860	PRPF6	pre-mRNA processing factor 6	Approved	gene with protein product	C20orf14	TOM, bB152O15.1, ANT-1, U5-102K, Prp6, hPrp6, SNRNP102, RP60	20q13.33	24148	ENSG00000101161	OTTHUMG00000033018	1503	U5 small nuclear ribonucleoprotein
+HGNC:17340	PRPF8	pre-mRNA processing factor 8	Approved	gene with protein product	RP13	PRPC8, Prp8, hPrp8, SNRNP220	17p13.3	10594	ENSG00000174231	OTTHUMG00000090553	1503	U5 small nuclear ribonucleoprotein
+HGNC:10211	RNU5A-1	RNA, U5A small nuclear 1	Approved	RNA, small nuclear	RNU5C, RNU5A	U5A, U5B1	15q22.31	26831	ENSG00000199568		1503	U5 small nuclear ribonucleoprotein
+HGNC:30859	SNRNP200	small nuclear ribonucleoprotein U5 subunit 200	Approved	gene with protein product	ASCC3L1, RP33	U5-200KD, HELIC2, KIAA0788, BRR2	2q11.2	23020	ENSG00000144028	OTTHUMG00000130455	1503	U5 small nuclear ribonucleoprotein
+HGNC:30857	SNRNP40	small nuclear ribonucleoprotein U5 subunit 40	Approved	gene with protein product	WDR57	PRP8BP, SPF38, PRPF8BP, HPRP8BP	1p35.2	9410	ENSG00000060688	OTTHUMG00000003790	1503	U5 small nuclear ribonucleoprotein
+HGNC:30551	TXNL4A	thioredoxin like 4A	Approved	gene with protein product	TXNL4	U5-15kD, DIM1, HsT161, DIB1, SNRNP15	18q23	10907	ENSG00000141759	OTTHUMG00000180376	1503	U5 small nuclear ribonucleoprotein
