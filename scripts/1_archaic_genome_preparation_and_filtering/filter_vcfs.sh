@@ -25,7 +25,7 @@ wait
 for c in ${chrs[@]}; do bcftools index -t filtered_combined_archaic_"$c".vcf.gz & done
 wait
 
-bcftools norm -m - -f "hg19" combined_archaic_indels.vcf.gz | bcftools filter -e 'ALT="."' | bcftools filter -i 'QUAL>=30' | bcftools filter -S . -i 'FMT/DP>=10 & FMT/GQ>=30' | bcftools view -O z -o filtered_combined_archaic_indels.vcf.gz
+bcftools norm -m - -f "$hg19" combined_archaic_indels.vcf.gz | bcftools filter -e 'ALT="."' | bcftools filter -i 'QUAL>=30' | bcftools filter -S . -i 'FMT/DP>=10 & FMT/GQ>=30' | bcftools view -O z -o filtered_combined_archaic_indels.vcf.gz
 bcftools index -t filtered_combined_archaic_indels.vcf.gz
 
 echo "filtering and indexing complete"
