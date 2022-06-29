@@ -1,4 +1,4 @@
-This repository contains scripts used to assemble and analyze archaic hominin genomic data, particulary on alternative splicing. There are several directories grouped by the stage of analysis. Numbers in the directory names reflect the order of analysis.
+This directory contains scripts used to assemble and analyze archaic hominin genomic data, particulary on alternative splicing. There are several directories grouped by the stage of analysis. Numbers in the directory names reflect the order of analysis.
 
 - [1_archaic_genome_preparation_and_filtering](https://github.com/brandcm/Archaic_Splicing/tree/main/scripts/1_archaic_genome_preparation_and_filtering) contains scripts to assemble archaic InDels and SNVs separately and filter variants to retain high-quality sites and genotypes.
 
