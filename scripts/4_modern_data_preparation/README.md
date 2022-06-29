@@ -4,8 +4,7 @@ This repository houses scripts that generate additional information for both spl
 
 - concat_introgressed_variants.sh concatenates introgressed tag SNPs among the ASN, EUR, PNG, and SAS populations from [here](https://drive.google.com/drive/folders/0B9Pc7_zItMCVM05rUmhDc0hkWmc?resourcekey=0-zwKyJGRuooD9bWPRZ0vBzQ). We used the all_tag_snps.*.merged.ALL.0.3_R2_cluster.1KG_phase3_essentials.bed files. Duplicate entries that occur from their presence in multiple populations are also removed.
 
-- concat_sQTLs.sh concatenates GTEx sQTL data among 49 tissues from [here](https://storage.googleapis.com/gtex_analysis_
-560 v8/single_tissue_qtl_data/GTEx_Analysis_v8_sQTL.tar). 
+- concat_sQTLs.sh concatenates GTEx sQTL data among 49 tissues from [here](https://storage.googleapis.com/gtex_analysis_v8/single_tissue_qtl_data/GTEx_Analysis_v8_sQTL.tar). 
 
 - get_1KG_sample_names.sh retrieves sample names from the 1KG VCF.
 
