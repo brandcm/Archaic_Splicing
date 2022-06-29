@@ -33,7 +33,7 @@ bcftools index -t subset_filtered_combined_archaic_indels.vcf.gz
 echo "subset indexing complete"
 
 # concatenate SNV files
-bcftools concat_subset_filtered_combined_archaic_chr*.vcf.gz -O z -o concat_subset_filtered_combined_archaic_snvs_2.vcf.gz  
+bcftools concat concat_subset_filtered_combined_archaic_chr*.vcf.gz -O z -o concat_subset_filtered_combined_archaic_snvs_2.vcf.gz  
 bcftools sort concat_subset_filtered_combined_archaic_snvs_2.vcf.gz -O z -o concat_subset_filtered_combined_archaic_snvs.vcf.gz
 echo "merge and sort complete"
 rm concat_subset_filtered_combined_archaic_snvs_2.vcf.gz
