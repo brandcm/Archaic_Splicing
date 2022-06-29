@@ -1,4 +1,4 @@
-This repository houses scripts that generate additional information for both splice altering and non-splice altering variants among four archaic hominins.
+This directory houses scripts that generate additional information for both splice altering and non-splice altering variants among four archaic hominins.
 
 - calculate_non_ASW_AFR_allele_frequencies.sh retrieves information needed to recalculate the allele frequency for the 1KG superpopulation without the ASW (African Ancestry in Southwest US). Individuals in this population have higher proportions of non-African admixture than the other African populations so we recalculate this frequency to capture allele frequencies for populations sampled directly from Africa.
 
