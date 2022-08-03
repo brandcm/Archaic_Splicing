@@ -1,0 +1,1 @@
+This directory contains data files used as inputs for analysis as well as the outputs from several analyses. Due to space constraints, a handful of files are absent here. These mostly include large data files such as VCFs. I have attempted to note this where possible but please do not hesitate to reach out with any questions.
