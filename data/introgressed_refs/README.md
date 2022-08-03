@@ -1,0 +1,1 @@
+This directory contains a file with SpliceAI annotations for all variants (non-SAVs and SAVs) with an introgressed reference allele per Vernot et al. 2016. The VCFs used as inputs for SpliceAI and the output VCFs are not included here.
