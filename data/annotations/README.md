@@ -1,1 +1,1 @@
-
+This directory contains annotation files primarily used early in the analysis pipeline; however, a handful are used in the analysis Jupyter notebook. There are a number of large files missing from this directory such as the GENCODE gff, the gnomAD file, and the phyloP file.
