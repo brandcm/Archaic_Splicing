@@ -11,3 +11,5 @@ This repository contains data used in the gene enrichment analysis.
 - empiric_FDR contains files with a subset (10%) of the empirically generated null distributions for each term with >= 1 observation per ontology per gene set used to calculate a FDR-corrected p-value threshold.
 
 - observed contains files indicating which genes per term per ontology are present in each of the eight gene sets.
+
+The full enrichment results can be found in File S2 in the manuscript directory.
