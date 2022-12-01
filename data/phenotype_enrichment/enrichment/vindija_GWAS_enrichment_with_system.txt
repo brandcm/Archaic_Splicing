@@ -1,0 +1,475 @@
+label	observed	mean_expected	enrichment	p_value	system
+GWAS: Pancreatic ductal adenocarcinoma	3	0.081	37.03703703703704	9.999000099990002e-05	endocrine
+GWAS: Blood metabolite levels	8	1.2882	6.210215804999224	0.0001999800019998	metabolic
+GWAS: Lead levels in blood	4	0.5337	7.494847292486416	0.0020997900209979	other
+GWAS: Intrinsic epigenetic age acceleration	2	0.1349	14.825796886582657	0.0075992400759924	other
+GWAS: Plateletcrit	9	3.4263	2.6267402153926978	0.0083991600839916	hematologic
+GWAS: Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS-TEN)	1	0.0087	114.9425287356322	0.0087991200879912	integumentary
+GWAS: Urate levels in obese individuals	5	1.2753	3.920646122480985	0.0094990500949905	metabolic
+GWAS: Delta-5 desaturase activity response to n3-polyunsaturated fat supplement	1	0.0105	95.23809523809524	0.0104989501049895	other
+GWAS: Subjective response to lithium treatment	2	0.188	10.638297872340424	0.0144985501449855	other
+GWAS: Crohn's disease (time to surgery)	1	0.0156	64.1025641025641	0.0155984401559844	immune
+GWAS: Optic disc area	3	0.5454	5.5005500550055	0.0164983501649835	nervous
+GWAS: Suicide risk	2	0.2139	9.350163627863488	0.016998300169983	behavior
+GWAS: Serum metabolite levels	3	0.5582	5.374417771408097	0.0194980501949805	metabolic
+GWAS: Type 1 diabetes	4	1.0144	3.943217665615142	0.01999800019998	metabolic
+GWAS: Inflammatory bowel disease	11	5.2299	2.1032906938947207	0.0205979402059794	digestive
+GWAS: Egg allergy (maternal genetic effects)	1	0.0229	43.66812227074236	0.0225977402259774	immune
+GWAS: Ticagrelor levels in individuals with acute coronary syndromes treated with ticagrelor	1	0.0253	39.52569169960474	0.0250974902509749	hematologic
+GWAS: Celiac disease or Rheumatoid arthritis	2	0.2636	7.587253414264036	0.0288971102889711	digestive
+GWAS: Chronic hepatitis B infection	1	0.0324	30.8641975308642	0.031996800319968	immune
+GWAS: Ulcerative colitis	8	3.6281	2.205010887241256	0.0325967403259674	digestive
+GWAS: Idiopathic membranous nephropathy	1	0.0333	30.030030030030023	0.0330966903309669	urinary
+GWAS: Circulating phylloquinone levels	1	0.0366	27.3224043715847	0.0362963703629637	other
+GWAS: Glioblastoma (age-stratified)	1	0.0404	24.752475247524757	0.0393960603939606	nervous
+GWAS: EGFR mutation-positive lung adenocarcinoma	1	0.0405	24.69135802469136	0.0398960103989601	respiratory
+GWAS: LDL cholesterol	5	1.9083	2.62013310276162	0.0418958104189581	metabolic
+GWAS: Advanced age-related macular degeneration	3	0.782	3.836317135549872	0.0421957804219578	nervous
+GWAS: Factor VII	1	0.0447	22.371364653243848	0.0435956404359564	hematologic
+GWAS: Cerebrospinal fluid levels of Alzheimer's disease-related proteins	1	0.048	20.83333333333333	0.0463953604639536	nervous
+GWAS: Melanoma	3	0.8088	3.70919881305638	0.0470952904709529	integumentary
+GWAS: Resting metabolic rate	1	0.05	20.0	0.0490950904909509	metabolic
+GWAS: Response to antineoplastic agents	1	0.0503	19.880715705765407	0.0493950604939506	other
+GWAS: Sitting height ratio	2	0.3551	5.632216277105041	0.0495950404959504	skeletal
+GWAS: Testicular germ cell cancer	1	0.054	18.51851851851852	0.0528947105289471	reproductive
+GWAS: Food allergy (parent-of-origin effect)	1	0.0542	18.45018450184502	0.0531946805319468	immune
+GWAS: Corneal astigmatism	4	1.4207	2.815513479270782	0.0537946205379462	nervous
+GWAS: Metabolic traits	2	0.3743	5.343307507347047	0.0538946105389461	metabolic
+GWAS: Psoriasis	3	0.8489	3.5339851572623395	0.0541945805419458	integumentary
+GWAS: Serum prostate-specific antigen levels	1	0.0562	17.793594306049823	0.0547945205479452	reproductive
+GWAS: Blood metabolite ratios	2	0.3987	5.016302984700276	0.0592940705929407	metabolic
+GWAS: Intraocular pressure	12	7.1812	1.6710299114354148	0.0617938206179382	nervous
+GWAS: Pancreatic cancer	5	2.1188	2.359826316783085	0.0643935606439356	endocrine
+GWAS: Lipoprotein-associated phospholipase A2 activity change in response to statin therapy	1	0.0691	14.47178002894356	0.0664933506649335	metabolic
+GWAS: Axial length	2	0.4091	4.888780249327793	0.0672932706729327	nervous
+GWAS: Pubertal anthropometrics	2	0.4216	4.743833017077799	0.0673932606739326	skeletal
+GWAS: Breast Cancer in BRCA1 mutation carriers	1	0.0711	14.064697609001406	0.0690930906909309	reproductive
+GWAS: Rhegmatogenous retinal detachment	1	0.0724	13.812154696132596	0.0700929907009299	nervous
+GWAS: Hematological and biochemical traits	2	0.4595	4.352557127312296	0.0762923707629237	hematologic
+GWAS: Adult asthma	2	0.4508	4.436557231588288	0.0767923207679232	respiratory
+GWAS: Iron status biomarkers (total iron binding capacity)	2	0.4576	4.370629370629371	0.0782921707829217	other
+GWAS: Low density lipoprotein cholesterol levels	2	0.4616	4.332755632582322	0.0786921307869213	metabolic
+GWAS: Gallstone disease	2	0.4587	4.360148245040332	0.0792920707929207	digestive
+GWAS: Alcoholic chronic pancreatitis	3	1.0051	2.984777634066262	0.0823917608239176	endocrine
+GWAS: Esophageal cancer (squamous cell)	1	0.0855	11.695906432748536	0.082991700829917	digestive
+GWAS: Pulmonary function in asthmatics	1	0.0858	11.655011655011656	0.0833916608339166	respiratory
+GWAS: Response to serotonin reuptake inhibitors in MDD (plasma drug and metabolite levels)	1	0.0907	11.025358324145534	0.086991300869913	other
+GWAS: Apolipoprotein A1 levels	1	0.094	10.638297872340424	0.0897910208979102	metabolic
+GWAS: Esophageal adenocarcinoma	1	0.0944	10.593220338983052	0.0905909409059094	digestive
+GWAS: Plasma trimethylamine N-oxide levels	1	0.0953	10.493179433368311	0.0910908909109089	other
+GWAS: Pursuit maintenance gain in psychotic disorders	1	0.0995	10.050251256281406	0.0955904409559044	skeletal muscle
+GWAS: Corticobasal degeneration	1	0.1023	9.775171065493646	0.0980901909809019	nervous
+GWAS: Adverse response to chemotherapy (neutropenia/leucopenia) (docetaxel)	1	0.1038	9.633911368015411	0.0984901509849015	other
+GWAS: Total cholesterol levels in HDL	1	0.1048	9.541984732824426	0.0992900709929007	metabolic
+GWAS: Height	13	8.6823	1.4972991027723068	0.1034896510348965	skeletal
+GWAS: LDL cholesterol change in response to fenofibrate in statin-treated type 2 diabetes	1	0.1106	9.041591320072332	0.103989601039896	metabolic
+GWAS: Iris characteristics	1	0.111	9.00900900900901	0.1051894810518948	integumentary
+GWAS: Chronic lymphocytic leukemia	2	0.5542	3.6088054853843374	0.1055894410558944	lymphatic
+GWAS: Phospholipid levels in medium HDL	1	0.1146	8.726003490401396	0.1077892210778922	metabolic
+GWAS: Peanut allergy (parent-of-origin effect)	1	0.1143	8.748906386701663	0.107989201079892	immune
+GWAS: Asthma (moderate or severe)	2	0.5606	3.567606136282554	0.1115888411158884	respiratory
+GWAS: Crohn's disease	9	5.5484	1.6220892509552305	0.1126887311268873	immune
+GWAS: Glaucoma	3	1.1656	2.573781743308168	0.1134886511348865	nervous
+GWAS: Mean arterial pressure x alcohol consumption (light vs heavy) interaction (2df test)	2	0.5696	3.51123595505618	0.1135886411358864	cardiovascular
+GWAS: Disrupted circadian rhythm (low relative amplitude of rest-activity cycles)	1	0.1222	8.183306055646481	0.1142885711428857	behavior
+GWAS: Abdominal aortic aneurysm	1	0.1236	8.090614886731391	0.1157884211578842	cardiovascular
+GWAS: Visceral adipose tissue	1	0.1222	8.183306055646481	0.1165883411658834	metabolic
+GWAS: Blood and toenail selenium levels	1	0.1254	7.974481658692184	0.1181881811818818	other
+GWAS: Left superior temporal gyrus thickness (schizophrenia interaction)	1	0.1284	7.788161993769471	0.1195880411958804	nervous
+GWAS: Atopic march	1	0.1272	7.861635220125786	0.1198880111988801	immune
+GWAS: Nasopharyngeal carcinoma	1	0.1286	7.776049766718508	0.1198880111988801	other
+GWAS: Response to quetiapine in schizophrenia	1	0.13	7.692307692307692	0.1223877612238776	other
+GWAS: Alzheimer's disease (APOE e4 interaction)	1	0.1297	7.710100231303007	0.122987701229877	nervous
+GWAS: Glioblastoma	1	0.1331	7.513148009015778	0.1242875712428757	nervous
+GWAS: Interstitial lung disease	1	0.1376	7.267441860465116	0.1297870212978702	respiratory
+GWAS: Staphylococcus aureus nasal carriage (persistent)	1	0.1394	7.173601147776184	0.12998700129987	immune
+GWAS: Endometrial endometrioid carcinoma	1	0.1392	7.183908045977012	0.1307869213078692	reproductive
+GWAS: Reading disability or specific language impairment (pleiotropy)	1	0.1409	7.097232079488999	0.132986701329867	other
+GWAS: Cancer (pleiotropy)	1	0.1417	7.057163020465773	0.1333866613338666	other
+GWAS: Obsessive-compulsive disorder or autism spectrum disorder	1	0.1447	6.91085003455425	0.1353864613538646	behavior
+GWAS: Autism spectrum disorder or schizophrenia	8	5.0617	1.5804966710788866	0.1405859414058594	behavior
+GWAS: Response to antipsychotic therapy (extrapyramidal side effects)	1	0.1505	6.644518272425249	0.1418858114188581	other
+GWAS: Neonatal lupus	1	0.154	6.493506493506493	0.1436856314368563	immune
+GWAS: Bulimia nervosa	2	0.6658	3.00390507659958	0.1453854614538546	behavior
+GWAS: Ossification of the posterior longitudinal ligament of the spine	1	0.156	6.410256410256411	0.1460853914608539	skeletal
+GWAS: Anthropometric traits	1	0.1579	6.333122229259025	0.1475852414758524	skeletal
+GWAS: Response to fenofibrate (HDL cholesterol levels)	2	0.6854	2.918004085205719	0.148985101489851	other
+GWAS: Mean diameter of HDL particles	1	0.1636	6.112469437652812	0.1502849715028497	metabolic
+GWAS: Triglycerides	4	2.0353	1.9653122389819684	0.1507849215078492	metabolic
+GWAS: Drug-induced Stevens-Johnson syndrome or toxic epidermal necrolysis (SJS/TEN)	1	0.1634	6.119951040391677	0.1510848915108489	other
+GWAS: Celiac disease	3	1.3443	2.231644722160232	0.1512848715128487	digestive
+GWAS: Amyotrophic lateral sclerosis in C9orf72 mutation negative individuals	1	0.1673	5.977286312014345	0.1540845915408459	nervous
+GWAS: Eosinophil counts	4	2.0464	1.954652071931196	0.1550844915508449	immune
+GWAS: Total cholesterol levels	4	2.0636	1.938360147315371	0.1568843115688431	metabolic
+GWAS: Premature menopause in childhood cancer survivors	1	0.1688	5.924170616113744	0.1575842415758424	other
+GWAS: HDL cholesterol change in response to fenofibrate in statin-treated type 2 diabetes	1	0.1742	5.740528128587831	0.1591840815918408	metabolic
+GWAS: Reticulocyte count	4	2.1167	1.889734019936694	0.1620837916208379	immune
+GWAS: Cancer	1	0.1765	5.6657223796034	0.1626837316268373	other
+GWAS: Chronic obstructive pulmonary disease (moderate to severe)	1	0.1758	5.688282138794084	0.1630836916308369	respiratory
+GWAS: Schizophrenia, bipolar disorder and depression (combined)	1	0.1805	5.54016620498615	0.1647835216478352	behavior
+GWAS: Large HDL particle concentration	1	0.1842	5.4288816503800215	0.1673832616738326	metabolic
+GWAS: Menopause (age at onset)	2	0.7389	2.706726214643389	0.1682831716828317	reproductive
+GWAS: Staphylococcus aureus nasal carriage (intermittent)	1	0.1835	5.449591280653952	0.1684831516848315	immune
+GWAS: Echocardiographic traits	1	0.1853	5.396654074473826	0.1691830816918308	cardiovascular
+GWAS: Hip minimal joint space width	1	0.1842	5.4288816503800215	0.1691830816918308	skeletal
+GWAS: Cervical artery dissection	1	0.1832	5.458515283842795	0.1702829717028297	cardiovascular
+GWAS: Tourette syndrome	1	0.1888	5.296610169491526	0.173982601739826	behavior
+GWAS: Response to bupropion and depression	1	0.1924	5.197505197505198	0.1750824917508249	other
+GWAS: Phospholipid levels in large HDL	1	0.195	5.128205128205128	0.1758824117588241	metabolic
+GWAS: Glaucoma (primary open-angle)	4	2.1835	1.8319212273872223	0.1767823217678232	nervous
+GWAS: Alzheimer's disease	3	1.4434	2.078425938755716	0.1782821717828217	nervous
+GWAS: Smooth-surface caries	2	0.787	2.541296060991105	0.1841815818418158	skeletal
+GWAS: Lymphocyte percentage of white cells	3	1.4838	2.0218358269308534	0.1845815418458154	lymphatic
+GWAS: Bipolar disorder with mood-incongruent psychosis	1	0.2035	4.914004914004915	0.1867813218678132	behavior
+GWAS: Amyotrophic lateral sclerosis	2	0.79	2.531645569620253	0.1874812518748125	nervous
+GWAS: Cardiometabolic and hematological traits	1	0.2093	4.777830864787386	0.18998100189981	cardiovascular
+GWAS: Serum bilirubin levels x sex interaction in metabolic syndrome	1	0.2098	4.766444232602479	0.1901809819018098	digestive
+GWAS: Bacteremia	1	0.2107	4.746084480303749	0.1903809619038096	immune
+GWAS: Bladder cancer	1	0.2125	4.705882352941177	0.1934806519348065	urinary
+GWAS: Immune reponse to smallpox (secreted IL-1beta)	1	0.2198	4.549590536851683	0.1960803919608039	immune
+GWAS: Platelet distribution width	5	3.0982	1.61384029436447	0.1990800919908009	hematologic
+GWAS: Red vs. brown/black hair color	1	0.2229	4.486316733961418	0.2000799920007999	integumentary
+GWAS: Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	2	0.8193	2.4411082631514707	0.2011798820117988	endocrine
+GWAS: Alopecia areata	2	0.8327	2.401825387294344	0.2016798320167983	integumentary
+GWAS: Obese vs. thin	1	0.2256	4.432624113475177	0.2025797420257974	metabolic
+GWAS: Lymphocyte counts	4	2.3376	1.7111567419575633	0.2076792320767923	lymphatic
+GWAS: Testicular germ cell tumor	2	0.8515	2.3487962419260127	0.2110788921107889	reproductive
+GWAS: Systolic blood pressure x alcohol consumption interaction (2df test)	3	1.5912	1.885369532428356	0.2125787421257874	cardiovascular
+GWAS: Chronic inflammatory diseases (pleiotropy)	3	1.5888	1.8882175226586104	0.2135786421357864	immune
+GWAS: Platelet count	6	4.0417	1.4845238389786477	0.2180781921807819	hematologic
+GWAS: Glioma	1	0.2437	4.1034058268362745	0.2181781821817818	nervous
+GWAS: IgA nephropathy	1	0.2468	4.051863857374392	0.2186781321867813	immune
+GWAS: Response to antidepressants (symptom remission)	1	0.2489	4.017677782241864	0.2221777822217778	other
+GWAS: High light scatter reticulocyte count	4	2.4013	1.6657643776287845	0.2233776622337766	metabolic
+GWAS: Iron status biomarkers	1	0.2531	3.951007506914263	0.2237776222377762	other
+GWAS: Bone mineral density (femoral neck) in inflammatory bowel disease	1	0.2537	3.941663381947182	0.2263773622637736	skeletal
+GWAS: Pelvic organ prolapse (moderate/severe)	2	0.9011	2.219509488403063	0.2284771522847715	skeletal muscle
+GWAS: Red blood cell traits	2	0.9012	2.2192632046160674	0.2300769923007699	hematologic
+GWAS: Serum albumin level	1	0.262	3.8167938931297702	0.2310768923107689	other
+GWAS: Lung adenocarcinoma	3	1.655	1.8126888217522656	0.2313768623137686	respiratory
+GWAS: Prudent dietary pattern	2	0.9185	2.1774632553075666	0.2341765823417658	behavior
+GWAS: ALT levels after remission induction therapy in actute lymphoblastic leukemia (ALL)	2	0.9241	2.1642679363705226	0.2357764223577642	other
+GWAS: Urate levels in overweight individuals	2	0.9241	2.1642679363705226	0.2366763323667633	metabolic
+GWAS: Response to n-3 LC-PUFA supplementation (change in triglyceride levels)	1	0.2747	3.6403349108117946	0.2403759624037596	other
+GWAS: Cholangiocarcinoma in primary sclerosing cholangitis (time to event)	1	0.2719	3.677822728944465	0.2406759324067593	digestive
+GWAS: Cerebrospinal T-tau levels	2	0.9767	2.047711682195147	0.2527747225277472	nervous
+GWAS: Mean arterial pressure x alcohol consumption interaction (2df test)	2	0.9707	2.060368806016277	0.2543745625437456	cardiovascular
+GWAS: Psoriatic arthritis	1	0.2978	3.3579583613163195	0.2568743125687431	integumentary
+GWAS: Hyperthyroidism	1	0.2954	3.3852403520649967	0.2581741825817418	endocrine
+GWAS: Body mass index (adult)	1	0.3013	3.318951211417192	0.2608739126087391	metabolic
+GWAS: Thyroid cancer	1	0.3033	3.297065611605671	0.2618738126187381	endocrine
+GWAS: Liver enzyme levels (alkaline phosphatase)	1	0.306	3.2679738562091503	0.2626737326267373	other
+GWAS: Sex hormone-binding globulin levels	1	0.3061	3.2669062397909183	0.2632736726327367	endocrine
+GWAS: Periodontal microbiota	2	0.9976	2.0048115477145148	0.2637736226377362	immune
+GWAS: Macular thickness	5	3.4452	1.4512945547428306	0.2650734926507349	nervous
+GWAS: Squamous cell lung carcinoma	3	1.7975	1.6689847009735743	0.2671732826717328	respiratory
+GWAS: Iris color (L* coordinate)	1	0.3128	3.19693094629156	0.2695730426957304	integumentary
+GWAS: Huntington's disease progression	2	1.0267	1.9479887016655304	0.2732726727327267	nervous
+GWAS: Prostate-specific antigen levels	1	0.3204	3.121098626716604	0.2756724327567243	reproductive
+GWAS: Response to serotonin reuptake inhibitors in major depressive disorder	1	0.3253	3.0740854595757763	0.2772722727727227	other
+GWAS: Preeclampsia	1	0.3293	3.0367446097783177	0.2801719828017198	reproductive
+GWAS: PR segment	1	0.329	3.03951367781155	0.2818718128187181	cardiovascular
+GWAS: Response to fenofibrate (LDL cholesterol levels)	1	0.336	2.976190476190476	0.2856714328567143	other
+GWAS: Logical memory (delayed recall) in mild cognitive impairment	1	0.3414	2.9291154071470418	0.2874712528747125	nervous
+GWAS: Dimensional psychopathology (Cognitive)	1	0.3417	2.9265437518290898	0.287971202879712	behavior
+GWAS: Essential tremor	1	0.3378	2.960331557134399	0.2892710728927107	nervous
+GWAS: Cytomegalovirus antibody response	1	0.3458	2.891844997108155	0.2922707729227077	immune
+GWAS: PR interval in Tripanosoma cruzi seropositivity	1	0.3504	2.853881278538813	0.2970702929707029	cardiovascular
+GWAS: Response to anti-retroviral therapy (ddI/d4T) in HIV-1 (Grade 1 peripheral neuropathy)	1	0.3548	2.818489289740699	0.2984701529847015	other
+GWAS: Midgestational circulating levels of PBDEs (fetal genetic effect)	1	0.3683	2.7151778441487915	0.3091690830916908	reproductive
+GWAS: Waist circumference adjusted for BMI in non-smokers	2	1.1333	1.7647577869937352	0.3107689231076892	skeletal
+GWAS: Inflammatory biomarkers	1	0.3795	2.635046113306983	0.3122687731226877	immune
+GWAS: Vascular brain injury	1	0.3768	2.653927813163482	0.3156684331566843	cardiovascular
+GWAS: Retinopathy in non-diabetics	1	0.3794	2.635740643120717	0.3158684131586841	nervous
+GWAS: Aspartate aminotransferase levels	1	0.3773	2.65041081367612	0.3183681631836816	other
+GWAS: Bone mineral density (total hip)	1	0.386	2.5906735751295336	0.3187681231876812	skeletal
+GWAS: Eosinophil percentage of granulocytes	3	1.9831	1.5127830164893348	0.3204679532046795	immune
+GWAS: D-dimer levels	1	0.3871	2.583311805734952	0.3210678932106789	other
+GWAS: Glucocorticoid-induced osteonecrosis (age 10 years and older)	1	0.3965	2.522068095838588	0.324967503249675	other
+GWAS: Cerebral amyloid deposition (PET imaging)	1	0.3916	2.553626149131767	0.3250674932506749	nervous
+GWAS: Barrett's esophagus  or Esophageal adenocarcinoma	1	0.3941	2.537427048972342	0.3253674632536746	digestive
+GWAS: Non-alcoholic fatty liver disease histology (lobular)	1	0.3974	2.5163563160543534	0.3264673532646735	digestive
+GWAS: Eosinophil percentage of white cells	3	2.0168	1.4875049583498612	0.3273672632736726	immune
+GWAS: Neutrophil percentage of white cells	2	1.1793	1.6959213092512506	0.3286671332866713	lymphatic
+GWAS: Urinary metabolite concentrations in chronic kidney disease	1	0.3995	2.503128911138924	0.3316668333166683	metabolic
+GWAS: Problematic alcohol use in trauma-exposed individuals	1	0.4048	2.4703557312252964	0.3332666733326667	behavior
+GWAS: Breast cancer (estrogen-receptor negative)	1	0.4036	2.4777006937561943	0.3335666433356664	reproductive
+GWAS: Feeling nervous	2	1.1912	1.6789791806581598	0.3337666233376662	behavior
+GWAS: Oppositional defiant disorder dimensions in attention-deficit hyperactivity disorder	1	0.4003	2.498126405196103	0.333966603339666	behavior
+GWAS: Epithelial ovarian cancer	1	0.4194	2.384358607534573	0.3392660733926607	reproductive
+GWAS: High light scatter reticulocyte percentage of red cells	3	2.0773	1.4441823520916572	0.3397660233976602	metabolic
+GWAS: Interferon alpha levels in systemic lupus erythematosus	1	0.4196	2.3832221163012397	0.33996600339966	immune
+GWAS: Plasma amyloid beta peptide concentrations (ABx-40)	1	0.4253	2.351281448389372	0.3438656134386561	nervous
+GWAS: Diastolic blood pressure x alcohol consumption (light vs heavy) interaction (2df test)	1	0.4188	2.387774594078319	0.3446655334466553	cardiovascular
+GWAS: Copper levels	2	1.2174	1.6428454082470838	0.3458654134586541	other
+GWAS: Mitochondrial DNA levels	2	1.2304	1.6254876462938883	0.3458654134586541	other
+GWAS: Airflow obstruction	2	1.2276	1.6291951775822744	0.34996500349965	respiratory
+GWAS: Systolic blood pressure x smoking status (current vs non-current) interaction (1df test)	1	0.4359	2.2941041523285155	0.3515648435156484	cardiovascular
+GWAS: Response to taxane treatment (docetaxel)	1	0.4336	2.306273062730628	0.3535646435356464	other
+GWAS: Lung function (FEV1)	2	1.2395	1.6135538523598223	0.3537646235376462	respiratory
+GWAS: Idiopathic pulmonary fibrosis	1	0.4474	2.235136343316942	0.3612638736126387	respiratory
+GWAS: Metabolite levels (Dihydroxy docosatrienoic acid)	1	0.4538	2.203613926840018	0.3632636736326367	metabolic
+GWAS: Response to SSRI (symptom remission)	1	0.4487	2.2286605749944286	0.3656634336566343	other
+GWAS: Systemic lupus erythematosus	6	4.8918	1.2265423770391268	0.3660633936606339	immune
+GWAS: Pulmonary function	2	1.2976	1.5413070283600492	0.371962803719628	respiratory
+GWAS: Atopic dermatitis	1	0.4642	2.154243860404998	0.3721627837216278	integumentary
+GWAS: Response to cognitive-behavioural therapy in anxiety disorder	1	0.4831	2.06996481059822	0.3810618938106189	other
+GWAS: Alcohol dependence	2	1.3252	1.5092061575611229	0.3812618738126187	behavior
+GWAS: Pursuit maintenance gain	4	3.1218	1.2813120635530784	0.3833616638336166	skeletal muscle
+GWAS: Waist circumference adjusted for BMI (joint analysis main effects and smoking interaction)	2	1.3372	1.4956625785222857	0.383961603839616	skeletal
+GWAS: C-reactive protein levels	1	0.4938	2.025111381125962	0.3867613238676132	immune
+GWAS: Non-glioblastoma glioma	1	0.4904	2.039151712887439	0.3871612838716128	nervous
+GWAS: Ankylosing spondylitis	1	0.4819	2.0751193193608635	0.3882611738826117	skeletal
+GWAS: Body mass index in physically inactive individuals	1	0.4966	2.013693113169553	0.3902609739026097	metabolic
+GWAS: Multiple myeloma	1	0.4926	2.0300446609825418	0.3915608439156084	immune
+GWAS: Juvenile idiopathic arthritis (oligoarticular or rheumatoid factor-negative polyarticular)	1	0.5056	1.9778481012658229	0.3992600739926007	immune
+GWAS: Neutrophil count	3	2.2718	1.3205387798221675	0.3995600439956004	lymphatic
+GWAS: Waist-to-hip ratio adjusted for BMI (age >50)	2	1.3798	1.4494854326714015	0.3997600239976002	skeletal
+GWAS: Reticulocyte fraction of red cells	3	2.3015	1.303497718878992	0.4023597640235976	immune
+GWAS: Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	1	0.5127	1.9504583577140624	0.4027597240275972	other
+GWAS: Chromium levels	1	0.5198	1.923816852635629	0.4031596840315968	other
+GWAS: Prostate cancer	4	3.2302	1.2383134171258745	0.4035596440355964	reproductive
+GWAS: Diastolic blood pressure x alcohol consumption interaction (2df test)	2	1.3919	1.4368848336805806	0.4041595840415958	cardiovascular
+GWAS: Diastolic blood pressure	14	12.8136	1.0925891240556909	0.4053594640535946	cardiovascular
+GWAS: Osteoarthritis (hip)	1	0.5165	1.936108422071636	0.405959404059594	skeletal
+GWAS: LDL cholesterol levels	1	0.5198	1.923816852635629	0.4098590140985901	metabolic
+GWAS: Blood protein levels	16	14.8011	1.0810007364317518	0.4105589441055894	other
+GWAS: Modified Stumvoll Insulin Sensitivity Index (BMI interaction)	1	0.5305	1.885014137606032	0.4108589141085891	metabolic
+GWAS: Microalbuminuria	1	0.5446	1.8362100624311424	0.4158584141585841	other
+GWAS: Waist circumference adjusted for BMI (adjusted for smoking behaviour)	2	1.4344	1.394311210262131	0.4163583641635836	skeletal
+GWAS: Iron status biomarkers (iron levels)	1	0.537	1.8621973929236495	0.4177582241775822	other
+GWAS: Acne (severe)	2	1.4379	1.3909173099659229	0.4182581741825817	integumentary
+GWAS: Protein quantitative trait loci	2	1.4481	1.3811200883916857	0.4224577542245775	other
+GWAS: Prostate cancer (SNP x SNP interaction)	2	1.4291	1.399482191589112	0.4228577142285771	reproductive
+GWAS: Metabolite levels  (X-11787)	1	0.5496	1.819505094614265	0.423957604239576	metabolic
+GWAS: Breast milk fatty acid composition (infant genotype effect)	1	0.562	1.779359430604982	0.4258574142585741	reproductive
+GWAS: Energy expenditure (24h)	1	0.5608	1.783166904422254	0.4283571642835716	behavior
+GWAS: Coronary artery disease	8	7.1996	1.1111728429357186	0.4288571142885711	cardiovascular
+GWAS: Cobalt levels	1	0.562	1.779359430604982	0.430956904309569	other
+GWAS: Breast milk fatty acid composition (maternal genotype effect)	1	0.585	1.7094017094017095	0.4395560443955604	reproductive
+GWAS: Obsessive-compulsive symptoms	1	0.5822	1.717622810030917	0.4404559544045595	behavior
+GWAS: QT interval	4	3.4209	1.1692829372387383	0.441955804419558	cardiovascular
+GWAS: Mean corpuscular volume	4	3.4022	1.175709834812768	0.4428557144285571	hematologic
+GWAS: Optic cup area	1	0.5907	1.6929067208396815	0.442955704429557	nervous
+GWAS: Hemoglobin levels	1	0.5775	1.7316017316017316	0.4447555244475552	hematologic
+GWAS: Response to lurasidone in schizophrenia	1	0.5892	1.697216564833673	0.4465553444655534	other
+GWAS: Gestational age at birth (maternal effect)	1	0.6067	1.6482610845557937	0.4468553144685531	reproductive
+GWAS: Heart rate response to exercise	1	0.5949	1.6809547823163558	0.446955304469553	cardiovascular
+GWAS: Colorectal cancer	3	2.4716	1.2137886389383394	0.4471552844715528	digestive
+GWAS: Dental caries	2	1.5113	1.3233639912657975	0.4476552344765523	skeletal
+GWAS: Electrocardiographic traits	1	0.5966	1.6761649346295675	0.4494550544945505	cardiovascular
+GWAS: Mercury levels	1	0.6027	1.6592002654720424	0.4525547445255474	other
+GWAS: Age-related macular degeneration	1	0.6025	1.6597510373443982	0.4546545345465453	nervous
+GWAS: Red blood cell count	4	3.5362	1.1311577399468355	0.4596540345965403	hematologic
+GWAS: Systolic blood pressure x smoking status (current vs non-current) interaction (2df test)	2	1.5813	1.2647821412761653	0.462953704629537	cardiovascular
+GWAS: Bone mineral density (femoral neck)	1	0.6329	1.5800284405119291	0.4656534346565343	skeletal
+GWAS: Mood instability	1	0.6211	1.6100466913540492	0.465953404659534	behavior
+GWAS: Selective IgA deficiency	1	0.621	1.6103059581320451	0.4661533846615338	immune
+GWAS: Response to selective serotonin reuptake inhibitors in depression	1	0.6229	1.6053941242575052	0.4664533546645335	other
+GWAS: Lung function (FVC)	2	1.5698	1.274047649382087	0.4675532446755324	respiratory
+GWAS: Heschl's gyrus morphology	1	0.6399	1.562744178777934	0.4698530146985301	nervous
+GWAS: QRS duration	2	1.5829	1.26350369574831	0.46995300469953	cardiovascular
+GWAS: Iron status biomarkers (transferrin saturation)	1	0.6554	1.5257857796765335	0.4818518148185181	other
+GWAS: Aortic root size	1	0.6594	1.5165301789505612	0.4850514948505149	cardiovascular
+GWAS: Basal cell carcinoma	1	0.6739	1.4838996883810651	0.4863513648635136	integumentary
+GWAS: Chronic obstructive pulmonary disease	1	0.667	1.4992503748125936	0.4877512248775122	respiratory
+GWAS: Childhood ear infection	1	0.6756	1.4801657785671996	0.4884511548845116	immune
+GWAS: PR interval	2	1.6281	1.2284257723727043	0.4885511448855114	cardiovascular
+GWAS: Coronary artery calcified atherosclerotic plaque (90 or 130 HU threshold) in type 2 diabetes	2	1.6429	1.2173595471422485	0.4906509349065093	cardiovascular
+GWAS: Tonsillectomy	1	0.667	1.4992503748125936	0.4910508949105089	lymphatic
+GWAS: Lung cancer in never smokers	1	0.6782	1.474491300501327	0.4913508649135086	respiratory
+GWAS: Brown vs. black hair color	1	0.6793	1.4721036360959812	0.4944505549445055	integumentary
+GWAS: Response to zileuton treatment in asthma (FEV1 change interaction)	1	0.6838	1.4624159110851127	0.4953504649535046	other
+GWAS: Pulse pressure	11	10.6048	1.037266143633072	0.4958504149585041	cardiovascular
+GWAS: Fibrinogen levels	1	0.6866	1.4564520827264784	0.4974502549745025	hematologic
+GWAS: Eyebrow thickness	1	0.6902	1.4488554042306576	0.5022497750224978	integumentary
+GWAS: Childhood body mass index	1	0.704	1.4204545454545456	0.5034496550344966	metabolic
+GWAS: Obesity (extreme)	1	0.7122	1.4040999719180003	0.5045495450454954	metabolic
+GWAS: Worry too long after an embarrassing experience	1	0.7022	1.4240956992309883	0.5045495450454954	behavior
+GWAS: Uric acid levels	1	0.7043	1.419849495953429	0.5049495050494951	metabolic
+GWAS: Nose morphology	1	0.7023	1.423892923252171	0.5062493750624938	skeletal
+GWAS: Initial alcohol sensitivity	1	0.7084	1.411631846414455	0.5090490950904909	other
+GWAS: Colorectal or endometrial cancer	1	0.7112	1.4060742407199098	0.5108489151084892	digestive
+GWAS: Waist-to-hip ratio adjusted for BMI in active individuals	1	0.7145	1.3995801259622114	0.5112488751124887	skeletal
+GWAS: Feeling guilty	1	0.7118	1.4048890137679124	0.5117488251174882	behavior
+GWAS: Systolic blood pressure x alcohol consumption (light vs heavy) interaction (2df test)	1	0.7291	1.3715539706487452	0.5153484651534846	cardiovascular
+GWAS: Hepcidin/ferritin ratio	1	0.7223	1.3844662882458811	0.5155484451554845	digestive
+GWAS: Body mass index (age>50)	1	0.7261	1.3772207684891888	0.5170482951704829	metabolic
+GWAS: Squamous cell carcinoma	1	0.7302	1.3694878115584772	0.5184481551844815	integumentary
+GWAS: Monobrow	2	1.7334	1.1538017768547364	0.5196480351964804	integumentary
+GWAS: Experiencing mood swings	2	1.7637	1.1339797017633384	0.5238476152384761	behavior
+GWAS: Response to fenofibrate (adiponectin levels)	1	0.7468	1.339046598821639	0.5248475152484752	other
+GWAS: Serum metabolite concentrations in chronic kidney disease	1	0.741	1.349527665317139	0.5253474652534746	urinary
+GWAS: Peanut allergy	1	0.7542	1.3259082471492971	0.5284471552844715	immune
+GWAS: Rheumatoid arthritis (ACPA-positive)	1	0.7419	1.3478905512872354	0.5295470452954705	immune
+GWAS: Monocyte percentage of white cells	2	1.7772	1.1253657438667568	0.531946805319468	immune
+GWAS: Cerebrospinal fluid t-tau:AB1-42 ratio	1	0.7586	1.3182177695755335	0.5353464653534646	nervous
+GWAS: Age at voice drop	1	0.7759	1.288825879623663	0.5428457154284572	endocrine
+GWAS: Myocardial infarction	1	0.7954	1.2572290671360322	0.5460453954604539	cardiovascular
+GWAS: Systemic sclerosis	1	0.7967	1.25517760763148	0.5488451154884512	other
+GWAS: Cognitive ability (MTAG)	2	1.8386	1.0877841836179702	0.5548445155484452	nervous
+GWAS: Joint mobility (Beighton score)	1	0.8184	1.2218963831867058	0.5580441955804419	skeletal
+GWAS: Seasonality and depression	1	0.8146	1.2275963663147558	0.5582441755824418	behavior
+GWAS: Takayasu arteritis	1	0.8235	1.214329083181542	0.563043695630437	cardiovascular
+GWAS: Knee osteoarthritis	1	0.8221	1.2163970319912418	0.5646435356464353	skeletal
+GWAS: Blond vs. brown/black hair color	3	2.9608	1.0132396649554174	0.5718428157184282	integumentary
+GWAS: Telomere length	1	0.8457	1.1824524062906467	0.5724427557244276	other
+GWAS: Breast cancer	4	4.0651	0.9839856338097464	0.5761423857614238	reproductive
+GWAS: Nicotine dependence	1	0.8637	1.157809424568716	0.5775422457754225	behavior
+GWAS: Serum uric acid levels	1	0.8617	1.160496692584426	0.5789421057894211	other
+GWAS: Systolic blood pressure (cigarette smoking interaction)	1	0.8817	1.1341726210729273	0.5803419658034197	cardiovascular
+GWAS: Non-albumin protein levels	1	0.8622	1.1598237067965669	0.5820417958204179	other
+GWAS: Sum eosinophil basophil counts	2	1.9857	1.007201490658206	0.5858414158584142	hematologic
+GWAS: Metabolite levels (Pyroglutamine)	1	0.8767	1.1406410402646288	0.585941405859414	metabolic
+GWAS: Serum total protein level	1	0.8845	1.1305822498586773	0.5866413358664133	other
+GWAS: Hippocampal atrophy	1	0.8834	1.131990038487661	0.5868413158684131	nervous
+GWAS: Lung cancer	2	1.9787	1.0107646434527722	0.587041295870413	respiratory
+GWAS: Cerebral amyloid deposition in APOEe4 non-carriers (PET imaging)	1	0.8847	1.1303266644060133	0.5880411958804119	nervous
+GWAS: Dialysis-related mortality	1	0.8781	1.1388224575788637	0.5887411258874112	other
+GWAS: Presence of antiphospholipid antibodies	1	0.8834	1.131990038487661	0.5896410358964104	other
+GWAS: Rheumatoid arthritis	3	3.0639	0.9791442279447764	0.5917408259174083	immune
+GWAS: Epstein-Barr virus copy number in lymphoblastoid cell lines	3	3.0678	0.9778994719342852	0.5932406759324068	immune
+GWAS: Allergic disease (asthma, hay fever or eczema)	2	1.981	1.0095911155981827	0.5941405859414058	immune
+GWAS: Serum thyroid-stimulating hormone levels	1	0.9046	1.105460977227504	0.5941405859414058	endocrine
+GWAS: Systolic blood pressure	13	13.5287	0.9609201179714236	0.5961403859614038	cardiovascular
+GWAS: Reaction time	1	0.9172	1.0902747492368077	0.6008399160083991	behavior
+GWAS: Glucose homeostasis traits	2	2.0209	0.9896580731357316	0.6014398560143985	metabolic
+GWAS: Asthma (childhood onset)	1	0.9359	1.0684902233144566	0.605039496050395	respiratory
+GWAS: Chronotype	1	0.9428	1.0606703436571914	0.6068393160683931	behavior
+GWAS: Cognitive ability	2	2.0501	0.9755621676991366	0.6101389861013898	nervous
+GWAS: Endometrial cancer	1	0.9519	1.0505305179115454	0.6139386061393861	reproductive
+GWAS: Body mass index (age <50)	1	0.9549	1.0472300764477955	0.6145385461453855	metabolic
+GWAS: Vertical cup-disc ratio	1	0.9649	1.0363768266141569	0.616938306169383	nervous
+GWAS: Hemoglobin	1	0.9407	1.0630381630700545	0.6178382161783822	hematologic
+GWAS: Response to fenofibrate (total cholesterol levels)	1	0.9771	1.0234367004400775	0.6197380261973803	other
+GWAS: Morning vs. evening chronotype	1	0.962	1.0395010395010396	0.6208379162083791	behavior
+GWAS: White blood cell count (basophil)	1	0.975	1.0256410256410258	0.621037896210379	immune
+GWAS: Adiponectin levels	1	0.9714	1.0294420424130122	0.6216378362163784	other
+GWAS: Response to bronchodilator in chronic obstructive pulmonary disease (change in FEV1)	1	0.9864	1.013787510137875	0.6305369463053695	other
+GWAS: Craniofacial microsomia	1	0.9894	1.0107135637760258	0.6355364463553644	skeletal
+GWAS: Waist circumference adjusted for body mass index	2	2.1659	0.9234036659125536	0.6375362463753624	skeletal
+GWAS: Diabetic kidney disease	1	1.0255	0.9751340809361286	0.6392360763923608	metabolic
+GWAS: Systolic blood pressure x smoking status (ever vs never) interaction (2df test)	1	1.0277	0.9730466089325678	0.6415358464153584	cardiovascular
+GWAS: Calcium levels	1	1.0286	0.9721952167995334	0.6452354764523548	other
+GWAS: Cholesterol, total	1	1.0372	0.9641342074816815	0.646935306469353	metabolic
+GWAS: Depression	2	2.233	0.8956560680698611	0.6484351564843516	behavior
+GWAS: Lung cancer in ever smokers	2	2.205	0.9070294784580498	0.6495350464953504	respiratory
+GWAS: Type 2 diabetes (age of onset)	1	1.0679	0.9364172675344132	0.6511348865113489	metabolic
+GWAS: Waist-to-hip ratio adjusted for BMI (joint analysis for main effect and physical activity interaction)	1	1.0428	0.9589566551591868	0.6525347465253475	skeletal
+GWAS: Urate levels	1	1.078	0.927643784786642	0.660933906609339	metabolic
+GWAS: Glycated hemoglobin levels	1	1.0852	0.9214891264283082	0.6637336266373363	metabolic
+GWAS: Lung function (FEV1/FVC)	2	2.294	0.8718395815170008	0.6679332066793321	respiratory
+GWAS: Refractive error	1	1.1146	0.897182845863987	0.6704329567043296	nervous
+GWAS: Manganese levels	1	1.1182	0.8942944017170452	0.6705329467053295	other
+GWAS: Feeling miserable	1	1.115	0.8968609865470852	0.672932706729327	behavior
+GWAS: Itch intensity from mosquito bite	1	1.1111	0.900009000090001	0.6747325267473253	immune
+GWAS: Mean arterial pressure	1	1.1231	0.8903926631644555	0.6765323467653235	cardiovascular
+GWAS: Hemoglobin concentration	2	2.3667	0.845058520302531	0.6785321467853215	hematologic
+GWAS: HDL cholesterol levels	1	1.1496	0.8698677800974253	0.6799320067993201	metabolic
+GWAS: Chronic kidney disease	1	1.1711	0.853898044573478	0.6879312068793121	urinary
+GWAS: Idiopathic dilated cardiomyopathy	1	1.1717	0.8534607834769993	0.689031096890311	cardiovascular
+GWAS: Mean platelet volume	3	3.5694	0.8404773911581779	0.6907309269073093	hematologic
+GWAS: Verbal declarative memory	1	1.1768	0.849762066621346	0.6916308369163083	nervous
+GWAS: Refractive astigmatism	2	2.3997	0.833437513022461	0.6931306869313069	nervous
+GWAS: Body mass index in physically active individuals	2	2.4192	0.8267195767195767	0.6985301469853015	metabolic
+GWAS: Feeling worry	1	1.1932	0.8380824673147838	0.7036296370362963	behavior
+GWAS: Late-onset Alzheimer's disease	1	1.2442	0.8037293039704227	0.7077292270772922	nervous
+GWAS: Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)	2	2.5473	0.7851450555490127	0.7211278872112789	skeletal
+GWAS: Body mass index (joint analysis main effects and physical activity interaction)	2	2.5442	0.7861017215627703	0.7245275472452755	metabolic
+GWAS: Waist circumference adjusted for BMI in active individuals	1	1.2894	0.7755545214828602	0.7262273772622738	skeletal
+GWAS: Hippocampal volume	1	1.3133	0.7614406457016676	0.7282271772822718	nervous
+GWAS: Diastolic blood pressure x smoking status (ever vs never) interaction (2df test)	1	1.3059	0.7657554177195803	0.7286271372862714	cardiovascular
+GWAS: Immature fraction of reticulocytes	1	1.2832	0.7793017456359103	0.732026797320268	hematologic
+GWAS: Hematocrit	2	2.6076	0.7669888019634913	0.7330266973302669	hematologic
+GWAS: Obsessive-compulsive disorder	1	1.3351	0.7490075649764063	0.7372262773722628	behavior
+GWAS: Resting-state electroencephalogram vigilance	1	1.3411	0.745656550592797	0.7390260973902609	nervous
+GWAS: Insulin resistance/response	1	1.3351	0.7490075649764063	0.7394260573942606	immune
+GWAS: Gut microbiota (functional units)	1	1.3935	0.7176175098672408	0.7449255074492551	digestive
+GWAS: Acute lymphoblastic leukemia (childhood)	1	1.3694	0.7302468234263181	0.7478252174782521	lymphatic
+GWAS: Waist circumference adjusted for BMI (joint analysis main effects and physical activity interaction)	1	1.3771	0.7261636772928618	0.7482251774822518	skeletal
+GWAS: Pulmonary function (smoking interaction)	1	1.4101	0.70916956244238	0.7501249875012499	respiratory
+GWAS: Mild influenza (H1N1) infection	1	1.4155	0.7064641469445426	0.7514248575142486	immune
+GWAS: White blood cell count	2	2.6788	0.7466029565477079	0.7528247175282472	immune
+GWAS: Creatinine levels	1	1.4086	0.7099247479767145	0.7532246775322468	other
+GWAS: Diastolic blood pressure x smoking status (current vs non-current) interaction (2df test)	1	1.3888	0.7200460829493087	0.7534246575342466	cardiovascular
+GWAS: Nickel levels	1	1.4034	0.7125552230297848	0.7549245075492451	other
+GWAS: Thiazide-induced adverse metabolic effects in hypertensive patients	1	1.435	0.6968641114982578	0.7635236476352365	other
+GWAS: Body mass index x sex x age interaction (4df test)	1	1.4567	0.686483146838745	0.7648235176482352	metabolic
+GWAS: Vitiligo	1	1.4599	0.6849784231796698	0.7672232776722328	integumentary
+GWAS: Mosquito bite size	2	2.7862	0.7178235589692054	0.7682231776822318	other
+GWAS: Resting heart rate	2	2.8113	0.7114146480276029	0.7716228377162284	cardiovascular
+GWAS: Sum neutrophil eosinophil counts	1	1.4793	0.675995403231258	0.773022697730227	hematologic
+GWAS: Diisocyanate-induced asthma	4	5.2821	0.7572745688267924	0.7738226177382261	respiratory
+GWAS: Bronchopulmonary dysplasia	1	1.4947	0.6690305746972637	0.7752224777522247	respiratory
+GWAS: Granulocyte count	1	1.5001	0.6666222251849877	0.7765223477652234	immune
+GWAS: Myeloid white cell count	1	1.5089	0.6627344423089668	0.7803219678032197	immune
+GWAS: Visceral adipose tissue/subcutaneous adipose tissue ratio	1	1.5457	0.6469560716827327	0.7806219378062194	metabolic
+GWAS: Central corneal thickness	1	1.522	0.657030223390276	0.7828217178282172	nervous
+GWAS: Heel bone mineral density	14	16.768	0.8349236641221374	0.7841215878412159	skeletal
+GWAS: Amyotrophic lateral sclerosis (sporadic)	4	5.39	0.7421150278293136	0.7852214778522147	nervous
+GWAS: Neutrophil percentage of granulocytes	1	1.6093	0.6213881811967936	0.7985201479852014	lymphatic
+GWAS: Sum basophil neutrophil counts	1	1.5923	0.6280223575959304	0.7999200079992	hematologic
+GWAS: Hip circumference	1	1.6225	0.6163328197226502	0.805019498050195	skeletal
+GWAS: Methadone dose in opioid dependence	1	1.6375	0.6106870229007634	0.8062193780621938	other
+GWAS: Multiple sclerosis	3	4.3656	0.6871907641561298	0.8095190480951905	nervous
+GWAS: Mean corpuscular hemoglobin	2	3.0746	0.6504911207962011	0.8128187181281872	hematologic
+GWAS: Paclitaxel disposition in epithelial ovarian cancer	1	1.651	0.6056935190793459	0.813018698130187	other
+GWAS: Nicotine dependence and major depression (severity of comorbidity)	1	1.6894	0.5919261276192731	0.8154184581541846	behavior
+GWAS: Granulocyte percentage of myeloid white cells	1	1.6821	0.5944949765174484	0.8188181181881812	immune
+GWAS: Educational attainment	1	1.7376	0.5755064456721916	0.8215178482151785	other
+GWAS: Metabolite levels	1	1.7219	0.5807538184563563	0.8232176782321767	metabolic
+GWAS: Emphysema imaging phenotypes	1	1.7353	0.5762692329856509	0.8248175182481752	respiratory
+GWAS: Uterine fibroids	1	1.7534	0.5703205201323144	0.8255174482551745	reproductive
+GWAS: Intelligence	1	1.7393	0.5749439429655608	0.8261173882611739	other
+GWAS: Nasopharyngeal carcinoma (SNP x SNP interaction)	2	3.1808	0.6287726358148893	0.8263173682631737	other
+GWAS: Anti-saccade response	1	1.7398	0.5747787101965743	0.8275172482751725	nervous
+GWAS: BMI in non-smokers	1	1.7858	0.5599731212901781	0.8278172182781722	metabolic
+GWAS: Cognitive decline (age-related)	1	1.7398	0.5747787101965743	0.82991700829917	nervous
+GWAS: Disease progression in age-related macular degeneration	1	1.7893	0.5588777734309507	0.8336166383361664	nervous
+GWAS: Hip circumference adjusted for BMI	1	1.8	0.5555555555555556	0.835016498350165	skeletal
+GWAS: Asthma	3	4.6651	0.6430730316606289	0.8449155084491551	respiratory
+GWAS: Post bronchodilator FEV1 in COPD	1	1.8602	0.5375766046661649	0.8452154784521548	other
+GWAS: Alzheimer's disease (late onset)	1	1.8619	0.5370857725978838	0.8465153484651535	nervous
+GWAS: Intelligence (MTAG)	5	7.2424	0.6903788799293052	0.8484151584841516	other
+GWAS: Familial squamous cell lung carcinoma	1	1.9296	0.5182421227197347	0.8523147685231477	respiratory
+GWAS: Monocyte count	1	1.9558	0.5112997238981491	0.859014098590141	immune
+GWAS: Diverticular disease	2	3.4454	0.5804841237592152	0.8613138686131386	digestive
+GWAS: HDL cholesterol	2	3.5631	0.5613089725239258	0.8668133186681332	metabolic
+GWAS: Post bronchodilator FEV1/FVC ratio in COPD	1	2.0722	0.4825789016504198	0.8687131286871312	other
+GWAS: Subcutaneous adipose tissue	1	2.0636	0.4845900368288428	0.8733126687331267	metabolic
+GWAS: Waist-to-hip ratio adjusted for body mass index	1	2.1471	0.4657444925713753	0.8778122187781222	skeletal
+GWAS: BMI (adjusted for smoking behaviour)	1	2.1331	0.4688012751394683	0.8798120187981202	metabolic
+GWAS: Major depressive disorder	3	5.095	0.5888125613346419	0.8798120187981202	behavior
+GWAS: Body mass index (joint analysis main effects and smoking interaction)	1	2.1368	0.4679895170348184	0.8802119788021198	metabolic
+GWAS: Cognitive function	1	2.1789	0.4589471751801368	0.8827117288271172	nervous
+GWAS: Waist-to-hip ratio adjusted for BMI	1	2.1646	0.4619791185438418	0.8855114488551145	skeletal
+GWAS: Blood pressure	1	2.2595	0.4425757911042265	0.8907109289071092	hematologic
+GWAS: Post bronchodilator FEV1	2	3.7924	0.5273705305347537	0.8919108089191081	other
+GWAS: Red cell distribution width	1	2.2113	0.4522226744448966	0.8933106689331067	hematologic
+GWAS: Immune response to smallpox vaccine (IL-6)	1	2.359	0.4239084357778719	0.9056094390560944	immune
+GWAS: Obesity	1	2.3726	0.4214785467419709	0.9058094190580942	metabolic
+GWAS: Cognitive decline rate in late mild cognitive impairment	1	2.4087	0.4151617054842861	0.9074092590740926	nervous
+GWAS: Allergic rhinitis	1	2.4372	0.4103069095683571	0.9112088791120888	immune
+GWAS: Coronary artery aneurysm in Kawasaki disease	1	2.3798	0.4202033784351626	0.9125087491250876	cardiovascular
+GWAS: Rosacea symptom severity	2	4.0328	0.4959333465582226	0.9126087391260874	integumentary
+GWAS: Schizophrenia	9	13.3135	0.6760055582679235	0.9131086891310868	behavior
+GWAS: Venous thromboembolism adjusted for sickle cell variant rs77121243-T	1	2.4519	0.4078469758146743	0.9147085291470852	hematologic
+GWAS: Hand grip strength	2	4.3507	0.4596961408508976	0.9285071492850716	skeletal muscle
+GWAS: Neuroticism	1	2.7055	0.3696174459434486	0.9331066893310668	behavior
+GWAS: Bipolar disorder	1	2.7349	0.365644082050532	0.9345065493450656	behavior
+GWAS: Night sleep phenotypes	5	8.9574	0.5581976912943488	0.9453054694530548	behavior
+GWAS: Loneliness	1	2.9406	0.3400666530640006	0.9474052594740526	behavior
+GWAS: Itch intensity from mosquito bite adjusted by bite size	1	3.1005	0.3225286244154169	0.9508049195080492	immune
+GWAS: Parkinson's disease	1	3.0391	0.3290447829949656	0.9511048895110488	nervous
+GWAS: Spherical equivalent or myopia (age of diagnosis)	2	5.0079	0.3993689969847641	0.9564043595640436	nervous
+GWAS: Type 2 diabetes	4	7.9752	0.5015548199418196	0.9583041695830417	metabolic
+GWAS: Longevity	1	3.484	0.2870264064293915	0.97010298970103	other
+GWAS: Monoclonal gammopathy of undetermined significance	1	3.701	0.2701972439881113	0.974002599740026	hematologic
+GWAS: General cognitive ability	2	5.6313	0.3551577788432511	0.975002499750025	nervous
+GWAS: Male-pattern baldness	1	3.6589	0.2733061849189647	0.9756024397560245	integumentary
+GWAS: Daytime sleep phenotypes	1	3.9552	0.2528317152103559	0.9804019598040196	behavior
+GWAS: Atrial fibrillation	1	4.3656	0.2290635880520432	0.987001299870013	cardiovascular
+GWAS: Obesity-related traits	12	21.6825	0.5534417156693185	0.9906009399060094	metabolic
+GWAS: Body mass index	10	19.1516	0.5221495854132292	0.9916008399160084	metabolic
+GWAS: Post bronchodilator FEV1/FVC ratio	2	7.6532	0.2613285945748184	0.9971002899710028	other
+GWAS: Menarche (age at onset)	1	6.6331	0.1507590719271532	0.9989001099890013	reproductive
