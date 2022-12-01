@@ -2,7 +2,7 @@
 ARRAY_IDS = range(1,11,1)
 JOIN_IDS = range(3,11,1)
 ONTS = ["GWAS","HPO"]
-SETS = ["archaic_specific","neanderthal","shared"]
+SETS = ["altai","archaic_specific","Browning_introgressed","chagyrskaya","denisovan","neanderthal","shared","Vernot_introgressed","vindija"]
 	
 # Tool paths
 python_path = "python3"
