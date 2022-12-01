@@ -1,7 +1,7 @@
 This directory contains data used in the spliceosome analysis.
 
-- all_spliceosome_variants.vep.gz is VEP output for the input file below. VEP was run with all default settings.
+- *_spliceosome_variants_for_VEP.txt.gz are input files to be run through Ensembl's VEP.
 
-- all_spliceosome_variants_for_VEP.txt.gz is the input file with archaic-specific variants that lie within major splicesome associated genes.
+- *_spliceosome_variants.txt.gz are the output files from VEP.
 
-- nonsynonymous_all_spliceosome_variants.txt.gz is a subset of the VEP output with only variants predicted to be missense mutations.
+Note that the archaic-specific files reflect archaic-specific variants, whereas the lineage-specific files include all variants present in that individual's genome. The former files were compared with the average number of missense variants in the 24 randomly sampled 1KG individuals.
