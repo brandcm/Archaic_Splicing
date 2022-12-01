@@ -11,3 +11,5 @@ This directory houses scripts that generate additional information for both spli
 - query_1KG_allele_frequencies.sh retrieves pre-calculated allele frequencies for archaic variants that are also present in 1KG.
 
 - subset_1KG.sh subsets variants in 1KG within GENCODE, Human Release 24 for hg38, gene bodies that also occur in the archaic hominins.
+
+- thousand_genomes_spliceosome_variants.sh subsets variants among 147 spliceosome associated genes in 24 randomly sampled 1KG individuals (1 per population).
