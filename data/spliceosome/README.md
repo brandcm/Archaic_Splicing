@@ -1,6 +1,6 @@
 This directory contains data used in the spliceosome analysis.
 
-- *_spliceosome_variants_for_VEP.txt.gz are input files to be run through Ensembl's VEP.
+- *_spliceosome_variants_for_VEP.txt.gz are input files that were run through Ensembl's VEP.
 
 - *_spliceosome_variants.txt.gz are the output files from VEP.
 
