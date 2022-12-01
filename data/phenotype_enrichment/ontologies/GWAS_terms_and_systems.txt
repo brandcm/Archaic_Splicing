@@ -1,0 +1,1738 @@
+GWAS_term	system
+GWAS: Beta2-Glycoprotein I plasma levels	hematologic
+"GWAS: 1,5-anhydroglucitol levels"	other
+GWAS: AIDS progression	immune
+GWAS: Abdominal aortic aneurysm	cardiovascular
+GWAS: Ability to confide in someone	behavior
+GWAS: Accelerated cognitive decline after conversion of MCI to Alzheimer's disease	nervous
+GWAS: Accelerometer-based physical activity measurement (average acceleration)	skeletal muscle
+GWAS: Acne (severe)	integumentary
+GWAS: Activated partial thromboplastin time	hematologic
+GWAS: Acute graft versus host disease in bone marrow transplantation (recipient effect)	other
+GWAS: Acute insulin response	metabolic
+GWAS: Acute lymphoblastic leukemia (B-cell precursor)	lymphatic
+GWAS: Acute lymphoblastic leukemia (childhood)	lymphatic
+GWAS: Acute lymphoblastic leukemia in childhood (B cell precursor)	lymphatic
+GWAS: Acute urticaria and angioedema (non-steroidal anti-inflammatory drug-induced)	other
+GWAS: Acylcarnitine levels	other
+GWAS: Adiponectin levels	other
+GWAS: Adiposity	metabolic
+GWAS: Adolescent idiopathic scoliosis	skeletal
+GWAS: Adult asthma	respiratory
+GWAS: Advanced age-related macular degeneration	nervous
+GWAS: Advanced glycation end-product levels	metabolic
+GWAS: Adverse response to chemotherapy (neutropenia/leucopenia) (all anthracycline-based drugs)	other
+GWAS: Adverse response to chemotherapy (neutropenia/leucopenia) (all antimetabolite drugs)	other
+GWAS: Adverse response to chemotherapy (neutropenia/leucopenia) (all antimicrotubule drugs)	other
+GWAS: Adverse response to chemotherapy (neutropenia/leucopenia) (all platinum-based drugs)	other
+GWAS: Adverse response to chemotherapy (neutropenia/leucopenia) (all topoisomerase inhibitors)	other
+GWAS: Adverse response to chemotherapy (neutropenia/leucopenia) (carboplatin)	other
+GWAS: Adverse response to chemotherapy (neutropenia/leucopenia) (cisplatin)	other
+GWAS: Adverse response to chemotherapy (neutropenia/leucopenia) (docetaxel)	other
+GWAS: Adverse response to chemotherapy (neutropenia/leucopenia) (epirubicin)	other
+GWAS: Adverse response to chemotherapy (neutropenia/leucopenia) (gemcitabine)	other
+GWAS: Adverse response to chemotherapy (neutropenia/leucopenia) (paclitaxel + carboplatin)	other
+GWAS: Adverse response to chemotherapy (neutropenia/leucopenia) (paclitaxel)	other
+GWAS: Adverse response to chemotherapy in breast cancer (alopecia) (anti-microtubule)	other
+GWAS: Adverse response to chemotherapy in breast cancer (alopecia) (FDC/DC)	other
+GWAS: Adverse response to chemotherapy in breast cancer (alopecia) (paclitaxel)	other
+GWAS: Adverse response to lamotrigine and phenytoin	other
+GWAS: Adverse response to radiation therapy	other
+GWAS: Age at first birth	reproductive
+GWAS: Age at smoking initiation in chronic obstructive pulmonary disease	respiratory
+GWAS: Age at voice drop	endocrine
+GWAS: Age-related cataracts	integumentary
+GWAS: Age-related cataracts (age at onset)	integumentary
+GWAS: Age-related hearing impairment	nervous
+GWAS: Age-related macular degeneration	nervous
+GWAS: Age-related macular degeneration (choroidal neovascularisation)	nervous
+GWAS: Age-related macular degeneration (extreme sampling)	nervous
+GWAS: Age-related macular degeneration (geographic atrophy)	nervous
+GWAS: Age-related nuclear cataracts	nervous
+GWAS: Aggressive periodontitis	immune
+GWAS: Aggressiveness in attention deficit hyperactivity disorder	behavior
+GWAS: Aging	other
+GWAS: Aging (time to event)	other
+GWAS: Aging traits	other
+GWAS: Airflow obstruction	respiratory
+GWAS: Airway imaging phenotypes	respiratory
+GWAS: Airway responsiveness in chronic obstructive pulmonary disease	respiratory
+GWAS: Airway wall thickness	respiratory
+GWAS: ALT levels after remission induction therapy in actute lymphoblastic leukemia (ALL)	other
+GWAS: Alanine transaminase levels	other
+GWAS: Albumin-globulin ratio	other
+GWAS: Alcohol and nicotine co-dependence	behavior
+GWAS: Alcohol consumption	behavior
+GWAS: Alcohol consumption (drinkers vs non-drinkers)	behavior
+GWAS: Alcohol consumption (maxi-drinks)	behavior
+GWAS: Alcohol consumption in current drinkers	behavior
+GWAS: Alcohol dependence	behavior
+GWAS: Alcohol dependence symptom count	behavior
+GWAS: Alcohol use disorder (consumption score)	behavior
+GWAS: Alcohol use disorder (dependence and problematic use scores)	behavior
+GWAS: Alcohol use disorder (total score)	behavior
+GWAS: Alcoholic chronic pancreatitis	endocrine
+"GWAS: Allergic disease (asthma, hay fever or eczema)"	immune
+GWAS: Allergic rhinitis	immune
+GWAS: Allergic sensitization	immune
+GWAS: Allergy	immune
+GWAS: Alopecia areata	integumentary
+GWAS: Aluminium levels	other
+GWAS: Alzheimer disease and age of onset	nervous
+GWAS: Alzheimer's disease	nervous
+GWAS: Alzheimer's disease (APOE e4 interaction)	nervous
+GWAS: Alzheimer's disease (age of onset)	nervous
+GWAS: Alzheimer's disease (cognitive decline)	nervous
+GWAS: Alzheimer's disease (late onset)	nervous
+GWAS: Alzheimer's disease (survival time)	nervous
+GWAS: Alzheimer's disease biomarkers	nervous
+GWAS: Alzheimer's disease in APOE e4+ carriers	nervous
+GWAS: Alzheimer's disease in APOE e4- carriers	nervous
+GWAS: Alzheimer's disease progression score	nervous
+GWAS: Amino acid levels	other
+GWAS: Amyloid A serum levels	other
+GWAS: Amyotrophic lateral sclerosis	nervous
+GWAS: Amyotrophic lateral sclerosis (C9orf72 mutation interaction)	nervous
+GWAS: Amyotrophic lateral sclerosis (age of onset)	nervous
+GWAS: Amyotrophic lateral sclerosis (sporadic)	nervous
+GWAS: Amyotrophic lateral sclerosis in C9orf72 mutation negative individuals	nervous
+GWAS: Amyotrophic lateral sclerosis in C9orf72 mutation positive individuals	nervous
+GWAS: Anger	behavior
+GWAS: Angiotensin-converting enzyme inhibitor intolerance	other
+GWAS: Ankylosing spondylitis	skeletal
+GWAS: Anorexia nervosa	behavior
+GWAS: Anthropometric traits	skeletal
+GWAS: Anti-saccade response	nervous
+GWAS: Antibody level in response to infection	immune
+GWAS: Anticoagulant levels	hematologic
+GWAS: Antineutrophil cytoplasmic antibody-associated vasculitis	cardiovascular
+GWAS: Anxiety disorder	behavior
+GWAS: Anxiety in major depressive disorder	behavior
+GWAS: Aortic root size	cardiovascular
+GWAS: Apolipoprotein A1 levels	metabolic
+GWAS: Appendicular lean mass	skeletal muscle
+GWAS: Arthritis (juvenile idiopathic)	skeletal
+GWAS: Asparaginase hypersensitivity in acute lymphoblastic leukemia	other
+GWAS: Asparaginase-induced acute pancreatitis in acute lymphoblastic leukemia (onset time)	other
+GWAS: Aspartate aminotransferase levels	other
+GWAS: Asperger disorder	behavior
+GWAS: Asthma	respiratory
+GWAS: Asthma (bronchodilator response)	respiratory
+GWAS: Asthma (childhood onset)	respiratory
+GWAS: Asthma (moderate or severe)	respiratory
+GWAS: Asthma (sex interaction)	respiratory
+GWAS: Asthma and hay fever	respiratory
+GWAS: Asthma exacerbations in inhaled corticosteroid treatment	respiratory
+GWAS: Atopic dermatitis	integumentary
+GWAS: Atopic march	immune
+GWAS: Atrial fibrillation	cardiovascular
+GWAS: Atrioventricular conduction	cardiovascular
+GWAS: Attention deficit hyperactivity disorder	behavior
+GWAS: Attention deficit hyperactivity disorder and conduct disorder	behavior
+GWAS: Attention deficit hyperactivity disorder or cannabis use	behavior
+GWAS: Attention deficit hyperactivity disorder symptom score	behavior
+GWAS: Attention function in attention deficit hyperactive disorder	behavior
+GWAS: Autism	behavior
+GWAS: Autism spectrum disorder	behavior
+GWAS: Autism spectrum disorder or schizophrenia	behavior
+"GWAS: Autism spectrum disorder, ADHD, bipolar disorder, MDD, and schizophrenia (combined)"	behavior
+GWAS: Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)	endocrine
+GWAS: Axial length	nervous
+"GWAS: B-cell malignancies (CLL, Hodgkin lymphoma or multiple myeloma) (pleiotropy)"	immune
+GWAS: BMI (adjusted for smoking behaviour)	metabolic
+GWAS: BMI in non-smokers	metabolic
+GWAS: BMI in smokers	metabolic
+GWAS: BRCA1/2-negative high-risk breast cancer	reproductive
+GWAS: Bacteremia	immune
+GWAS: Barrett's esophagus	digestive
+GWAS: Barrett's esophagus  or Esophageal adenocarcinoma	digestive
+GWAS: Barrett's esophagus x pack-years of smoking exposure interaction	digestive
+GWAS: Basal cell carcinoma	integumentary
+GWAS: Basophil percentage of granulocytes	immune
+GWAS: Basophil percentage of white cells	immune
+GWAS: Beard thickness	integumentary
+GWAS: Behcet's disease	cardiovascular
+GWAS: Beta thalassemia/hemoglobin E disease	hematologic
+GWAS: Beta-2 microglubulin plasma levels	immune
+GWAS: Bilirubin levels	digestive
+GWAS: Binge eating behaviour and bipolar disorder	behavior
+GWAS: Biochemical measures	other
+GWAS: Biomedical quantitative traits	other
+GWAS: Bipolar disorder	behavior
+GWAS: Bipolar disorder (age of onset <21) or attention deficit hyperactivity disorder	behavior
+GWAS: Bipolar disorder (body mass index interaction)	behavior
+GWAS: Bipolar disorder (inflammation and infection response interaction)	behavior
+GWAS: Bipolar disorder and eating disorder	behavior
+GWAS: Bipolar disorder and schizophrenia	behavior
+GWAS: Bipolar disorder lithium response (categorical) or schizophrenia	behavior
+GWAS: Bipolar disorder lithium response (continuous) or schizophrenia	behavior
+GWAS: Bipolar disorder or attention deficit hyperactivity disorder	behavior
+GWAS: Bipolar disorder or major depressive disorder	behavior
+GWAS: Bipolar disorder with mood-incongruent psychosis	behavior
+GWAS: Birdshot chorioretinopathy	immune
+GWAS: Birth length	skeletal
+GWAS: Birth weight	skeletal
+GWAS: Black vs. blond hair color	integumentary
+GWAS: Black vs. red hair color	integumentary
+GWAS: Bladder cancer	urinary
+GWAS: Bladder cancer (smoking interaction)	urinary
+GWAS: Blond vs non-blond hair color	integumentary
+GWAS: Blond vs. brown hair color	integumentary
+GWAS: Blond vs. brown/black hair color	integumentary
+GWAS: Blood and toenail selenium levels	other
+GWAS: Blood metabolite levels	metabolic
+GWAS: Blood metabolite ratios	metabolic
+GWAS: Blood osmolality (transformed sodium)	hematologic
+GWAS: Blood pressure	hematologic
+GWAS: Blood pressure (smoking interaction)	hematologic
+GWAS: Blood pressure measurement (high sodium and potassium intervention)	hematologic
+GWAS: Blood pressure measurement (high sodium intervention)	hematologic
+GWAS: Blood pressure measurement (low sodium intervention)	hematologic
+GWAS: Blood pressure traits (multi-trait analysis)	hematologic
+GWAS: Blood protein levels	other
+GWAS: Blood sugar levels	metabolic
+GWAS: Blood trace element (Cu levels)	other
+GWAS: Blood trace element (Se levels)	other
+GWAS: Blood trace element (Zn levels)	other
+GWAS: Blood urea nitrogen levels	other
+GWAS: Body fat percentage	metabolic
+GWAS: Body mass index	metabolic
+GWAS: Body mass index  (smoking years interaction)	metabolic
+GWAS: Body mass index (SNP x SNP interaction)	metabolic
+GWAS: Body mass index (adult)	metabolic
+GWAS: Body mass index (age <50)	metabolic
+GWAS: Body mass index (age>50)	metabolic
+GWAS: Body mass index (alcohol intake interaction)	metabolic
+GWAS: Body mass index (change over time)	metabolic
+GWAS: Body mass index (change over time) in chronic obstructive pulmonary disease	metabolic
+GWAS: Body mass index (change over time) in lung cancer or chronic obstructive pulmonary disease	metabolic
+GWAS: Body mass index (joint analysis main effects and physical activity interaction)	metabolic
+GWAS: Body mass index (joint analysis main effects and smoking interaction)	metabolic
+GWAS: Body mass index (recreational physical activity interaction)	metabolic
+GWAS: Body mass index and waist-hip ratio (pleiotropy)	metabolic
+GWAS: Body mass index in asthmatics	metabolic
+GWAS: Body mass index in physically active individuals	metabolic
+GWAS: Body mass index in physically inactive individuals	metabolic
+GWAS: Body mass index x age interaction	metabolic
+GWAS: Body mass index x sex x age interaction (4df test)	metabolic
+GWAS: Bone fracture in osteoporosis	skeletal
+GWAS: Bone mineral density	skeletal
+GWAS: Bone mineral density (Ward's triangle area)	skeletal
+GWAS: Bone mineral density (femoral neck)	skeletal
+GWAS: Bone mineral density (femoral neck) in inflammatory bowel disease	skeletal
+GWAS: Bone mineral density (hip)	skeletal
+"GWAS: Bone mineral density (paediatric, lower limb)"	skeletal
+"GWAS: Bone mineral density (paediatric, skull)"	skeletal
+"GWAS: Bone mineral density (paediatric, total body less head)"	skeletal
+"GWAS: Bone mineral density (paediatric, upper limb)"	skeletal
+GWAS: Bone mineral density (spine)	skeletal
+GWAS: Bone mineral density (spine) and age at menarche	skeletal
+GWAS: Bone mineral density (total hip)	skeletal
+GWAS: Bone properties (heel)	skeletal
+GWAS: Bone ultrasound measurement (broadband ultrasound attenuation)	skeletal
+GWAS: Bone ultrasound measurement (velocity of sound)	skeletal
+GWAS: Borderline personality disorder	behavior
+GWAS: Bortezomib-induced peripheral neuropathy in multiple myeloma	nervous
+GWAS: Brain connectivity	nervous
+GWAS: Brain imaging	nervous
+GWAS: Brain imaging in schizophrenia (dorsolateral prefrontal cortex interaction)	nervous
+GWAS: Brain structure	nervous
+GWAS: Brain volume in infants (grey matter)	nervous
+GWAS: Brain volume in infants (white matter)	nervous
+GWAS: Branched-chain amino acid levels (Isoleucine)	other
+GWAS: Breast Cancer in BRCA1 mutation carriers	reproductive
+GWAS: Breast cancer	reproductive
+GWAS: Breast cancer (early onset)	reproductive
+GWAS: Breast cancer (estrogen-receptor negative)	reproductive
+GWAS: Breast cancer (prognosis)	reproductive
+GWAS: Breast cancer (survival)	reproductive
+GWAS: Breast cancer and/or colorectal cancer	reproductive
+GWAS: Breast milk fatty acid composition (infant genotype effect)	reproductive
+GWAS: Breast milk fatty acid composition (maternal genotype effect)	reproductive
+GWAS: Breast size	reproductive
+GWAS: Breastfeeding duration	reproductive
+GWAS: Bronchial hyperresponsiveness in asthma	respiratory
+GWAS: Bronchopulmonary dysplasia	respiratory
+GWAS: Bronchopulmonary dysplasia in preterm infants	respiratory
+GWAS: Brown vs. black hair color	integumentary
+GWAS: Brown vs. non-brown hair color	integumentary
+GWAS: Bulimia nervosa	behavior
+GWAS: C-reactive protein	immune
+GWAS: C-reactive protein (red blood cell fatty acid level interaction)	immune
+GWAS: C-reactive protein levels	immune
+GWAS: C-reactive protein levels or HDL-cholesterol levels (pleiotropy)	immune
+GWAS: C-reactive protein levels or LDL-cholesterol levels (pleiotropy)	immune
+GWAS: C-reactive protein levels or total cholesterol levels (pleiotropy)	immune
+GWAS: C-reactive protein levels or triglyceride levels (pleiotropy)	immune
+GWAS: CSF tryptophan concentration in tuberculous meningitis	nervous
+GWAS: Cadmium levels	other
+GWAS: Caffeine consumption	behavior
+GWAS: Caffeine metabolism (plasma caffeine) level)	metabolic
+"GWAS: Caffeine metabolism (plasma 1,7-dimethylxanthine (paraxanthine) level)"	metabolic
+GWAS: Caffeine metabolism (plasma paraxanthine caffeine ratio)	metabolic
+"GWAS: Caffeine metabolism (plasma 3,7-dimethylxanthine (theobromine) level)"	metabolic
+GWAS: Calcium levels	other
+GWAS: Callous-unemotional behaviour	behavior
+GWAS: Cancer	other
+GWAS: Cancer (pleiotropy)	other
+GWAS: Cannabis dependence	behavior
+GWAS: Cannabis dependence symptom count	behavior
+GWAS: Cannabis use	behavior
+GWAS: Cannabis use (initiation)	behavior
+GWAS: Capecitabine sensitivity	other
+GWAS: Carboplatin disposition in epthelial ovarian cancer	other
+GWAS: Cardiac Troponin-T levels	cardiovascular
+GWAS: Cardiac hypertrophy	cardiovascular
+GWAS: Cardiac repolarization	cardiovascular
+GWAS: Cardiac structure and function	cardiovascular
+GWAS: Cardiometabolic and hematological traits	cardiovascular
+GWAS: Cardiovascular disease risk factors	cardiovascular
+GWAS: Cardiovascular risk factors (age interaction)	cardiovascular
+GWAS: Carotid atherosclerosis in HIV infection	cardiovascular
+GWAS: Carotid intima media thickness	cardiovascular
+GWAS: Carotid plaque burden	cardiovascular
+GWAS: Carotid plaque burden (smoking interaction)	cardiovascular
+GWAS: Celiac disease	digestive
+GWAS: Celiac disease or Rheumatoid arthritis	digestive
+GWAS: Central corneal thickness	nervous
+GWAS: Cerebellum growth	nervous
+GWAS: Cerebral amyloid deposition (PET imaging)	nervous
+GWAS: Cerebral amyloid deposition in APOEe4 non-carriers (PET imaging)	nervous
+GWAS: Cerebral amyloid deposition positivity (PET imaging)	nervous
+GWAS: Cerebral cortical growth	nervous
+GWAS: Cerebrospinal AB1-42 levels in Alzheimer's disease dementia	nervous
+GWAS: Cerebrospinal AB1-42 levels in mild cognitive impairment	nervous
+GWAS: Cerebrospinal AB1-42 levels in normal cognition	nervous
+GWAS: Cerebrospinal P-tau181p levels	nervous
+GWAS: Cerebrospinal T-tau levels	nervous
+GWAS: Cerebrospinal fluid AB1-42 levels	nervous
+GWAS: Cerebrospinal fluid beta-site APP cleaving enzyme levels	nervous
+GWAS: Cerebrospinal fluid clusterin levels	nervous
+GWAS: Cerebrospinal fluid levels of Alzheimer's disease-related proteins	nervous
+GWAS: Cerebrospinal fluid p-Tau181p:AB1-42 ratio	nervous
+GWAS: Cerebrospinal fluid p-tau levels	nervous
+GWAS: Cerebrospinal fluid p-tau levels in Alzheimer's disease dementia	nervous
+GWAS: Cerebrospinal fluid p-tau levels in mild cognitive impairment	nervous
+GWAS: Cerebrospinal fluid p-tau levels in normal cognition	nervous
+GWAS: Cerebrospinal fluid t-tau levels	nervous
+GWAS: Cerebrospinal fluid t-tau levels in Alzheimer's disease dementia	nervous
+GWAS: Cerebrospinal fluid t-tau levels in mild cognitive impairment	nervous
+GWAS: Cerebrospinal fluid t-tau levels in normal cognition	nervous
+GWAS: Cerebrospinal fluid t-tau:AB1-42 ratio	nervous
+GWAS: Cervical artery dissection	cardiovascular
+GWAS: Cervical cancer	reproductive
+GWAS: Change in LVEF in response to paclitaxel and trastuzumab in HER2+ breast cancer	other
+GWAS: Change in glucose in response to thiazide diuretic treatment in hypertension	other
+GWAS: Chemerin levels	other
+GWAS: Childhood and early adolescence aggressive behavior	behavior
+GWAS: Childhood body mass index	metabolic
+GWAS: Childhood ear infection	immune
+GWAS: Childhood steroid-sensitive nephrotic syndrome	other
+GWAS: Chin dimples	integumentary
+GWAS: Chlamydia trachomatis seropositivity	immune
+GWAS: Chloride levels	other
+GWAS: Cholangiocarcinoma in primary sclerosing cholangitis	digestive
+GWAS: Cholangiocarcinoma in primary sclerosing cholangitis (time to event)	digestive
+GWAS: Cholesterol efflux capacity	metabolic
+GWAS: Cholesterol efflux capacity (ABCA-1 dependent assay)	metabolic
+GWAS: Cholesterol efflux capacity (cAMP stimulated assay)	metabolic
+GWAS: Cholesterol ester levels in large LDL	metabolic
+GWAS: Cholesterol ester levels in medium LDL	metabolic
+"GWAS: Cholesterol, total"	metabolic
+GWAS: Chromium levels	other
+GWAS: Chronic back pain	skeletal
+GWAS: Chronic bronchitis and chronic obstructive pulmonary disease	respiratory
+GWAS: Chronic central serous retinopathy	nervous
+GWAS: Chronic hepatitis B infection	immune
+GWAS: Chronic hepatitis C infection	immune
+GWAS: Chronic inflammatory diseases (pleiotropy)	immune
+GWAS: Chronic kidney disease	urinary
+GWAS: Chronic lymphocytic leukemia	lymphatic
+GWAS: Chronic mucus hypersecretion	immune
+GWAS: Chronic myeloid leukemia	lymphatic
+GWAS: Chronic obstructive pulmonary disease	respiratory
+GWAS: Chronic obstructive pulmonary disease (moderate to severe)	respiratory
+GWAS: Chronic obstructive pulmonary disease (severe)	respiratory
+GWAS: Chronic obstructive pulmonary disease-related biomarkers	respiratory
+GWAS: Chronic periodontitis (mean interproximal clinical attachment level)	immune
+GWAS: Chronic venous disease	cardiovascular
+GWAS: Chronotype	behavior
+GWAS: Cingulate cortical amyloid beta load	nervous
+GWAS: Circulating fibroblast growth factor 23 levels	other
+GWAS: Circulating myeloperoxidase levels (plasma)	other
+GWAS: Circulating myeloperoxidase levels (serum)	other
+GWAS: Circulating phylloquinone levels	other
+GWAS: Circulating vasoactive peptide levels	other
+GWAS: Cisplatin-induced ototoxicity	other
+GWAS: Cleft lip with or without cleft palate	other
+GWAS: Cleft lip with or without cleft palate (maternal periconceptional vitamin use interaction)	other
+GWAS: Cleft palate	other
+GWAS: Clinical laboratory measurements	other
+GWAS: Clopidogrel active metabolite levels	other
+GWAS: Clozapine-induced agranulocytosis	other
+GWAS: Clozapine-induced agranulocytosis/granulocytopenia in treatment-resistant schizophrenia	other
+GWAS: Clozapine-induced cytotoxicity	other
+GWAS: Coagulation factor levels	hematologic
+GWAS: Cobalt levels	other
+GWAS: Cocaine dependence	behavior
+GWAS: Coenzyme Q10 levels	other
+GWAS: Coffee consumption	behavior
+GWAS: Coffee consumption (cups per day)	behavior
+GWAS: Cognitive ability	nervous
+GWAS: Cognitive ability (MTAG)	nervous
+GWAS: Cognitive decline (age-related)	nervous
+GWAS: Cognitive decline rate in late mild cognitive impairment	nervous
+GWAS: Cognitive flexibility	nervous
+GWAS: Cognitive function	nervous
+GWAS: Cognitive performance	nervous
+GWAS: Cognitive test performance	nervous
+GWAS: Cold medicine-related SJS/TEN with severe ocular complications	other
+GWAS: Cold sores	immune
+GWAS: Colorectal cancer	digestive
+GWAS: Colorectal cancer (calcium intake interaction)	digestive
+GWAS: Colorectal cancer (diet interaction)	digestive
+GWAS: Colorectal or endometrial cancer	digestive
+GWAS: Common carotid intima-media thickness	cardiovascular
+GWAS: Common carotid intima-media thickness in HIV infection	cardiovascular
+GWAS: Common carotid intima-media thickness in HIV negative individuals	cardiovascular
+GWAS: Complement C3 and C4 levels	immune
+GWAS: Conduct disorder	behavior
+GWAS: Conduct disorder (maternal expressed emotions interaction)	behavior
+GWAS: Conduct disorder (symptom count)	behavior
+GWAS: Congenital heart disease (inherited effect)	cardiovascular
+GWAS: Congenital heart disease (maternal effect)	cardiovascular
+GWAS: Congenital left-sided heart lesions	cardiovascular
+GWAS: Conotruncal heart defects	cardiovascular
+GWAS: Conotruncal heart defects (inherited effects)	cardiovascular
+GWAS: Conotruncal heart defects (maternal effects)	cardiovascular
+GWAS: Contrast sensitivity	nervous
+GWAS: Copper levels	other
+GWAS: Corneal astigmatism	nervous
+GWAS: Corneal curvature	nervous
+GWAS: Corneal structure	nervous
+GWAS: Coronary artery aneurysm in Kawasaki disease	cardiovascular
+GWAS: Coronary artery calcification	cardiovascular
+GWAS: Coronary artery calcified atherosclerotic plaque (130 HU threshold) in type 2 diabetes	cardiovascular
+GWAS: Coronary artery calcified atherosclerotic plaque (90 or 130 HU threshold) in type 2 diabetes	cardiovascular
+GWAS: Coronary artery calcified atherosclerotic plaque score in type 2 diabetes	cardiovascular
+GWAS: Coronary artery disease	cardiovascular
+"GWAS: Coronary artery disease (myocardial infarction, PTCA, CABG, angina or CIHD)"	cardiovascular
+GWAS: Coronary artery disease in type 1 diabetes	cardiovascular
+GWAS: Coronary artery disease or ischemic stroke	cardiovascular
+GWAS: Coronary artery disease or large artery stroke	cardiovascular
+GWAS: Coronary atherosclerosis (increased number of diseased vessels) (traffic exposure interaction)	cardiovascular
+GWAS: Coronary heart disease	cardiovascular
+GWAS: Coronary heart disease (SNP X SNP interaction)	cardiovascular
+GWAS: Corrected insulin response	metabolic
+GWAS: Corrected insulin response adjusted for insulin sensitivity index	metabolic
+GWAS: Cortical amyloid beta load	nervous
+GWAS: Corticobasal degeneration	nervous
+GWAS: Cortisol levels (saliva)	endocrine
+GWAS: Cotinine glucuronidation	digestive
+GWAS: Cough in response to angiotensin-converting enzyme inhibitor drugs	other
+GWAS: Craniofacial microsomia	skeletal
+GWAS: Creatine kinase levels	other
+GWAS: Creatinine levels	other
+GWAS: Crohn's disease	immune
+GWAS: Crohn's disease (time to surgery)	immune
+GWAS: Crohn's disease-related phenotypes	immune
+GWAS: Current cigarettes per day in chronic obstructive pulmonary disease	behavior
+GWAS: Cutaneous lupus erythematosus	immune
+GWAS: Cutaneous malignant melanoma	integumentary
+GWAS: Cutaneous psoriasis	integumentary
+GWAS: Cutaneous squamous cell carcinoma	integumentary
+GWAS: Cystic fibrosis severity	respiratory
+GWAS: Cytomegalovirus antibody response	immune
+GWAS: D-dimer levels	other
+GWAS: DNA methylation (parent-of-origin)	other
+GWAS: DNA methylation (variation)	other
+GWAS: Daytime sleep phenotypes	behavior
+GWAS: Decline in glucose metabolism in posterior cingulate cortex	nervous
+GWAS: Deep ovarian and/or rectovaginal disease with dense adhesions	reproductive
+GWAS: Dehydroepiandrosterone sulphate levels	other
+GWAS: Delirium	behavior
+GWAS: Delta-5 desaturase activity response to n3-polyunsaturated fat supplement	other
+GWAS: Dementia and core Alzheimer's disease neuropathologic changes	nervous
+GWAS: Dementia with Lewy bodies	nervous
+GWAS: Dental caries	skeletal
+GWAS: Dentate gyrus granule cell layer volume	nervous
+GWAS: Dentate gyrus molecular layer volume	nervous
+GWAS: Depression	behavior
+GWAS: Depression (quantitative trait)	behavior
+GWAS: Depression and alcohol dependence	behavior
+GWAS: Depression in smokers	behavior
+GWAS: Depressive and manic episodes in bipolar disorder	behavior
+GWAS: Depressive episodes in bipolar disorder	behavior
+GWAS: Depressive symptoms (SSRI exposure interaction)	behavior
+GWAS: Dermatomyositis	integumentary
+GWAS: Dermatomyositis or juvenile dermatomyositis	integumentary
+GWAS: Diabetes in response to antihypertensive drug treatment (treatment strategy interaction)	metabolic
+GWAS: Diabetic kidney disease	metabolic
+GWAS: Diabetic retinopathy	metabolic
+GWAS: Diabetic retinopathy in type 2 diabetes	metabolic
+GWAS: Dialysis-related mortality	other
+GWAS: Diastolic blood pressure	cardiovascular
+GWAS: Diastolic blood pressure (cigarette smoking interaction)	cardiovascular
+GWAS: Diastolic blood pressure night-to-day ratio in hypertension	cardiovascular
+GWAS: Diastolic blood pressure response to hydrochlorothiazide in hypertension	cardiovascular
+GWAS: Diastolic blood pressure x alcohol consumption (light vs heavy) interaction (2df test)	cardiovascular
+GWAS: Diastolic blood pressure x alcohol consumption interaction (2df test)	cardiovascular
+GWAS: Diastolic blood pressure x smoking status (current vs non-current) interaction (1df test)	cardiovascular
+GWAS: Diastolic blood pressure x smoking status (current vs non-current) interaction (2df test)	cardiovascular
+GWAS: Diastolic blood pressure x smoking status (ever vs never) interaction (1df test)	cardiovascular
+GWAS: Diastolic blood pressure x smoking status (ever vs never) interaction (2df test)	cardiovascular
+GWAS: Dietary macronutrient intake	behavior
+GWAS: Differentiated thyroid cancer	endocrine
+GWAS: Diffuse cutaneous systemic sclerosis	immune
+GWAS: Diffuse large B cell lymphoma	lymphatic
+GWAS: Diffusing capacity of the lung for carbon monoxide traits	respiratory
+GWAS: Digit length ratio	skeletal
+GWAS: Digit length ratio (left hand)	skeletal
+GWAS: Digit length ratio (right hand)	skeletal
+GWAS: Diisocyanate-induced asthma	respiratory
+GWAS: Dimensional psychopathology (Arousal)	behavior
+GWAS: Dimensional psychopathology (Cognitive)	behavior
+GWAS: Dimensional psychopathology (Negative)	behavior
+GWAS: Dimensional psychopathology (Positive)	behavior
+GWAS: Dimensional psychopathology (Social)	behavior
+GWAS: Disc degeneration (lumbar)	skeletal
+GWAS: Discordance in emotional problems in monozygotic twins	other
+GWAS: Disease progression in age-related macular degeneration	nervous
+GWAS: Disease progression to choroidal neovascularization form in age-related macular degeneration	nervous
+GWAS: Disrupted circadian rhythm (low relative amplitude of rest-activity cycles)	behavior
+GWAS: Diverticular disease	digestive
+GWAS: Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	other
+GWAS: Drinking behavior	behavior
+GWAS: Drug-induced Stevens-Johnson syndrome or toxic epidermal necrolysis (SJS/TEN)	other
+GWAS: Drug-induced liver injury (flucloxacillin)	other
+GWAS: Dupuytren's disease	integumentary
+GWAS: Dysmenorrheic pain	reproductive
+GWAS: Dysmenorrheic pain severity	reproductive
+GWAS: EGFR mutation-positive lung adenocarcinoma	respiratory
+GWAS: Ear morphology	skeletal
+GWAS: Early onset atrial fibrillation	cardiovascular
+GWAS: Early-onset Parkinson's disease	nervous
+GWAS: Eating disorders	behavior
+GWAS: Eating disorders (purging via substances)	behavior
+GWAS: Echocardiographic traits	cardiovascular
+GWAS: Economic and political preferences	other
+GWAS: Economic and political preferences (time)	other
+GWAS: Educational attainment	other
+GWAS: Educational attainment (years of education)	other
+GWAS: Egg allergy	immune
+GWAS: Egg allergy (maternal genetic effects)	immune
+GWAS: Egg allergy (parent-of-origin effect)	immune
+GWAS: Electrocardiographic conduction measures	cardiovascular
+GWAS: Electrocardiographic traits	cardiovascular
+GWAS: Electrodermal activity	integumentary
+GWAS: Electroencephalogram traits	nervous
+GWAS: Electroencephalographic traits in alcoholism	nervous
+GWAS: Elevated fasting plasma glucose	metabolic
+GWAS: Elevated serum carcinoembryonic antigen levels	other
+GWAS: Empathy quotient	behavior
+GWAS: Emphysema distribution in smoking	respiratory
+GWAS: Emphysema imaging phenotypes	respiratory
+GWAS: Emphysema-related traits	respiratory
+GWAS: End-stage coagulation	hematologic
+GWAS: End-stage renal disease	urinary
+GWAS: Endometrial cancer	reproductive
+GWAS: Endometrial cancer (Non-endometrioid histology)	reproductive
+GWAS: Endometrial cancer (endometrioid histology)	reproductive
+GWAS: Endometrial endometrioid carcinoma	reproductive
+GWAS: Endometriosis	reproductive
+GWAS: Energy expenditure (24h)	behavior
+GWAS: Entorhinal cortical thickness	nervous
+GWAS: Eosinophil counts	immune
+GWAS: Eosinophil percentage of granulocytes	immune
+GWAS: Eosinophil percentage of white cells	immune
+GWAS: Eosinophilic esophagitis	immune
+GWAS: Epilepsy	nervous
+GWAS: Epilepsy and lamotrigine-induced maculopapular eruptions	nervous
+GWAS: Epithelial ovarian cancer	reproductive
+GWAS: Epstein-Barr virus copy number in lymphoblastoid cell lines	immune
+GWAS: Epstein-Barr virus immune response (EBNA-1)	immune
+GWAS: Erectile dysfunction	reproductive
+GWAS: Erectile dysfunction and prostate cancer treatment	reproductive
+GWAS: Erectile dysfunction in type 1 diabetes	reproductive
+GWAS: Erosive tooth wear (severe vs non-severe)	skeletal
+GWAS: Erosive tooth wear (severe vs none or mild)	skeletal
+GWAS: Erythema nodosum in inflammatory bowel disease	integumentary
+GWAS: Erythrocyte cadmium concentration	hematologic
+GWAS: Erythrocyte cadmium concentration in never smokers	hematologic
+GWAS: Erythrocyte sedimentation rate	hematologic
+GWAS: Esophageal adenocarcinoma	digestive
+GWAS: Esophageal adenocarcinoma x gastroesophageal reflux disease interaction	digestive
+GWAS: Esophageal cancer	digestive
+GWAS: Esophageal cancer (squamous cell)	digestive
+GWAS: Esophageal squamous cell carcinoma	digestive
+GWAS: Essential tremor	nervous
+GWAS: Estradiol levels	endocrine
+GWAS: Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	endocrine
+GWAS: Event free survival in diffuse large B-cell lymphoma treated with immunochemotherapy	other
+GWAS: Ewing sarcoma	skeletal
+GWAS: Excessive daytime sleepiness	behavior
+GWAS: Excessive hairiness	integumentary
+GWAS: Exhaled carbon monoxide levels in smokers with chronic obstructive pulmonary disease	respiratory
+GWAS: Exhaled nitric oxide levels	respiratory
+GWAS: Exhaled nitric oxide output	respiratory
+GWAS: Experiencing mood swings	behavior
+GWAS: Exploratory eye movement dysfunction in schizophrenia (cognitive search score)	nervous
+GWAS: Exploratory eye movement dysfunction in schizophrenia (responsive search score)	nervous
+GWAS: Extraversion	behavior
+GWAS: Extremely high intelligence	other
+GWAS: Exudative age-related macular degeneration	nervous
+GWAS: Eye color	integumentary
+GWAS: Eye color traits	integumentary
+GWAS: Eye morphology	nervous
+GWAS: Eyebrow thickness	integumentary
+GWAS: F-cell distribution	hematologic
+GWAS: Facial emotion recognition	nervous
+GWAS: Facial emotion recognition (sad faces)	nervous
+GWAS: Facial morphology	skeletal
+GWAS: Facial pigmentation	integumentary
+GWAS: Factor VII	hematologic
+GWAS: Familial lung adenocarcinoma	respiratory
+GWAS: Familial lung cancer	respiratory
+GWAS: Familial squamous cell lung carcinoma	respiratory
+GWAS: Fast beta electroencephalogram	nervous
+GWAS: Fasting blood glucose	metabolic
+GWAS: Fasting blood glucose (BMI interaction)	metabolic
+GWAS: Fasting blood insulin	metabolic
+GWAS: Fasting blood insulin (BMI interaction)	metabolic
+GWAS: Fasting insulin (dietary factor interaction)	metabolic
+GWAS: Fasting plasma glucose	metabolic
+GWAS: Fat distribution (HIV)	metabolic
+GWAS: Febrile seizures	nervous
+GWAS: Febrile seizures (MMR vaccine-related)	nervous
+GWAS: Feeling fed-up	behavior
+GWAS: Feeling guilty	behavior
+GWAS: Feeling hurt	behavior
+GWAS: Feeling lonely	behavior
+GWAS: Feeling miserable	behavior
+GWAS: Feeling nervous	behavior
+GWAS: Feeling tense	behavior
+GWAS: Feeling worry	behavior
+GWAS: Femoral neck bone mineral density	skeletal
+GWAS: Fibrinogen	hematologic
+GWAS: Fibrinogen levels	hematologic
+GWAS: Folate pathway vitamin levels	other
+GWAS: Follicular lymphoma	lymphatic
+GWAS: Food addiction	behavior
+GWAS: Food allergy	immune
+GWAS: Food allergy (maternal genetic effects)	immune
+GWAS: Food allergy (parent-of-origin effect)	immune
+GWAS: Food antigen IgG levels	immune
+GWAS: Forced expiratory volume in 1 second (occupational environmental exposures interaction)	respiratory
+GWAS: Forehead morphology	skeletal
+GWAS: Formal thought disorder in schizophrenia	nervous
+GWAS: Fractional excretion of metabolites in chronic kidney disease	urinary
+GWAS: Fractional exhaled nitric oxide (childhood)	respiratory
+GWAS: Fractional shortening	cardiovascular
+GWAS: Fractures	skeletal
+GWAS: Freckles	integumentary
+GWAS: Free cholesterol levels in large LDL	metabolic
+GWAS: Free thyroxine concentration	endocrine
+GWAS: Frontotemporal dementia	nervous
+GWAS: Frontotemporal dementia (age at onset)	nervous
+GWAS: Frontotemporal dementia with GRN mutation	nervous
+GWAS: Frontotemporal dementia with GRN mutation (age at onset)	nervous
+GWAS: Fuchs's corneal dystrophy	nervous
+"GWAS: Functional impairment in major depressive disorder, bipolar disorder and schizophrenia"	nervous
+GWAS: GIP levels in response to oral glucose tolerance test (120 minutes)	metabolic
+GWAS: GLP-1 levels in response to oral glucose tolerance test (fasting)	metabolic
+GWAS: Gait speed in old age	other
+GWAS: Gallstone disease	digestive
+GWAS: Gambling	behavior
+GWAS: Gamma glutamyl transferase levels	other
+GWAS: Gamma glutamyl transpeptidase	other
+GWAS: Gastric adenocarcinoma (histologically verified)	digestive
+GWAS: Gastric cancer	digestive
+GWAS: Gastroesophageal reflux disease	digestive
+GWAS: General cognitive ability	nervous
+GWAS: Generalized epilepsy	nervous
+GWAS: Gestational age at birth (maternal effect)	reproductive
+GWAS: Giant cell arteritis	cardiovascular
+GWAS: Glaucoma	nervous
+GWAS: Glaucoma (primary angle closure)	nervous
+GWAS: Glaucoma (primary open-angle)	nervous
+GWAS: Glioblastoma	nervous
+GWAS: Glioblastoma (age-stratified)	nervous
+GWAS: Glioma	nervous
+GWAS: Global electrical heterogeneity phenotypes	cardiovascular
+GWAS: Glomerular filtration rate	hematologic
+GWAS: Glomerular filtration rate (creatinine)	hematologic
+GWAS: Glomerular filtration rate (cystatin C)	hematologic
+GWAS: Glomerular filtration rate change in heart transplantation	hematologic
+GWAS: Glomerular filtration rate in chronic kidney disease	hematologic
+GWAS: Glomerular filtration rate in non diabetics (creatinine)	hematologic
+GWAS: Glucocorticoid-induced osteonecrosis	other
+GWAS: Glucocorticoid-induced osteonecrosis (age 10 years and older)	other
+GWAS: Glucose homeostasis traits	metabolic
+GWAS: Glycated hemoglobin levels	metabolic
+GWAS: Glycemic traits	metabolic
+GWAS: Glycemic traits (pregnancy)	metabolic
+GWAS: Glycerophospholipid levels	metabolic
+GWAS: Gout	skeletal
+GWAS: Granulocyte count	immune
+GWAS: Granulocyte percentage of myeloid white cells	immune
+GWAS: Graves' disease	endocrine
+GWAS: Gut microbiota (bacterial taxa)	digestive
+GWAS: Gut microbiota (beta diversity)	digestive
+GWAS: Gut microbiota (functional units)	digestive
+GWAS: HDL Cholesterol - Triglycerides (HDLC-TG)	metabolic
+GWAS: HDL cholesterol	metabolic
+GWAS: HDL cholesterol change in response to fenofibrate in statin-treated type 2 diabetes	metabolic
+GWAS: HDL cholesterol levels	metabolic
+GWAS: HIV-1 control	immune
+GWAS: HIV-1 susceptibility	immune
+GWAS: HIV-1 viral setpoint	immune
+GWAS: Hair color	integumentary
+GWAS: Hair greying	integumentary
+GWAS: Hair morphology	integumentary
+GWAS: Hair shape	integumentary
+GWAS: Hand grip strength	skeletal muscle
+GWAS: Headache	nervous
+GWAS: Hearing function	nervous
+GWAS: Heart failure	cardiovascular
+GWAS: Heart rate	cardiovascular
+GWAS: Heart rate increase in response to exercise	cardiovascular
+GWAS: Heart rate response to exercise	cardiovascular
+GWAS: Heart rate response to recovery post exercise	cardiovascular
+GWAS: Heart rate response to recovery post exercise (10 sec)	cardiovascular
+GWAS: Heart rate response to recovery post exercise (20 sec)	cardiovascular
+GWAS: Heart rate response to recovery post exercise (30 sec)	cardiovascular
+GWAS: Heart rate response to recovery post exercise (40 sec)	cardiovascular
+GWAS: Heart rate response to recovery post exercise (50 sec)	cardiovascular
+GWAS: Heart rate variability traits (RMSSD)	cardiovascular
+GWAS: Heart rate variability traits (SDNN)	cardiovascular
+GWAS: Heart rate variability traits (pvRSA/HF)	cardiovascular
+GWAS: Heel bone mineral density	skeletal
+GWAS: Height	skeletal
+GWAS: Helicobacter pylori serologic status	immune
+GWAS: Helping behaviour (self reported)	behavior
+GWAS: Hematocrit	hematologic
+GWAS: Hematological and biochemical traits	hematologic
+GWAS: Hematological parameters	hematologic
+GWAS: Hematology traits	hematologic
+GWAS: Hemoglobin	hematologic
+GWAS: Hemoglobin A1c levels	hematologic
+GWAS: Hemoglobin concentration	hematologic
+GWAS: Hemoglobin levels	hematologic
+GWAS: Hemostatic factors and hematological phenotypes	hematologic
+GWAS: Hepatitis B	immune
+GWAS: Hepatitis B surface antigen seroclearance in chronic hepatitis B infection	immune
+GWAS: Hepatitis B vaccine response	immune
+GWAS: Hepatitis C induced liver fibrosis	immune
+GWAS: Hepatocellular carcinoma	digestive
+GWAS: Hepatocellular carcinoma in hepatitis B infection	digestive
+GWAS: Hepcidin levels	digestive
+GWAS: Hepcidin/ferritin ratio	digestive
+GWAS: Hepcidin/transferrin saturation ratio	digestive
+GWAS: Heschl's gyrus morphology	nervous
+GWAS: High altitude adaptation	other
+GWAS: High density lipoprotein cholesterol levels	metabolic
+GWAS: High light scatter reticulocyte count	metabolic
+GWAS: High light scatter reticulocyte percentage of red cells	metabolic
+GWAS: Hip circumference	skeletal
+GWAS: Hip circumference adjusted for BMI	skeletal
+GWAS: Hip geometry	skeletal
+GWAS: Hip minimal joint space width	skeletal
+GWAS: Hip shape (DXA scan)	skeletal
+GWAS: Hippocampal atrophy	nervous
+GWAS: Hippocampal sclerosis	nervous
+GWAS: Hippocampal subfield CA1 volume	nervous
+GWAS: Hippocampal subfield CA3 volume	nervous
+GWAS: Hippocampal subfield CA4 volume	nervous
+GWAS: Hippocampal tail volume	nervous
+GWAS: Hippocampal tail volume (corrected for total hippocampal volume)	nervous
+GWAS: Hippocampal volume	nervous
+GWAS: Hippocampal volume in Alzheimer's disease dementia	nervous
+GWAS: Hippocampal volume in mild cognitive impairment	nervous
+GWAS: Hippocampal volume in normal cognition	nervous
+GWAS: Hirschsprung disease	digestive
+GWAS: Hodgkin's lymphoma	lymphatic
+GWAS: Homeostasis model assessment of beta-cell function	metabolic
+GWAS: Homeostasis model assessment of beta-cell function (dietary factor interaction)	metabolic
+GWAS: Homeostasis model assessment of insulin resistance (dietary factor interaction)	metabolic
+GWAS: Homocysteine levels	other
+GWAS: Household income	other
+GWAS: Huntington's disease progression	nervous
+GWAS: Hyperactive-impulsive symptoms	behavior
+GWAS: Hyperopia	nervous
+GWAS: Hypersomnia (HLA-DQB1*06:02 negative)	behavior
+GWAS: Hypertension	cardiovascular
+GWAS: Hypertension (SNP x SNP interaction)	cardiovascular
+GWAS: Hyperthyroidism	endocrine
+GWAS: Hypertriglyceridemia	metabolic
+GWAS: Hypospadias	urinary
+GWAS: Hypothyroidism	endocrine
+GWAS: Idiopathic dilated cardiomyopathy	cardiovascular
+GWAS: Idiopathic inflammatory myopathy	skeletal muscle
+GWAS: Idiopathic intracranial hypertension	cardiovascular
+GWAS: Idiopathic membranous nephropathy	urinary
+GWAS: Idiopathic osteonecrosis of the femoral head	skeletal
+GWAS: Idiopathic pulmonary fibrosis	respiratory
+GWAS: IgA nephropathy	immune
+GWAS: IgE grass sensitization	immune
+GWAS: IgE levels	immune
+GWAS: IgG N-glycosylation phenotypes (multivariate analysis)	immune
+GWAS: IgG bisecting N-acetyl glucosamine phenotypes (multivariate analysis)	immune
+GWAS: IgG digalactosylation phenotypes (multivariate analysis)	immune
+GWAS: IgG disialylation phenotypes (multivariate analysis)	immune
+GWAS: IgG fucosylation phenotypes (multivariate analysis)	immune
+GWAS: IgG galactosylation phenotypes (multivariate analysis)	immune
+GWAS: IgG glycosylation	immune
+GWAS: IgG monogalactosylation phenotypes (multivariate analysis)	immune
+GWAS: IgG sialylation phenotypes (multivariate analysis)	immune
+GWAS: Immature fraction of reticulocytes	hematologic
+GWAS: Immune reponse to smallpox (secreted IFN-alpha)	immune
+GWAS: Immune reponse to smallpox (secreted IL-10)	immune
+GWAS: Immune reponse to smallpox (secreted IL-12p40)	immune
+GWAS: Immune reponse to smallpox (secreted IL-1beta)	immune
+GWAS: Immune reponse to smallpox (secreted IL-2)	immune
+GWAS: Immune reponse to smallpox (secreted TNF-alpha)	immune
+GWAS: Immune response to anthrax vaccine	immune
+GWAS: Immune response to measles-mumps-rubella vaccine	immune
+GWAS: Immune response to smallpox vaccine (IL-6)	immune
+GWAS: Immunoglobulin A	immune
+GWAS: Immunoglobulin A vasculitis	immune
+GWAS: Immunoglobulin light chain (AL) amyloidosis	immune
+GWAS: Immunoglobulin measurement (zinc sulfate turbidity test)	immune
+GWAS: Incident atrial fibrillation	cardiovascular
+GWAS: Infant length	skeletal
+GWAS: Inflammatory biomarkers	immune
+GWAS: Inflammatory bowel disease	digestive
+GWAS: Inflammatory bowel disease (early onset)	digestive
+GWAS: Inflammatory skin disease	integumentary
+GWAS: Influenza A (H1N1) infection	immune
+GWAS: Influenza A (H1N1) severity	immune
+GWAS: Information processing speed	nervous
+GWAS: Initial alcohol sensitivity	other
+GWAS: Initial pursuit acceleration	nervous
+GWAS: Initial pursuit acceleration in psychotic disorders	nervous
+GWAS: Insomnia	behavior
+GWAS: Insomnia (caffeine-induced)	other
+GWAS: Insulin resistance/response	immune
+GWAS: Insulin-like growth factors	immune
+GWAS: Insulin-related traits	immune
+GWAS: Intelligence	other
+GWAS: Intelligence (MTAG)	other
+GWAS: Interferon alpha levels in systemic lupus erythematosus	immune
+GWAS: Interleukin-1-receptor antagonist levels	immune
+GWAS: Interleukin-10 levels	immune
+GWAS: Interleukin-6 levels	immune
+GWAS: Interstitial lung disease	respiratory
+GWAS: Intracranial aneurysm	nervous
+GWAS: Intracranial volume	nervous
+"GWAS: Intracranial, abdominal aortic or thoracic aortic aneurysm (pleiotropy)"	nervous
+GWAS: Intraocular pressure	nervous
+GWAS: Intrinsic epigenetic age acceleration	other
+GWAS: Iris characteristics	integumentary
+GWAS: Iris color (L* coordinate)	integumentary
+GWAS: Iris color (a* coordinate)	integumentary
+GWAS: Iris color (b* coordinate)	integumentary
+GWAS: Iron status biomarkers	other
+GWAS: Iron status biomarkers (ferritin levels)	other
+GWAS: Iron status biomarkers (iron levels)	other
+GWAS: Iron status biomarkers (total iron binding capacity)	other
+GWAS: Iron status biomarkers (transferrin levels)	other
+GWAS: Iron status biomarkers (transferrin saturation)	other
+GWAS: Irritable bowel syndrome	digestive
+GWAS: Irritable mood	behavior
+GWAS: Ischemic stroke	cardiovascular
+GWAS: Ischemic stroke (cardioembolic)	cardiovascular
+GWAS: Ischemic stroke (large artery atherosclerosis)	cardiovascular
+GWAS: Ischemic stroke (small-vessel)	cardiovascular
+GWAS: Isovolumetric relaxation time	cardiovascular
+GWAS: Itch intensity from mosquito bite	immune
+GWAS: Itch intensity from mosquito bite adjusted by bite size	immune
+GWAS: JT interval (sulfonylurea treatment interaction)	cardiovascular
+GWAS: Joint mobility (Beighton score)	skeletal
+GWAS: Juvenile idiopathic arthritis (oligoarticular or rheumatoid factor-negative polyarticular)	immune
+GWAS: Kawasaki disease	cardiovascular
+GWAS: Kidney function decline traits	urinary
+GWAS: Knee osteoarthritis	skeletal
+GWAS: L-arginine levels	other
+GWAS: LDL cholesterol	metabolic
+GWAS: LDL cholesterol change in response to fenofibrate in statin-treated type 2 diabetes	metabolic
+GWAS: LDL cholesterol levels	metabolic
+GWAS: LDL peak particle diameter (total fat intake interaction)	metabolic
+GWAS: Lactate dehydrogenase levels	metabolic
+GWAS: Language performance in older adults (adjusted for episodic memory)	nervous
+GWAS: Large HDL particle concentration	metabolic
+GWAS: Large LDL particle concentration	metabolic
+GWAS: Large artery stroke	cardiovascular
+GWAS: Laryngeal squamous cell carcinoma	other
+GWAS: Late-onset Alzheimer's disease	nervous
+GWAS: Late-onset myasthenia gravis	skeletal muscle
+GWAS: Lateral ventricular volume in normal aging	nervous
+GWAS: Laterality in neovascular age-related macular degeneration	nervous
+GWAS: Lead levels	other
+GWAS: Lead levels in blood	other
+GWAS: Lean body mass	skeletal muscle
+GWAS: Left superior temporal gyrus thickness (schizophrenia interaction)	nervous
+GWAS: Left ventricular internal dimension in diastole	cardiovascular
+GWAS: Left ventricular internal dimension in systole	cardiovascular
+GWAS: Left ventricular obstructive tract defect (inherited effect)	cardiovascular
+GWAS: Left ventricular obstructive tract defect (maternal effect)	cardiovascular
+GWAS: Leisure-time exercise behaviour	behavior
+GWAS: Leisure-time exercise behaviour (age-stratified)	behavior
+GWAS: Length of menstrual cycle	reproductive
+GWAS: Lentiform nucleus volume	nervous
+GWAS: Leprosy	immune
+GWAS: Lewy body disease	nervous
+GWAS: Lifespan	other
+GWAS: Lifetime average cigarettes per day in chronic obstructive pulmonary disease	behavior
+GWAS: Light vs. dark hair color	integumentary
+GWAS: Limited cutaneous systemic scleroderma	integumentary
+GWAS: Lipid metabolism phenotypes	metabolic
+GWAS: Lipid traits	metabolic
+GWAS: Lipid traits (pleiotropy) (HIPO component 1)	metabolic
+GWAS: Lipoprotein (a) - cholesterol levels	metabolic
+GWAS: Lipoprotein (a) levels	metabolic
+GWAS: Lipoprotein phospholipase A2 activity in cardiovascular disease	metabolic
+GWAS: Lipoprotein-associated phospholipase A2 activity and mass	metabolic
+GWAS: Lipoprotein-associated phospholipase A2 activity change in response to statin therapy	metabolic
+GWAS: Liver enzyme levels	other
+GWAS: Liver enzyme levels (alanine transaminase)	other
+GWAS: Liver enzyme levels (alkaline phosphatase)	other
+GWAS: Liver enzyme levels (aspartate transaminase)	other
+GWAS: Liver enzyme levels (gamma-glutamyl transferase)	other
+GWAS: Liver fibrosis in pediatric non-alcoholic fatty acid liver disease	other
+GWAS: Liver transplant-free survival in primary sclerosing cholangitis (time to event)	other
+GWAS: Lobe attachment (rater scored)	integumentary
+GWAS: Lobe attachment (rater-scored or self-reported)	integumentary
+GWAS: Lobe size	other
+GWAS: Local histogram emphysema pattern	respiratory
+GWAS: Logical memory (delayed recall)	nervous
+GWAS: Logical memory (delayed recall) in Alzheimer's disease dementia	nervous
+GWAS: Logical memory (delayed recall) in mild cognitive impairment	nervous
+GWAS: Logical memory (delayed recall) in normal cognition	nervous
+GWAS: Logical memory (immediate recall)	nervous
+GWAS: Logical memory (immediate recall) in Alzheimer's disease dementia	nervous
+GWAS: Logical memory (immediate recall) in mild cognitive impairment	nervous
+GWAS: Logical memory (immediate recall) in normal cognition	nervous
+GWAS: Loneliness	behavior
+GWAS: Loneliness (MTAG)	behavior
+GWAS: Loneliness (linear analysis)	behavior
+GWAS: Loneliness (multivariate analysis)	behavior
+GWAS: Longevity	other
+GWAS: Longevity (90 years and older)	other
+GWAS: Longitudinal alcohol consumption	behavior
+GWAS: Longitudinal change in brain amyloid plaque burden	nervous
+GWAS: Low density lipoprotein cholesterol levels	metabolic
+GWAS: Low high density lipoprotein cholesterol levels	metabolic
+GWAS: Low tan response	integumentary
+GWAS: Low vWF levels	hematologic
+GWAS: Lower body strength	skeletal muscle
+GWAS: Lumbar spine bone mineral density	skeletal
+GWAS: Lumbar spine bone mineral density (integral)	skeletal
+GWAS: Lumbar spine bone mineral density (trabecular)	skeletal
+GWAS: Lung adenocarcinoma	respiratory
+GWAS: Lung cancer	respiratory
+GWAS: Lung cancer (smoking interaction)	respiratory
+GWAS: Lung cancer in ever smokers	respiratory
+GWAS: Lung cancer in never smokers	respiratory
+GWAS: Lung disease severity in cystic fibrosis	respiratory
+GWAS: Lung function (FEV1)	respiratory
+GWAS: Lung function (FEV1/FVC)	respiratory
+GWAS: Lung function (FVC)	respiratory
+GWAS: Lung function (forced vital capacity)	respiratory
+GWAS: Lupus nephritis in systemic lupus erythematosus	urinary
+GWAS: Lymphocyte counts	lymphatic
+GWAS: Lymphocyte percentage of white cells	lymphatic
+GWAS: Lymphoma	lymphatic
+GWAS: MGMT methylation in smokers	other
+GWAS: Macular telangiectasia type 2	nervous
+GWAS: Macular thickness	nervous
+GWAS: Magnesium levels	other
+GWAS: Major depressive disorder	behavior
+GWAS: Major depressive disorder (broad)	behavior
+GWAS: Malaria	immune
+GWAS: Male fertility	reproductive
+GWAS: Male infertility	reproductive
+GWAS: Male-pattern baldness	integumentary
+GWAS: Mammographic density (dense area)	reproductive
+GWAS: Manganese levels	other
+GWAS: Manic episodes in bipolar disorder	behavior
+GWAS: Matrix metalloproteinase-8 levels	other
+GWAS: Mean arterial pressure	cardiovascular
+GWAS: Mean arterial pressure (alcohol consumption interaction)	cardiovascular
+GWAS: Mean arterial pressure (long-term average)	cardiovascular
+GWAS: Mean arterial pressure x alcohol consumption (light vs heavy) interaction (2df test)	cardiovascular
+GWAS: Mean arterial pressure x alcohol consumption interaction (2df test)	cardiovascular
+GWAS: Mean corpuscular hemoglobin	hematologic
+GWAS: Mean corpuscular hemoglobin concentration	hematologic
+GWAS: Mean corpuscular volume	hematologic
+GWAS: Mean diameter of HDL particles	metabolic
+GWAS: Mean platelet volume	hematologic
+GWAS: Medium LDL particle concentration	metabolic
+GWAS: Melanoma	integumentary
+GWAS: Memory dysfunction in frontotemporal lobe dementia	nervous
+GWAS: Menarche (age at onset)	reproductive
+GWAS: Menarche and menopause (age at onset)	reproductive
+GWAS: Menopause (age at onset)	reproductive
+GWAS: Menstruation quality of life impact (dysmenorrhea)	reproductive
+GWAS: Mercury levels	other
+GWAS: Metabolic syndrome	metabolic
+GWAS: Metabolic syndrome (bivariate traits)	metabolic
+GWAS: Metabolic syndrome (multivariate analysis)	metabolic
+GWAS: Metabolic traits	metabolic
+GWAS: Metabolite levels	metabolic
+GWAS: Metabolite levels  (X-11787)	metabolic
+GWAS: Metabolite levels (5-HIAA)	metabolic
+GWAS: Metabolite levels (5-HIAA/ MHPG Ratio)	metabolic
+GWAS: Metabolite levels (Dihydroxy docosatrienoic acid)	metabolic
+GWAS: Metabolite levels (HVA)	metabolic
+GWAS: Metabolite levels (HVA-5-HIAA Factor score)	metabolic
+GWAS: Metabolite levels (HVA/5-HIAA ratio)	metabolic
+GWAS: Metabolite levels (HVA/MHPG ratio)	metabolic
+GWAS: Metabolite levels (MHPG)	metabolic
+GWAS: Metabolite levels (Pyroglutamine)	metabolic
+GWAS: Metabolite levels (lipid measures)	metabolic
+GWAS: Metabolite levels (lipoprotein measures)	metabolic
+GWAS: Metabolite levels (small molecules and protein measures)	metabolic
+GWAS: Methadone dose in opioid dependence	other
+GWAS: Methotrexate phramacokinetics (acute lymphoblastic leukemia)	other
+GWAS: Microalbuminuria	other
+GWAS: Middle childhood and early adolescence aggressive behavior	behavior
+GWAS: Midgestational circulating levels of PBDEs	reproductive
+GWAS: Midgestational circulating levels of PBDEs (fetal genetic effect)	reproductive
+GWAS: Midgestational circulating levels of PCBs	reproductive
+GWAS: Migraine	nervous
+GWAS: Migraine - clinic-based	nervous
+GWAS: Migraine without aura	nervous
+GWAS: Mild influenza (H1N1) infection	immune
+GWAS: Milk allergy	immune
+GWAS: Mitochondrial DNA levels	other
+GWAS: Mitral valve prolapse	cardiovascular
+GWAS: Moderate or severe diarrhoea in darapladib-treated cardiovascular disease (time to event)	other
+GWAS: Moderate to vigorous physical activity levels	behavior
+GWAS: Modified Stumvoll Insulin Sensitivity Index (BMI interaction)	metabolic
+GWAS: Molar-incisor hypomineralization	skeletal
+GWAS: Molybdenum levels	other
+GWAS: Monobrow	integumentary
+GWAS: Monobrow thickness	integumentary
+GWAS: Monoclonal gammopathy of undetermined significance	hematologic
+GWAS: Monocyte chemoattractant protein-1 levels	immune
+GWAS: Monocyte count	immune
+GWAS: Monocyte early outgrowth colony forming units	immune
+GWAS: Monocyte percentage of white cells	immune
+GWAS: Mood instability	behavior
+GWAS: Morning vs. evening chronotype	behavior
+GWAS: Mortality in heart failure	cardiovascular
+GWAS: Mortality in sepsis	other
+GWAS: Mosquito bite size	other
+GWAS: Motion sickness	nervous
+GWAS: Moyamoya disease	cardiovascular
+GWAS: Multiple keratinocyte cancers	integumentary
+GWAS: Multiple myeloma	immune
+GWAS: Multiple myeloma and monoclonal gammopathy	immune
+GWAS: Multiple sclerosis	nervous
+GWAS: Multiple sclerosis (OCB status)	nervous
+GWAS: Multiple sclerosis (age of onset)	nervous
+GWAS: Multiple sclerosis (severity)	nervous
+GWAS: Multiple sclerosis and HDL levels (pleiotropy)	nervous
+GWAS: Multiple sclerosis and triglyceride levels (pleiotropy)	nervous
+GWAS: Multiple sclerosis--Brain Glutamate Levels	nervous
+GWAS: Multiple system atrophy	nervous
+GWAS: Multiple system atrophy (pathologically confirmed)	nervous
+GWAS: Mumps	immune
+GWAS: Myasthenia gravis	skeletal muscle
+GWAS: Myeloid white cell count	immune
+GWAS: Myeloproliferative neoplasms	hematologic
+GWAS: Myocardial infarction	cardiovascular
+GWAS: Myocardial infarction (early onset)	cardiovascular
+GWAS: Myopia	nervous
+GWAS: Myopia (pathological)	nervous
+GWAS: Myositis	skeletal muscle
+GWAS: N-glycan levels	endocrine
+GWAS: Narcolepsy	behavior
+GWAS: Narcolepsy with cataplexy	behavior
+GWAS: Nasopharyngeal carcinoma	other
+GWAS: Nasopharyngeal carcinoma (SNP x SNP interaction)	other
+GWAS: Neonatal cytokine/chemokine levels (fetal genetic effect)	other
+GWAS: Neonatal lupus	immune
+GWAS: Nephrolithiasis	urinary
+GWAS: Nephropathy	urinary
+GWAS: Neuritic plaque	nervous
+GWAS: Neuritic plaques or neurofibrillary tangles (pleiotropy)	nervous
+GWAS: Neuritic plaques or neurofibrillary tangles or cerebral amyloid angiopathy (pleiotropy)	nervous
+GWAS: Neuroblastoma	nervous
+GWAS: Neurociticism	behavior
+GWAS: Neurocognitive impairment in HIV-1 infection (continuous)	nervous
+GWAS: Neurocognitive impairment in HIV-1 infection (dichotomous)	nervous
+GWAS: Neurofibrillary tangles	nervous
+GWAS: Neuromyelitis optica	nervous
+GWAS: Neuromyelitis optica (AQP4-IgG-positive)	nervous
+GWAS: Neuropathic pain in type 2 diabetes	nervous
+GWAS: Neuroticism	behavior
+GWAS: Neutrophil count	lymphatic
+GWAS: Neutrophil count in HIV-infection	lymphatic
+GWAS: Neutrophil percentage of granulocytes	lymphatic
+GWAS: Neutrophil percentage of white cells	lymphatic
+GWAS: Nickel levels	other
+GWAS: Nicotine dependence	behavior
+GWAS: Nicotine dependence and major depression (severity of comorbidity)	behavior
+GWAS: Night sleep phenotypes	behavior
+GWAS: Nodular sclerosis Hodgkin lymphoma	lymphatic
+GWAS: Non-albumin protein levels	other
+GWAS: Non-alcoholic fatty liver disease histology (lobular)	digestive
+GWAS: Non-alcoholic fatty liver disease histology (other)	digestive
+GWAS: Non-cardia gastric cancer	digestive
+GWAS: Non-glioblastoma glioma	nervous
+GWAS: Non-melanoma skin cancer	integumentary
+GWAS: Non-obstructive azoospermia	reproductive
+GWAS: Non-response to antidepressants and depression	other
+GWAS: Non-response to bupropion and depression	other
+GWAS: Non-response to citalopram or escitalopram and depression	other
+GWAS: Non-response to selective serotonin reuptake inhibitors and depression	other
+GWAS: Non-small cell lung cancer	respiratory
+GWAS: Nonalcoholic fatty liver disease	digestive
+GWAS: Nonsyndromic cleft lip with cleft palate	other
+GWAS: Nonsyndromic cleft lip with or without cleft palate	other
+GWAS: Normalized brain volume	nervous
+GWAS: Nose morphology	skeletal
+GWAS: Nose size	skeletal
+GWAS: Number of children ever born	reproductive
+GWAS: Obese vs. thin	metabolic
+GWAS: Obesity	metabolic
+GWAS: Obesity (early onset extreme)	metabolic
+GWAS: Obesity (extreme)	metabolic
+GWAS: Obesity in adult survivors of childhood cancer exposed to cranial radiation	metabolic
+GWAS: Obesity-related traits	metabolic
+GWAS: Objective response to lithium treatment	other
+GWAS: Obsessive-compulsive disorder	behavior
+GWAS: Obsessive-compulsive disorder or autism spectrum disorder	behavior
+GWAS: Obsessive-compulsive symptoms	behavior
+GWAS: Obstetric antiphospholipid syndrome	immune
+GWAS: Obstructive sleep apnea during REM sleep (apnea hypopnea index)	other
+GWAS: Obstructive sleep apnea trait (apnea hypopnea index)	other
+GWAS: Obstructive sleep apnea trait (average respiratory event duration)	other
+GWAS: Oleic acid (18:1n-9) levels	other
+GWAS: Opioid sensitivity	other
+GWAS: Oppositional defiant disorder dimensions in attention-deficit hyperactivity disorder	behavior
+GWAS: Optic cup area	nervous
+GWAS: Optic disc area	nervous
+GWAS: Optic disc parameters	nervous
+GWAS: Optic nerve measurement (cup area)	nervous
+GWAS: Optic nerve measurement (cup-to-disc ratio)	nervous
+GWAS: Optic nerve measurement (disc area)	nervous
+GWAS: Optic nerve measurement (rim area)	nervous
+GWAS: Oral cavity and pharyngeal cancer	other
+GWAS: Oral cavity cancer	other
+GWAS: Orofacial clefts	other
+GWAS: Oropharynx cancer	other
+GWAS: Orthostatic hypotension	cardiovascular
+GWAS: Ossification of the posterior longitudinal ligament of the spine	skeletal
+GWAS: Osteoarthritis	skeletal
+GWAS: Osteoarthritis (hip)	skeletal
+GWAS: Osteoarthritis biomarkers	skeletal
+GWAS: Osteoporosis-related phenotypes	skeletal
+GWAS: Osteoprotegerin levels	skeletal
+GWAS: Osteosarcoma	skeletal
+GWAS: Otitis media	other
+GWAS: Otitis media (chronic)	other
+GWAS: Otitis media (recurrent)	other
+GWAS: Ovarian cancer	reproductive
+GWAS: Ovarian reserve	reproductive
+GWAS: Overweight status	metabolic
+GWAS: P wave duration	cardiovascular
+GWAS: P wave terminal force	cardiovascular
+GWAS: PCA3 expression level	other
+GWAS: PR interval	cardiovascular
+GWAS: PR interval in Tripanosoma cruzi seropositivity	cardiovascular
+GWAS: PR segment	cardiovascular
+GWAS: Paclitaxel disposition in epithelial ovarian cancer	other
+GWAS: Paclitaxel-induced neuropathy	other
+GWAS: Paget's disease	skeletal
+GWAS: Pain medicine use during menstruation	reproductive
+GWAS: Palmitic acid (16:0) levels	other
+GWAS: Palmitoleic acid (16:1n-7) levels	other
+GWAS: Pancreatic cancer	endocrine
+GWAS: Pancreatic ductal adenocarcinoma	endocrine
+GWAS: Pancreatitis	endocrine
+GWAS: Paneth cell defects in Crohn's disease	immune
+GWAS: Panic disorder	behavior
+GWAS: Papillary thyroid cancer	endocrine
+GWAS: Parent of origin effect on language impairment (paternal)	nervous
+GWAS: Parental lifespan	other
+GWAS: Parental longevity (both parents in top 10 percent)	other
+GWAS: Parental longevity (combined parental age at death)	other
+"GWAS: Parental longevity (combined parental attained age, Martingale residuals)"	other
+GWAS: Parental longevity (father's age at death)	other
+GWAS: Parental longevity (father's attained age)	other
+GWAS: Parental longevity (mother's attained age)	other
+GWAS: Parkinson disease and lewy body pathology	nervous
+GWAS: Parkinson's disease	nervous
+GWAS: Parkinson's disease (age of onset)	nervous
+GWAS: Parkinson's disease (motor and cognition)	nervous
+GWAS: Partial epilepsies	nervous
+GWAS: Peak cortisol response to low dose short synacthen test in corticosteroid treated asthma	other
+GWAS: Peak insulin response	other
+GWAS: Peanut allergy	immune
+GWAS: Peanut allergy (maternal genetic effects)	immune
+GWAS: Peanut allergy (parent-of-origin effect)	immune
+GWAS: Pediatric autoimmune diseases	immune
+GWAS: Pediatric bone mineral content (radius)	skeletal
+GWAS: Pediatric non-alcoholic fatty liver disease activity score	digestive
+GWAS: Pelvic organ prolapse	skeletal muscle
+GWAS: Pelvic organ prolapse (moderate/severe)	skeletal muscle
+GWAS: Perceived unattractiveness to mosquitoes	other
+GWAS: Percent mammographic density	reproductive
+GWAS: Percentage gas trapping	metabolic
+GWAS: Periodontal disease-related phenotypes	immune
+GWAS: Periodontal microbiota	immune
+GWAS: Periodontitis	immune
+GWAS: Periodontitis (CDC/AAP)	immune
+GWAS: Periodontitis (DPAL)	immune
+GWAS: Periodontitis (Mean PAL)	immune
+GWAS: Periodontitis (PAL4Q3)	immune
+GWAS: Perioperative myocardial infarction in coronary artery bypass surgery	cardiovascular
+GWAS: Peripheral arterial disease (traffic-related air pollution interaction)	cardiovascular
+GWAS: Peripheral artery disease	cardiovascular
+GWAS: Personality dimensions	behavior
+GWAS: Personality traits in bipolar disorder	behavior
+GWAS: Phospholipid levels (plasma)	metabolic
+GWAS: Phospholipid levels in large HDL	metabolic
+GWAS: Phospholipid levels in medium HDL	metabolic
+GWAS: Phosphorus levels	other
+GWAS: Photic sneeze reflex	nervous
+GWAS: Physical activity (overall physical activity time)	behavior
+GWAS: Pit-and-Fissure caries	skeletal
+GWAS: Placental abruption	reproductive
+GWAS: Plantar warts	integumentary
+GWAS: Plasma amyloid beta peptide concentrations (ABx-40)	nervous
+GWAS: Plasma amyloid beta peptide concentrations (ABx-42)	nervous
+GWAS: Plasma androstenedione levels in resected early stage-receptor positive breast cancer	other
+GWAS: Plasma clusterin levels	other
+GWAS: Plasma factor VII activating protease levels	other
+GWAS: Plasma homocysteine levels (post-methionine load test)	other
+GWAS: Plasma kynurenine levels in major depressive disorder	other
+GWAS: Plasma omega-3 polyunsaturated fatty acid level (eicosapentaenoic acid)	other
+GWAS: Plasma omega-3 polyunsaturated fatty acid levels (alphalinolenic acid)	other
+GWAS: Plasma omega-3 polyunsaturated fatty acid levels (docosapentaenoic acid)	other
+GWAS: Plasma omega-6 polyunsaturated fatty acid levels (adrenic acid)	other
+GWAS: Plasma omega-6 polyunsaturated fatty acid levels (arachidonic acid)	other
+GWAS: Plasma omega-6 polyunsaturated fatty acid levels (dihomo-gamma-linolenic acid)	other
+GWAS: Plasma omega-6 polyunsaturated fatty acid levels (gamma-linolenic acid)	other
+GWAS: Plasma omega-6 polyunsaturated fatty acid levels (linoleic acid)	other
+GWAS: Plasma parathyroid hormone levels	endocrine
+GWAS: Plasma plasminogen activator levels	hematologic
+GWAS: Plasma PCSK9 levels in stable coronary artery disease	cardiovascular
+GWAS: Plasma renin activity levels	cardiovascular
+GWAS: Plasma thyroid-stimulating hormone levels	endocrine
+GWAS: Plasma trimethylamine N-oxide levels	other
+GWAS: Plasminogen activator inhibitor type 1 levels (PAI-1)	other
+GWAS: Platelet aggregation	hematologic
+GWAS: Platelet count	hematologic
+GWAS: Platelet distribution width	hematologic
+GWAS: Plateletcrit	hematologic
+GWAS: Pneumococcal bacteremia	respiratory
+GWAS: Pneumoconiosis in silica exposure	respiratory
+GWAS: Pneumonia	respiratory
+GWAS: Polycystic ovary syndrome	reproductive
+GWAS: Polymyositis	skeletal muscle
+GWAS: Poor prognosis in Crohn's disease	other
+GWAS: Possible neuropathic pain in post total joint replacement surgery for osteoarthritis	other
+GWAS: Post bronchodilator FEV1	other
+GWAS: Post bronchodilator FEV1 in COPD	other
+GWAS: Post bronchodilator FEV1/FVC ratio	other
+GWAS: Post bronchodilator FEV1/FVC ratio in COPD	other
+GWAS: Post bronchodilator FEV1/FVC ratio in smoking	other
+GWAS: Post bronchodilator percent predicted FEV1 in smoking	other
+GWAS: Post-traumatic stress disorder	behavior
+GWAS: Post-traumatic stress disorder (asjusted for relatedness)	behavior
+GWAS: Posterior cortical atrophy and Alzheimer's disease	nervous
+GWAS: Potassium levels	other
+GWAS: Pre bronchodilator FEV1/FVC ratio	respiratory
+GWAS: Preeclampsia	reproductive
+GWAS: Premature menopause in childhood cancer survivors	other
+GWAS: Presence of antiphospholipid antibodies	other
+GWAS: Preterm birth (maternal effect)	reproductive
+GWAS: Prevalent atrial fibrillation	cardiovascular
+GWAS: Primary biliary cholangitis	digestive
+GWAS: Primary biliary cirrhosis	digestive
+GWAS: Primary sclerosing cholangitis	digestive
+GWAS: Primary tooth development (number of teeth)	skeletal
+GWAS: Primary tooth development (time to first tooth eruption)	skeletal
+GWAS: Problematic alcohol use in trauma-exposed individuals	behavior
+GWAS: Progranulin levels	nervous
+GWAS: Progressive supranuclear palsy	nervous
+GWAS: Proinsulin levels	metabolic
+GWAS: Prostate cancer	reproductive
+GWAS: Prostate cancer (SNP x SNP interaction)	reproductive
+GWAS: Prostate cancer (advanced)	reproductive
+GWAS: Prostate cancer (early onset)	reproductive
+GWAS: Prostate-specific antigen levels	reproductive
+GWAS: Prostate-specific antigen levels (conditioned on lead SNPs)	reproductive
+GWAS: Protein C levels	other
+GWAS: Protein quantitative trait loci	other
+GWAS: Proteinuria and chronic kidney disease	urinary
+GWAS: Proteinuria in chronic kidney disease	urinary
+GWAS: Prothrombin time	hematologic
+GWAS: Prudent dietary pattern	behavior
+GWAS: Psoriasis	integumentary
+GWAS: Psoriasis vulgaris	integumentary
+GWAS: Psoriatic arthritis	integumentary
+GWAS: Psychosis (atypical)	behavior
+GWAS: Psychosis and Alzheimer's disease	behavior
+GWAS: Psychosis in Alzheimer's disease	behavior
+GWAS: Psychosis proneness (hypomanic personality scale and revised physical anhedonia scale)	behavior
+GWAS: Psychosis proneness (hypomanic personality scale and revised social anhedonia scale)	behavior
+GWAS: Psychosis proneness (hypomanic personality scale)	behavior
+GWAS: Pubertal anthropometrics	skeletal
+GWAS: Pulmonary arterial hypertension	cardiovascular
+GWAS: Pulmonary artery enlargement and chronic obstructive pulmonary disease	cardiovascular
+GWAS: Pulmonary function	respiratory
+GWAS: Pulmonary function (smoking interaction)	respiratory
+GWAS: Pulmonary function decline	respiratory
+GWAS: Pulmonary function in asthmatics	respiratory
+GWAS: Pulse pressure	cardiovascular
+GWAS: Pulse pressure x alcohol consumption (light vs heavy) interaction (2df test)	cardiovascular
+GWAS: Pulse pressure x alcohol consumption interaction (2df test)	cardiovascular
+GWAS: Pursuit maintenance gain	skeletal muscle
+GWAS: Pursuit maintenance gain in psychotic disorders	skeletal muscle
+GWAS: Putamen volume	nervous
+GWAS: Pyoderma gangrenosum in inflammatory bowel disease	digestive
+GWAS: QRS complex (12-leadsum)	cardiovascular
+GWAS: QRS complex (Cornell)	cardiovascular
+GWAS: QRS duration	cardiovascular
+GWAS: QRS interval (sulfonylurea treatment interaction)	cardiovascular
+GWAS: QT interval	cardiovascular
+GWAS: QT interval (ambient particulate matter interaction)	cardiovascular
+GWAS: QT interval (drug interaction)	cardiovascular
+GWAS: QT interval (sulfonylurea treatment interaction)	cardiovascular
+GWAS: Quantitative traits	other
+GWAS: RR interval (heart rate)	cardiovascular
+GWAS: Radiation response	other
+GWAS: Rapid functional decline in sporadic amyotrophic lateral sclerosis	nervous
+GWAS: Reaction time	behavior
+GWAS: Reading and spelling	other
+GWAS: Reading disability or specific language impairment (pleiotropy)	other
+GWAS: Reading disability or specific language impairment adjusted for IQ (pleiotropy)	other
+GWAS: Recalcitrant atopic dermatitis	integumentary
+GWAS: Recurrent major depressive disorder	behavior
+GWAS: Red blood cell count	hematologic
+GWAS: Red blood cell density in sickle cell anemia	hematologic
+GWAS: Red blood cell fatty acid levels	hematologic
+GWAS: Red blood cell traits	hematologic
+GWAS: Red cell distribution width	hematologic
+GWAS: Red vs. brown/black hair color	integumentary
+GWAS: Refractive astigmatism	nervous
+GWAS: Refractive error	nervous
+GWAS: Regular attendance at a gym or sports club	behavior
+GWAS: Regular attendance at a pub or social club	behavior
+GWAS: Regular attendance at a religious group	behavior
+GWAS: Relative hand skill in reading disability	nervous
+GWAS: Remission after SSRI treatment in MDD or neuroticism	other
+GWAS: Remission after SSRI treatment in MDD or openness	other
+GWAS: Renal cell carcinoma	urinary
+GWAS: Renal function-related traits (BUN)	urinary
+GWAS: Renal function-related traits (eGRFcrea)	urinary
+GWAS: Renal function-related traits (sCR)	urinary
+GWAS: Renal overload gout	urinary
+GWAS: Renal sinus fat	urinary
+GWAS: Renal underexcretion gout	urinary
+GWAS: Residual cognition	nervous
+GWAS: Resistance to Mycobacterium tuberculosis in HIV+ individuals measured by a negative TST (continuous)	immune
+GWAS: Resistant hypertension	cardiovascular
+GWAS: Resistin levels	other
+GWAS: Response to SSRI (symptom remission)	other
+GWAS: Response to SSRI in MDD or openness	other
+GWAS: Response to TNF antagonist treatment	other
+GWAS: Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)	other
+GWAS: Response to TNF inhibitor in rheumatoid arthritis (change in tender 28-joint count)	other
+GWAS: Response to TNF-alpha inhibitors in rheumatoid arthritis	other
+GWAS: Response to Vitamin E supplementation	other
+GWAS: Response to acetaminophen (hepatotoxicity)	other
+GWAS: Response to alcohol consumption (flushing response)	other
+GWAS: Response to amphetamines	other
+GWAS: Response to angiotensin II receptor blocker therapy	other
+GWAS: Response to angiotensin II receptor blocker therapy (opposite direction w/ diuretic therapy)	other
+GWAS: Response to anti-TNF therapy in rheumatoid arthritis	other
+GWAS: Response to anti-depressant treatment in major depressive disorder	other
+GWAS: Response to anti-retroviral therapy (ddI/d4T) in HIV-1 (Grade 1 peripheral neuropathy)	other
+GWAS: Response to anti-retroviral therapy (ddI/d4T) in HIV-1 (Grade 2 peripheral neuropathy)	other
+GWAS: Response to anti-retroviral therapy (ddI/d4T) in HIV-1 (Grade 3 peripheral neuropathy)	other
+GWAS: Response to antidepressants	other
+GWAS: Response to antidepressants (symptom improvement)	other
+GWAS: Response to antidepressants (symptom remission)	other
+GWAS: Response to antidepressants and depression	other
+GWAS: Response to antidepressants in depression	other
+GWAS: Response to antineoplastic agents	other
+GWAS: Response to antipsychotic therapy (extrapyramidal side effects)	other
+GWAS: Response to antipsychotic treatment	other
+GWAS: Response to antipsychotic treatment in schizophrenia	other
+GWAS: Response to antipsychotic treatment in schizophrenia (reasoning)	other
+GWAS: Response to antipsychotic treatment in schizophrenia (working memory)	other
+GWAS: Response to bronchodilator in chronic obstructive pulmonary disease (change in FEV1)	other
+GWAS: Response to bupropion and depression	other
+GWAS: Response to bupropion in depression	other
+GWAS: Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	other
+GWAS: Response to citalopram or escitalopram and depression	other
+GWAS: Response to citalopram or escitalopram in depression	other
+GWAS: Response to citalopram treatment	other
+GWAS: Response to cognitive-behavioural therapy in anxiety disorder	other
+GWAS: Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	other
+GWAS: Response to cytadine analogues (cytosine arabinoside)	other
+GWAS: Response to cytidine analogues (gemcitabine)	other
+GWAS: Response to exercise (triglyceride level interaction)	other
+GWAS: Response to fenofibrate	other
+GWAS: Response to fenofibrate (HDL cholesterol levels)	other
+GWAS: Response to fenofibrate (LDL cholesterol levels)	other
+GWAS: Response to fenofibrate (adiponectin levels)	other
+GWAS: Response to fenofibrate (total cholesterol levels)	other
+GWAS: Response to fenofibrate (triglyceride levels)	other
+GWAS: Response to haloperidol in schizophrenia	other
+GWAS: Response to hepatitis B vaccine	other
+GWAS: Response to hepatitis C treatment	other
+GWAS: Response to iloperidone treatment (QT prolongation)	other
+GWAS: Response to inhaled corticosteroid treatment in asthma (change in FEV1)	other
+GWAS: Response to lithium treatment in bipolar disorder	other
+GWAS: Response to n-3 LC-PUFA supplementation (change in triglyceride levels)	other
+GWAS: Response to lurasidone in schizophrenia	other
+GWAS: Response to mTOR inhibitor (everolimus)	other
+GWAS: Response to mTOR inhibitor (rapamycin)	other
+GWAS: Response to metformin (IC50)	other
+GWAS: Response to methotrexate in juvenile idiopathic arthritis	other
+GWAS: Response to methylphenidate treatment in ADHD (blood pressure)	other
+GWAS: Response to perphenazine in schizophrenia	other
+GWAS: Response to platinum-based agents	other
+GWAS: Response to platinum-based chemotherapy (carboplatin)	other
+GWAS: Response to platinum-based chemotherapy (cisplatin)	other
+GWAS: Response to platinum-based chemotherapy in non-small-cell lung cancer	other
+GWAS: Response to platinum-based neoadjuvant chemotherapy in cervical cancer	other
+GWAS: Response to quetiapine in schizophrenia	other
+GWAS: Response to radiotherapy in cancer (late toxicity)	other
+GWAS: Response to selective serotonin reuptake inhibitors and depression	other
+GWAS: Response to selective serotonin reuptake inhibitors in depression	other
+GWAS: Response to serotonin reuptake inhibitors in major depressive disorder	other
+GWAS: Response to serotonin reuptake inhibitors in MDD (plasma drug and metabolite levels)	other
+GWAS: Response to simvastatin treatment (PCSK9 protein level change)	other
+GWAS: Response to statin therapy	other
+GWAS: Response to statins (LDL cholesterol change)	other
+GWAS: Response to taxane treatment (docetaxel)	other
+GWAS: Response to taxane treatment (placlitaxel)	other
+GWAS: Response to tocilizumab in rheumatoid arthritis	other
+GWAS: Response to treatment for acute lymphoblastic leukemia	other
+GWAS: Response to zileuton treatment in asthma (FEV1 change interaction)	other
+GWAS: Response to ziprazidone in schizophrenia	other
+GWAS: Resting heart rate	cardiovascular
+GWAS: Resting metabolic rate	metabolic
+GWAS: Resting-state electroencephalogram vigilance	nervous
+GWAS: Restless legs syndrome	nervous
+GWAS: Reticulocyte count	immune
+GWAS: Reticulocyte fraction of red cells	immune
+GWAS: Retinal arteriolar caliber	nervous
+GWAS: Retinal vascular caliber	nervous
+GWAS: Retinopathy in non-diabetics	nervous
+GWAS: Rhegmatogenous retinal detachment	nervous
+GWAS: Rheumatoid arthritis	immune
+GWAS: Rheumatoid arthritis (ACPA-negative)	immune
+GWAS: Rheumatoid arthritis (ACPA-positive)	immune
+GWAS: Rheumatoid arthritis (rheumatoid factor and/or anti-CCP seropositive)	immune
+GWAS: Right lateral prefrontal cortical growth	nervous
+GWAS: Rosacea symptom severity	integumentary
+GWAS: S-phenylmercapturic acid levels in smokers	other
+GWAS: Sarcoidosis	immune
+GWAS: Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	immune
+GWAS: Sarcoidosis (non-Lofgren's syndrome without extrapulmonary manifestations)	immune
+GWAS: Scalp hair shape	integumentary
+GWAS: Schizophrenia	behavior
+GWAS: Schizophrenia (inflammation and infection response interaction)	behavior
+GWAS: Schizophrenia (treatment resistant)	behavior
+GWAS: Schizophrenia or bipolar disorder	behavior
+"GWAS: Schizophrenia, bipolar disorder and depression (combined)"	behavior
+"GWAS: Schizophrenia, schizoaffective disorder or bipolar disorder"	behavior
+GWAS: Seasonality	behavior
+GWAS: Seasonality and depression	behavior
+GWAS: Seborrheic dermatitis	integumentary
+GWAS: Sedentary behaviour duration	behavior
+GWAS: Select biomarker traits	other
+GWAS: Selective IgA deficiency	immune
+GWAS: Self-rated health	immune
+GWAS: Self-reported allergy	immune
+GWAS: Self-reported risk-taking behaviour	behavior
+GWAS: Sense of smell	nervous
+GWAS: Sensory disturbances after bilateral sagittal split ramus osteotomy	nervous
+GWAS: Serum 25-Hydroxyvitamin D levels	other
+GWAS: Serum albumin level	other
+GWAS: Serum alkaline phosphatase levels	other
+GWAS: Serum bilirubin levels in metabolic syndrome	digestive
+GWAS: Serum bilirubin levels x Mediterranean diet adherence interaction in metabolic syndrome	digestive
+GWAS: Serum bilirubin levels x sex interaction in metabolic syndrome	digestive
+GWAS: Serum folate levels	other
+GWAS: Serum metabolite concentrations in chronic kidney disease	urinary
+GWAS: Serum metabolite levels	metabolic
+GWAS: Serum metabolite ratios in chronic kidney disease	urinary
+GWAS: Serum parathyroid hormone levels	endocrine
+GWAS: Serum prostate-specific antigen levels	reproductive
+GWAS: Serum protein levels (sST2)	other
+GWAS: Serum sulfate level	other
+GWAS: Serum thyroid-stimulating hormone levels	endocrine
+GWAS: Serum total cholesterol levels	metabolic
+GWAS: Serum total protein level	other
+GWAS: Serum urate levels in chronic kidney disease	urinary
+GWAS: Serum uric acid levels	other
+GWAS: Serum uric acid levels in response to allopurinol in gout	other
+GWAS: Severe aortic features in Marfan syndrome	cardiovascular
+GWAS: Severe gingival inflammation	immune
+GWAS: Severe influenza A (H1N1) infection	immune
+GWAS: Severe malaria	immune
+GWAS: Severe malaria (adjusted for sickle cell variant rs334)	immune
+GWAS: Severity of nausea and vomiting of pregnancy	reproductive
+GWAS: Sex hormone levels	endocrine
+GWAS: Sex hormone-binding globulin levels	endocrine
+GWAS: Sexual dimorphism in anthropometric traits	skeletal
+GWAS: Sexual dysfunction (SSRI/SNRI-related)	reproductive
+GWAS: Shingles	immune
+GWAS: Sickle cell anemia (haemolysis)	hematologic
+GWAS: Sitting height ratio	skeletal
+GWAS: Sjogren's syndrome	immune
+GWAS: Skin aging (microtopography measurement)	integumentary
+GWAS: Skin colour saturation	integumentary
+GWAS: Skin pigmentation	integumentary
+GWAS: Skin sensitivity to sun	integumentary
+GWAS: Sleep duration	behavior
+GWAS: Sleep quality	behavior
+GWAS: Sleep traits (multi-trait analysis)	other
+GWAS: Small LDL particle concentration	metabolic
+GWAS: Small cell lung carcinoma	respiratory
+GWAS: Small vessel stroke	cardiovascular
+GWAS: Smoking behavior	behavior
+GWAS: Smoking cessation in chronic obstructive pulmonary disease	respiratory
+GWAS: Smoking initiation	behavior
+GWAS: Smooth-surface caries	skeletal
+GWAS: Social autistic-like traits	behavior
+GWAS: Social communication problems	behavior
+GWAS: Social science traits (pleiotropy) (HIPO component 1)	behavior
+GWAS: Sodium levels	other
+GWAS: Soluble interleukin-2 receptor subunit alpha	immune
+GWAS: Spherical equivalent (joint analysis main effects and education interaction)	nervous
+GWAS: Spherical equivalent or myopia (age of diagnosis)	nervous
+GWAS: Sphingolipid levels	metabolic
+GWAS: Spontaneous preterm birth (preterm birth)	reproductive
+GWAS: Sporadic neuroblastoma	nervous
+GWAS: Sporadic pituitary adenoma	nervous
+GWAS: Squamous cell carcinoma	integumentary
+GWAS: Squamous cell lung carcinoma	respiratory
+GWAS: Staphylococcus aureus infection	immune
+GWAS: Staphylococcus aureus nasal carriage (intermittent)	immune
+GWAS: Staphylococcus aureus nasal carriage (persistent)	immune
+GWAS: Stearic acid (18:0) levels	other
+GWAS: Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS-TEN)	integumentary
+GWAS: Strenuous sports or other exercises	behavior
+GWAS: Strep throat	immune
+GWAS: Stroke	cardiovascular
+GWAS: Stroke (ischemic)	cardiovascular
+GWAS: Subclinical trait of interstitial lung disease (basilar peel-core ratio of HAA on CT scan)	respiratory
+GWAS: Subcortical brain region volumes	nervous
+GWAS: Subcutaneous adipose tissue	metabolic
+GWAS: Subiculum volume	nervous
+GWAS: Subjective response to lithium treatment	other
+GWAS: Subjective response to lithium treatment in bipolar disorder	other
+GWAS: Sudden cardiac arrest	cardiovascular
+GWAS: Suffering from nerves	behavior
+GWAS: Suicide behavior	behavior
+GWAS: Suicide in bipolar disorder	behavior
+GWAS: Suicide risk	behavior
+GWAS: Sulfasalazine-induced agranulocytosis	hematologic
+GWAS: Sum basophil neutrophil counts	hematologic
+GWAS: Sum eosinophil basophil counts	hematologic
+GWAS: Sum neutrophil eosinophil counts	hematologic
+GWAS: Superior frontal gyrus grey matter volume	nervous
+GWAS: Survival in colon cancer	other
+GWAS: Survival in microsatellite instability low/stable colorectal cancer	other
+GWAS: Survival in pancreatic cancer	other
+GWAS: Survival in sporadic amyotrophic lateral sclerosis	other
+GWAS: Susceptibility to persistent hepatitis B virus infection	immune
+GWAS: Systemic juvenile idiopathic arthritis	immune
+GWAS: Systemic lupus erythematosus	immune
+GWAS: Systemic lupus erythematosus and Systemic sclerosis	immune
+GWAS: Systemic lupus erythematosus or rheumatoid arthritis	immune
+GWAS: Systemic sclerosis	other
+GWAS: Systemic sclerosis (anti-centromere-positive)	other
+GWAS: Systemic sclerosis (anti-topoisomerase-positive)	other
+GWAS: Systolic blood pressure	cardiovascular
+GWAS: Systolic blood pressure (alcohol consumption interaction)	cardiovascular
+GWAS: Systolic blood pressure (cigarette smoking interaction)	cardiovascular
+GWAS: Systolic blood pressure change trajectories	cardiovascular
+GWAS: Systolic blood pressure in sickle cell anemia	cardiovascular
+GWAS: Systolic blood pressure response to hydrochlorothiazide in hypertension	cardiovascular
+GWAS: Systolic blood pressure x alcohol consumption (light vs heavy) interaction (2df test)	cardiovascular
+GWAS: Systolic blood pressure x alcohol consumption interaction (2df test)	cardiovascular
+GWAS: Systolic blood pressure x smoking status (current vs non-current) interaction (1df test)	cardiovascular
+GWAS: Systolic blood pressure x smoking status (current vs non-current) interaction (2df test)	cardiovascular
+GWAS: Systolic blood pressure x smoking status (ever vs never) interaction (2df test)	cardiovascular
+GWAS: TB-LM or TBLH-BMD (pleiotropy)	skeletal muscle
+GWAS: Tacrolimus trough concentration in kidney transplant patients	immune
+GWAS: Takayasu arteritis	cardiovascular
+GWAS: Tandem gait	skeletal muscle
+GWAS: Tanning	integumentary
+GWAS: Telomere length	other
+GWAS: Temperament	behavior
+GWAS: Temperament (bipolar disorder)	behavior
+GWAS: Temporomandibular joint disorder	skeletal muscle
+GWAS: Tenofovir clearance in HIV infection	other
+GWAS: Testicular germ cell cancer	reproductive
+GWAS: Testicular germ cell tumor	reproductive
+GWAS: Thiazide-induced adverse metabolic effects in hypertensive patients	other
+GWAS: Thiopurine-induced alopecia in inflammatory bowel disease	other
+GWAS: Thiopurine-induced leukopenia in inflammatory bowel disease	other
+GWAS: Thrombin-activatable fibrinolysis inhibitor activation peptide	hematologic
+GWAS: Thrombin-activatable fibrinolysis inhibitor levels	hematologic
+GWAS: Thrombosis	hematologic
+GWAS: Thyroid cancer	endocrine
+"GWAS: Thyroid cancer (Papillary, radiation-related)"	endocrine
+GWAS: Thyroid function	endocrine
+GWAS: Thyroid hormone levels	endocrine
+GWAS: Thyroid peroxidase antibody levels	endocrine
+GWAS: Thyroid peroxidase antibody positivity	endocrine
+GWAS: Thyroid stimulating hormone	endocrine
+GWAS: Ticagrelor levels in individuals with acute coronary syndromes treated with ticagrelor	hematologic
+GWAS: Time-dependent creatinine clearance change response to tenofovir treatment in HIV infection	skeletal muscle
+GWAS: Toenail selenium levels	other
+GWAS: Tonometry	nervous
+GWAS: Tonsillectomy	lymphatic
+GWAS: Tooth agenesis	skeletal
+GWAS: Total bilirubin levels	digestive
+GWAS: Total bilirubin levels in HIV-1 infection	digestive
+GWAS: Total body bone mineral density	skeletal
+GWAS: Total cholesterol change in response to fenofibrate in statin-treated type 2 diabetes	metabolic
+GWAS: Total cholesterol levels	metabolic
+GWAS: Total cholesterol levels in HDL	metabolic
+GWAS: Total cholesterol levels in LDL	metabolic
+GWAS: Total cholesterol levels in large LDL	metabolic
+GWAS: Total cholesterol levels in medium LDL	metabolic
+GWAS: Total cholesterol levels in small LDL	metabolic
+GWAS: Total hippocampal volume	nervous
+GWAS: Total ventricular volume	cardiovascular
+GWAS: Total ventricular volume (Alzheimer's disease interaction)	cardiovascular
+GWAS: Tourette syndrome	behavior
+GWAS: Tourette's syndrome or obsessive-compulsive disorder	behavior
+GWAS: Treatment response for severe sepsis	other
+GWAS: Triglyceride change in response to fenofibrate in statin-treated type 2 diabetes	metabolic
+GWAS: Triglyceride levels	metabolic
+GWAS: Triglycerides	metabolic
+GWAS: Triglycerides-Blood Pressure (TG-BP)	metabolic
+GWAS: Triptolide cytotoxicity	other
+GWAS: Tuberculosis	immune
+GWAS: Tuberculosis (SNP x SNP interaction)	immune
+GWAS: Tumor biomarkers	immune
+GWAS: Two-hour glucose challenge	metabolic
+GWAS: Type 1 diabetes	metabolic
+GWAS: Type 1 diabetes and autoimmune thyroid diseases	metabolic
+GWAS: Type 1 diabetes autoantibodies in high risk HLA genotype individuals (time to event)	metabolic
+GWAS: Type 1 diabetes in high risk HLA genotype individuals (time to event)	metabolic
+GWAS: Type 1 diabetes nephropathy	metabolic
+GWAS: Type 2 diabetes	metabolic
+"GWAS: Type 2 diabetes (SNP x SNP interaction, 1df)"	metabolic
+"GWAS: Type 2 diabetes (SNP x SNP interaction, 2df)"	metabolic
+GWAS: Type 2 diabetes (age of onset)	metabolic
+GWAS: Type 2 diabetes (dietary heme iron intake interaction)	metabolic
+GWAS: Type 2 diabetes and other traits	metabolic
+GWAS: Type 2 diabetes nephropathy	metabolic
+GWAS: Type 2 diabetes nephropathy including microalbuminuria	metabolic
+GWAS: Ulcerative colitis	digestive
+GWAS: Ulna and radius bone mineral density	skeletal
+GWAS: Upper eyelid morphology	integumentary
+GWAS: Upper eyelid sagging severity	integumentary
+GWAS: Urate levels	metabolic
+GWAS: Urate levels (BMI interaction)	metabolic
+GWAS: Urate levels in lean individuals	metabolic
+GWAS: Urate levels in obese individuals	metabolic
+GWAS: Urate levels in overweight individuals	metabolic
+GWAS: Uric acid levels	metabolic
+GWAS: Urinary albumin excretion	metabolic
+GWAS: Urinary albumin excretion (no hypertensive medication)	metabolic
+GWAS: Urinary albumin-to-creatinine ratio	metabolic
+GWAS: Urinary albumin-to-creatinine ratio in non-diabetics	metabolic
+GWAS: Urinary bladder cancer	metabolic
+GWAS: Urinary magnesium-to-creatinine ratio	metabolic
+GWAS: Urinary metabolite concentrations in chronic kidney disease	metabolic
+GWAS: Urinary metabolite ratios in chronic kidney disease	metabolic
+GWAS: Urinary metabolites	metabolic
+GWAS: Urinary metabolites (H-NMR features)	metabolic
+GWAS: Uterine fibroid number (single vs multiple)	reproductive
+GWAS: Uterine fibroid size (maximum dimension)	reproductive
+GWAS: Uterine fibroid size (maximum volume)	reproductive
+GWAS: Uterine fibroids	reproductive
+GWAS: Vascular brain injury	cardiovascular
+GWAS: Vascular endothelial growth factor levels	other
+GWAS: Vein graft stenosis in coronary artery bypass grafting	cardiovascular
+GWAS: Venous thromboembolism	hematologic
+GWAS: Venous thromboembolism adjusted for sickle cell variant rs77121243-T	hematologic
+GWAS: Verbal declarative memory	nervous
+GWAS: Vertical cup-disc ratio	nervous
+GWAS: Very long-chain saturated fatty acid levels (fatty acid 20:0)	metabolic
+GWAS: Very long-chain saturated fatty acid levels (fatty acid 22:0)	metabolic
+GWAS: Vestibular neuritis	nervous
+GWAS: Vigorous physical activity	behavior
+GWAS: Vincristine-induced peripheral neuropathy in acute lymphoblastic leukemia	nervous
+GWAS: Virologic severity in Herpes simplex virus type 2 infection	immune
+GWAS: Visceral adipose tissue	metabolic
+GWAS: Visceral adipose tissue adjusted for BMI	metabolic
+GWAS: Visceral adipose tissue/subcutaneous adipose tissue ratio	metabolic
+GWAS: Visceral fat	metabolic
+GWAS: Vitamin B levels in ischemic stroke	other
+GWAS: Vitamin B12 levels	other
+GWAS: Vitamin D levels	other
+GWAS: Vitamin D levels (dietary vitamin D intake interaction)	other
+GWAS: Vitamin E levels	other
+GWAS: Vitiligo	integumentary
+GWAS: Vogt-Koyanagi-Harada syndrome	integumentary
+GWAS: Waist Circumference - Triglycerides (WC-TG)	skeletal
+GWAS: Waist circumference	skeletal
+GWAS: Waist circumference adjusted for BMI (adjusted for smoking behaviour)	skeletal
+GWAS: Waist circumference adjusted for BMI (joint analysis main effects and physical activity interaction)	skeletal
+GWAS: Waist circumference adjusted for BMI (joint analysis main effects and smoking interaction)	skeletal
+GWAS: Waist circumference adjusted for BMI in active individuals	skeletal
+GWAS: Waist circumference adjusted for BMI in inactive individuals	skeletal
+GWAS: Waist circumference adjusted for BMI in non-smokers	skeletal
+GWAS: Waist circumference adjusted for BMI in smokers	skeletal
+GWAS: Waist circumference adjusted for body mass index	skeletal
+GWAS: Waist-hip ratio	skeletal
+GWAS: Waist-to-hip circumference ratio (dietary energy interaction)	skeletal
+GWAS: Waist-to-hip circumference ratio (ever vs never smoking interaction)	skeletal
+GWAS: Waist-to-hip circumference ratio (smoking years interaction)	skeletal
+GWAS: Waist-to-hip ratio adjusted for BMI	skeletal
+GWAS: Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour)	skeletal
+GWAS: Waist-to-hip ratio adjusted for BMI (age <50)	skeletal
+GWAS: Waist-to-hip ratio adjusted for BMI (age >50)	skeletal
+GWAS: Waist-to-hip ratio adjusted for BMI (joint analysis for main effect and physical activity interaction)	skeletal
+GWAS: Waist-to-hip ratio adjusted for BMI (joint analysis main effects and smoking interaction)	skeletal
+GWAS: Waist-to-hip ratio adjusted for BMI in active individuals	skeletal
+GWAS: Waist-to-hip ratio adjusted for BMI in inactive individuals	skeletal
+GWAS: Waist-to-hip ratio adjusted for BMI in non-smokers	skeletal
+GWAS: Waist-to-hip ratio adjusted for BMI x sex interaction	skeletal
+GWAS: Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)	skeletal
+GWAS: Waist-to-hip ratio adjusted for body mass index	skeletal
+GWAS: Warfarin maintenance dose	hematologic
+GWAS: Wegener's granulomatosis	cardiovascular
+GWAS: Weight	skeletal
+GWAS: Weight loss (gastric bypass surgery)	skeletal
+GWAS: Western dietary pattern	behavior
+GWAS: White blood cell count	immune
+GWAS: White blood cell count (basophil)	immune
+GWAS: White blood cell count (monocyte)	immune
+GWAS: White blood cell types	immune
+GWAS: White matter growth	nervous
+GWAS: White matter hyperintensities in ischemic stroke	nervous
+GWAS: White matter hyperintensity burden	nervous
+GWAS: White matter integrity	nervous
+GWAS: White matter integrity (bipolar disorder risk interaction)	nervous
+GWAS: White matter lesion progression	nervous
+GWAS: White matter lesion progression (adjusted for white matter lesion burden at baseline)	nervous
+GWAS: Whole-brain volume (Alzheimer's disease interaction)	nervous
+GWAS: Worry too long after an embarrassing experience	behavior
+GWAS: Yeast infection	immune
+GWAS: Yu-Zhi constitution type in type 2 diabetes	hematologic
+GWAS: Zinc levels	other
+GWAS: antipsychotic drug dosage in schizophrenia or schizoaffective disorder	other
+GWAS: circulating leptin levels	metabolic
+GWAS: circulating leptin levels adjusted for BMI	metabolic
+GWAS: facial morphology traits (multivariate analysis)	skeletal
+GWAS: middle facial morphology traits (quantitative measurement)	skeletal
+GWAS: nicotine metabolite ratio in current smokers	metabolic
+GWAS: vWF and FVIII levels	hematologic

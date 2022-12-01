@@ -1,0 +1,1780 @@
+HPO_term	system
+HPO: Abnormality of B cell number (HP:0010975)	lymphatic
+HPO: B lymphocytopenia (HP:0010976)	lymphatic
+HPO: Hypobetalipoproteinemia (HP:0003563)	metabolic
+HPO: Gastrointestinal atresia (HP:0002589)	digestive
+HPO: Birth length less than 3rd percentile (HP:0003561)	skeletal
+HPO: Peritonitis (HP:0002586)	digestive
+HPO: Abnormality of the peritoneum (HP:0002585)	digestive
+HPO: Colitis (HP:0002583)	digestive
+HPO: Volvulus (HP:0002580)	digestive
+HPO: Elevated erythrocyte sedimentation rate (HP:0003565)	hematologic
+HPO: Obsessive-compulsive behavior (HP:0000722)	behavior
+HPO: Dementia (HP:0000726)	nervous
+HPO: Abnormal eating behavior (HP:0100738)	behavior
+HPO: Generalized aminoaciduria (HP:0002909)	urinary
+HPO: Conjugated hyperbilirubinemia (HP:0002908)	digestive
+HPO: Muscular dystrophy (HP:0003560)	skeletal muscle
+HPO: Hyponatremia (HP:0002902)	other
+HPO: Hypocalcemia (HP:0002901)	other
+HPO: Hypokalemia (HP:0002900)	other
+HPO: Hypertensive crisis (HP:0100735)	cardiovascular
+HPO: Hyperphosphatemia (HP:0002905)	other
+HPO: Hyperbilirubinemia (HP:0002904)	digestive
+HPO: Flat acetabular roof (HP:0003180)	skeletal
+HPO: Upper limb amyotrophy (HP:0009129)	nervous
+HPO: Breast hypoplasia (HP:0003187)	reproductive
+HPO: Long nose (HP:0003189)	skeletal
+HPO: Aplasia/Hypoplasia involving the sinuses (HP:0009120)	other
+HPO: Abnormality of the femoral head (HP:0003368)	skeletal
+HPO: Spina bifida occulta (HP:0003298)	skeletal
+HPO: Abdominal situs inversus (HP:0003363)	other
+HPO: Hemorrhage of the eye (HP:0011885)	cardiovascular
+HPO: Abnormality of the vitreous humor (HP:0004327)	nervous
+HPO: Abnormal isoelectric focusing of serum transferrin (HP:0003160)	other
+HPO: Elevated circulating parathyroid hormone (PTH) level (HP:0003165)	endocrine
+HPO: Embryonal renal neoplasm (HP:0011794)	urinary
+HPO: Abnormal umbilical cord blood vessels (HP:0011403)	cardiovascular
+HPO: Action tremor (HP:0002345)	nervous
+HPO: Progressive neurologic deterioration (HP:0002344)	nervous
+HPO: Abnormality of placental membranes (HP:0011409)	reproductive
+"HPO: Intellectual disability, moderate (HP:0002342)"	nervous
+HPO: Impaired vibration sensation in the lower limbs (HP:0002166)	nervous
+HPO: Low posterior hairline (HP:0002162)	integumentary
+HPO: Calf muscle hypertrophy (HP:0008981)	skeletal muscle
+HPO: Scanning speech (HP:0002168)	nervous
+HPO: Cutaneous melanoma (HP:0012056)	integumentary
+HPO: Sepsis (HP:0100806)	immune
+HPO: Constipation (HP:0002019)	digestive
+HPO: Nausea (HP:0002018)	other
+HPO: Aplasia/Hypoplasia of the earlobes (HP:0009906)	integumentary
+HPO: Vomiting (HP:0002013)	digestive
+HPO: Dysphagia (HP:0002015)	digestive
+HPO: Pancreatic fibrosis (HP:0100732)	digestive
+HPO: Attenuation of retinal blood vessels (HP:0007843)	cardiovascular
+HPO: Transposition of the great arteries (HP:0001669)	cardiovascular
+HPO: Ventricular fibrillation (HP:0001663)	cardiovascular
+HPO: Bradycardia (HP:0001662)	cardiovascular
+HPO: Opisthotonus (HP:0002179)	skeletal muscle
+HPO: Truncus arteriosus (HP:0001660)	cardiovascular
+HPO: Abnormality of the distal phalanx of the thumb (HP:0009617)	skeletal
+HPO: Ankle contracture (HP:0006466)	skeletal muscle
+HPO: Generalized hyperpigmentation (HP:0007440)	integumentary
+HPO: Abnormality of the aortic arch (HP:0012303)	cardiovascular
+HPO: Bowing of the arm (HP:0006488)	skeletal
+HPO: Abnormality of primary teeth (HP:0006481)	skeletal
+HPO: Abnormality of the dental root (HP:0006486)	skeletal
+HPO: Concave nail (HP:0001598)	integumentary
+HPO: Bell-shaped thorax (HP:0001591)	skeletal
+HPO: Selective tooth agenesis (HP:0001592)	skeletal
+HPO: Neoplasm of striated muscle (HP:0009728)	skeletal muscle
+HPO: Striae distensae (HP:0001065)	integumentary
+HPO: Adenoma sebaceum (HP:0009720)	integumentary
+HPO: Acne (HP:0001061)	integumentary
+HPO: Acrocyanosis (HP:0001063)	integumentary
+HPO: Bladder neoplasm (HP:0009725)	urinary
+HPO: Ureteral obstruction (HP:0006000)	urinary
+HPO: Broad phalanx (HP:0006009)	skeletal
+HPO: Aplasia/Hypoplasia affecting the fundus (HP:0008057)	nervous
+HPO: Abnormal cartilage morphology (HP:0002763)	other
+HPO: Abnormality of the vasculature of the conjunctiva (HP:0008054)	cardiovascular
+HPO: Aplasia of the musculature (HP:0100854)	skeletal muscle
+HPO: Aplasia/Hypoplasia of the macula (HP:0008059)	nervous
+HPO: Aplasia/Hypoplasia of the optic nerve (HP:0008058)	nervous
+HPO: Venous insufficiency (HP:0005293)	cardiovascular
+HPO: Tetany (HP:0001281)	endocrine
+HPO: Bulbar palsy (HP:0001283)	nervous
+HPO: Spastic tetraparesis (HP:0001285)	nervous
+HPO: Meningitis (HP:0001287)	nervous
+HPO: Radial deviation of finger (HP:0009466)	skeletal
+HPO: Confusion (HP:0001289)	nervous
+HPO: Abnormality of the hip-girdle musculature (HP:0001445)	skeletal muscle
+HPO: Aplasia/Hypoplasia of the scapulae (HP:0006713)	skeletal
+HPO: Aplasia/Hypoplasia of the clavicles (HP:0006710)	skeletal
+HPO: Hereditary nonpolyposis colorectal carcinoma (HP:0006716)	digestive
+HPO: Aplasia/Hypoplasia of the sternum (HP:0006714)	skeletal
+HPO: Chorioretinal atrophy (HP:0000533)	nervous
+HPO: Overlapping toe (HP:0001845)	skeletal
+HPO: Preaxial foot polydactyly (HP:0001841)	skeletal
+HPO: Metatarsus adductus (HP:0001840)	skeletal
+HPO: Mildly elevated creatine phosphokinase (HP:0008180)	other
+HPO: Abnormality of the renal collecting system (HP:0004742)	urinary
+HPO: Aplasia/hypoplasia of the femur (HP:0005613)	skeletal
+HPO: Ragged-red muscle fibers (HP:0003200)	skeletal muscle
+HPO: Accelerated skeletal maturation (HP:0005616)	skeletal
+HPO: Gingival bleeding (HP:0000225)	immune
+HPO: Astrocytoma (HP:0009592)	nervous
+HPO: Broad ribs (HP:0000885)	skeletal
+HPO: Cupped ribs (HP:0000887)	skeletal
+HPO: Hypoplastic scapulae (HP:0000882)	skeletal
+HPO: Thin ribs (HP:0000883)	skeletal
+HPO: Progressive sensorineural hearing impairment (HP:0000408)	nervous
+HPO: Macroglossia (HP:0000158)	other
+HPO: Macrotia (HP:0000400)	other
+HPO: Reduced subcutaneous adipose tissue (HP:0003758)	metabolic
+HPO: Stenosis of the external auditory canal (HP:0000402)	nervous
+HPO: Recurrent otitis media (HP:0000403)	nervous
+HPO: Wide mouth (HP:0000154)	skeletal
+HPO: Erectile abnormalities (HP:0100639)	reproductive
+HPO: Hypochromic anemia (HP:0001931)	hematologic
+HPO: Microcytic anemia (HP:0001935)	hematologic
+HPO: Abnormality of hair growth rate (HP:0011363)	integumentary
+HPO: Neoplasm of the adrenal gland (HP:0100631)	endocrine
+HPO: Neuroendocrine neoplasm (HP:0100634)	other
+HPO: Patchy hypopigmentation of hair (HP:0011365)	integumentary
+HPO: Absent toe (HP:0010760)	skeletal
+HPO: Palmar hyperkeratosis (HP:0010765)	integumentary
+HPO: Difficulty running (HP:0009046)	other
+HPO: Horseshoe kidney (HP:0000085)	urinary
+HPO: Ectopic kidney (HP:0000086)	urinary
+HPO: Hamartoma (HP:0010566)	other
+HPO: Duplicated collecting system (HP:0000081)	urinary
+HPO: Hamartoma of the eye (HP:0010568)	nervous
+HPO: Juvenile onset (HP:0003621)	other
+HPO: Renal hypoplasia (HP:0000089)	urinary
+HPO: Neonatal onset (HP:0003623)	other
+HPO: Hematochezia (HP:0002573)	digestive
+HPO: Testicular neoplasm (HP:0010788)	reproductive
+HPO: Tracheoesophageal fistula (HP:0002575)	respiratory
+HPO: Erythema (HP:0010783)	integumentary
+HPO: Hyperacusis (HP:0010780)	nervous
+HPO: Gastrointestinal dysmotility (HP:0002579)	digestive
+HPO: Uterine neoplasm (HP:0010784)	reproductive
+HPO: Aggressive behavior (HP:0000718)	behavior
+HPO: Inappropriate behavior (HP:0000719)	behavior
+HPO: Depression (HP:0000716)	behavior
+HPO: Autism (HP:0000717)	nervous
+HPO: Restlessness (HP:0000711)	behavior
+HPO: Emotional lability (HP:0000712)	behavior
+HPO: Agitation (HP:0000713)	behavior
+HPO: Congenital sensorineural hearing impairment (HP:0008527)	nervous
+HPO: Cortical visual impairment (HP:0100704)	nervous
+HPO: Radioulnar synostosis (HP:0002974)	skeletal
+HPO: Abnormality of the astrocytes (HP:0100707)	nervous
+HPO: Abnormal ventriculo-arterial connection (HP:0011563)	cardiovascular
+HPO: Short thorax (HP:0010306)	skeletal
+HPO: Short nose (HP:0003196)	skeletal
+HPO: Hand muscle atrophy (HP:0009130)	skeletal muscle
+HPO: Flat face (HP:0012368)	skeletal
+HPO: Pulmonary artery stenosis (HP:0004415)	cardiovascular
+HPO: Thrombophlebitis (HP:0004418)	cardiovascular
+HPO: Decreased muscle mass (HP:0003199)	skeletal muscle
+HPO: Adrenal overactivity (HP:0002717)	endocrine
+HPO: Downturned corners of mouth (HP:0002714)	skeletal muscle
+HPO: Steppage gait (HP:0003376)	skeletal muscle
+HPO: Flat capital femoral epiphysis (HP:0003370)	skeletal
+HPO: Protrusio acetabuli (HP:0003179)	skeletal
+HPO: Vertebral clefting (HP:0008428)	skeletal
+HPO: Abnormality of the acetabulum (HP:0003170)	skeletal
+HPO: Abnormality of the pubic bones (HP:0003172)	skeletal
+HPO: Hypoplastic ischia (HP:0003175)	skeletal
+HPO: Abnormality of the ischium (HP:0003174)	skeletal
+HPO: Abnormality of the fetal cardiovascular system (HP:0010948)	cardiovascular
+HPO: Loss of speech (HP:0002371)	other
+HPO: Febrile seizures (HP:0002373)	other
+HPO: Diminished movement (HP:0002374)	nervous
+HPO: Hypokinesia (HP:0002375)	skeletal muscle
+HPO: Arthrogryposis multiplex congenita (HP:0002804)	skeletal muscle
+HPO: Increased serum ferritin (HP:0003281)	other
+HPO: Hypercalciuria (HP:0002150)	other
+HPO: Overriding aorta (HP:0002623)	cardiovascular
+HPO: Hyperkalemia (HP:0002153)	other
+HPO: Hyperglycinemia (HP:0002154)	metabolic
+HPO: Hypertriglyceridemia (HP:0002155)	metabolic
+HPO: Venous abnormality (HP:0002624)	cardiovascular
+HPO: Deep venous thrombosis (HP:0002625)	hematologic
+HPO: Degeneration of anterior horn cells (HP:0002398)	nervous
+HPO: Lower limb hyperreflexia (HP:0002395)	nervous
+HPO: Follicular hyperkeratosis (HP:0007502)	integumentary
+HPO: Decreased testicular size (HP:0008734)	reproductive
+HPO: Pendular nystagmus (HP:0012043)	nervous
+HPO: Focal motor seizures (HP:0011153)	nervous
+HPO: Annular pancreas (HP:0001734)	digestive
+HPO: Chronic diarrhea (HP:0002028)	digestive
+HPO: Abnormality of the epiphyses of the phalanges of the hand (HP:0005920)	skeletal
+HPO: Abnormal ossification of hand bones (HP:0005921)	skeletal
+HPO: Abdominal pain (HP:0002027)	other
+HPO: Abnormality of the epiphyses of the hand (HP:0005924)	skeletal
+HPO: Pyloric stenosis (HP:0002021)	digestive
+HPO: Anal atresia (HP:0002023)	digestive
+HPO: Dysphonia (HP:0001618)	other
+HPO: Nasolacrimal duct obstruction (HP:0000579)	other
+HPO: Weak cry (HP:0001612)	other
+HPO: Nasal speech (HP:0001611)	other
+HPO: Abnormality of the alveolar ridges (HP:0006477)	skeletal
+HPO: Abnormality of the pancreatic islet cells (HP:0006476)	digestive
+HPO: Deviation of the thumb (HP:0009603)	skeletal
+HPO: Abnormality of the dental pulp (HP:0006479)	other
+HPO: Fibrous tissue neoplasm (HP:0012316)	other
+HPO: Abnormality of femoral epiphyses (HP:0006499)	skeletal
+HPO: Aplasia/Hypoplasia of the patella (HP:0006498)	skeletal
+HPO: Aplasia/Hypoplasia of the fibula (HP:0006492)	skeletal
+HPO: Aplasia/Hypoplasia of the ulna (HP:0006495)	skeletal
+HPO: Cryptorchidism (HP:0000028)	reproductive
+HPO: Absent hand (HP:0004050)	skeletal
+HPO: Cerebellar hypoplasia (HP:0001321)	nervous
+HPO: Seborrheic dermatitis (HP:0001051)	integumentary
+HPO: Thickened nuchal skin fold (HP:0000474)	integumentary
+HPO: Hypopigmented skin patches (HP:0001053)	integumentary
+HPO: Milia (HP:0001056)	integumentary
+HPO: Aplasia cutis congenita (HP:0001057)	integumentary
+HPO: Metabolic alkalosis (HP:0200114)	metabolic
+HPO: Pterygium (HP:0001059)	integumentary
+HPO: Glioma (HP:0009733)	nervous
+HPO: Hypoplastic labia majora (HP:0000059)	reproductive
+HPO: Inguinal hernia (HP:0000023)	digestive
+HPO: Septo-optic dysplasia (HP:0100842)	nervous
+HPO: Depressed nasal bridge (HP:0005280)	skeletal
+HPO: Supraventricular arrhythmia (HP:0005115)	cardiovascular
+HPO: Arterial tortuosity (HP:0005116)	cardiovascular
+HPO: Dilatation of the ascending aorta (HP:0005111)	cardiovascular
+HPO: Atrial fibrillation (HP:0005110)	cardiovascular
+HPO: Aplasia/Hypoplasia of the nipples (HP:0006709)	other
+HPO: Abnormality of the shoulder girdle musculature (HP:0001435)	skeletal muscle
+HPO: Hepatosplenomegaly (HP:0001433)	digestive
+HPO: Abnormality of the calf musculature (HP:0001430)	skeletal muscle
+HPO: Abnormality of the hepatic vasculature (HP:0006707)	skeletal muscle
+HPO: Cystic liver disease (HP:0006706)	digestive
+HPO: Short tibia (HP:0005736)	skeletal
+HPO: Aplasia/Hypoplasia of the phalanges of the toes (HP:0010173)	skeletal
+HPO: Polycythemia (HP:0001901)	lymphatic
+HPO: Overgrowth (HP:0001548)	other
+HPO: Abnormality of the ileum (HP:0001549)	digestive
+HPO: Everted lower lip vermilion (HP:0000232)	integumentary
+HPO: Gingivitis (HP:0000230)	other
+HPO: Diastasis recti (HP:0001540)	skeletal muscle
+HPO: Ascites (HP:0001541)	digestive
+HPO: Anteriorly placed anus (HP:0001545)	digestive
+HPO: Vaginal atresia (HP:0000148)	reproductive
+HPO: Abnormality of the nasal septum (HP:0000419)	respiratory
+HPO: Recurrent gram-negative bacterial infections (HP:0005420)	immune
+HPO: Rectovaginal fistula (HP:0000143)	reproductive
+HPO: Bulbous nose (HP:0000414)	other
+HPO: Atresia of the external auditory canal (HP:0000413)	nervous
+HPO: Protruding ear (HP:0000411)	other
+HPO: Mixed hearing impairment (HP:0000410)	nervous
+HPO: Ketosis (HP:0001946)	metabolic
+HPO: Renal tubular acidosis (HP:0001947)	urinary
+HPO: Dehydration (HP:0001944)	other
+HPO: Metabolic acidosis (HP:0001942)	metabolic
+HPO: Chronic hepatic failure (HP:0100626)	digestive
+HPO: Alkalosis (HP:0001948)	other
+HPO: Hypokalemic alkalosis (HP:0001949)	other
+HPO: Glomerulonephritis (HP:0000099)	urinary
+HPO: Anomalous pulmonary venous return (HP:0010772)	cardiovascular
+HPO: Proteinuria (HP:0000093)	other
+HPO: Tubular atrophy (HP:0000092)	urinary
+HPO: Nephronophthisis (HP:0000090)	urinary
+HPO: Focal segmental glomerulosclerosis (HP:0000097)	urinary
+HPO: Glomerulosclerosis (HP:0000096)	urinary
+HPO: Progressive visual loss (HP:0000529)	nervous
+HPO: Anophthalmia (HP:0000528)	nervous
+HPO: Abnormality of the epiphysis of the femoral head (HP:0010574)	skeletal
+HPO: Absent epiphyses (HP:0010577)	skeletal
+HPO: Subcapsular cataract (HP:0000523)	nervous
+HPO: Alacrima (HP:0000522)	other
+HPO: Long eyelashes (HP:0000527)	integumentary
+HPO: Conjunctival telangiectasia (HP:0000524)	cardiovascular
+HPO: Intestinal malrotation (HP:0002566)	digestive
+HPO: Bicornuate uterus (HP:0000813)	reproductive
+HPO: Amelogenesis imperfecta (HP:0000705)	skeletal
+HPO: Periodontitis (HP:0000704)	other
+HPO: Psychosis (HP:0000709)	nervous
+HPO: Abnormality of the lumbar spine (HP:0100712)	skeletal
+HPO: Abnormality of the thoracic spine (HP:0100711)	skeletal
+HPO: Impulsivity (HP:0100710)	behavior
+HPO: Microtia (HP:0008551)	nervous
+HPO: Cubitus valgus (HP:0002967)	skeletal
+HPO: Abnormal delayed hypersensitivity skin test (HP:0002963)	integumentary
+HPO: Malnutrition (HP:0004395)	metabolic
+HPO: Supernumerary bones of the axial skeleton (HP:0009144)	skeletal
+HPO: Ectopic anus (HP:0004397)	digestive
+HPO: Aplasia/Hypoplasia of the breasts (HP:0010311)	reproductive
+HPO: Synostosis involving bones of the feet (HP:0009140)	skeletal
+HPO: Aplasia/Hypoplasia of the abdominal wall musculature (HP:0010318)	skeletal muscle
+HPO: Chronic bronchitis (HP:0004469)	respiratory
+HPO: Onion bulb formation (HP:0003383)	nervous
+HPO: Decreased number of peripheral myelinated nerve fibers (HP:0003380)	nervous
+HPO: Decreased number of large peripheral myelinated nerve fibers (HP:0003387)	nervous
+HPO: Abnormality of skull ossification (HP:0002703)	skeletal
+HPO: Easy fatigability (HP:0003388)	other
+HPO: Impaired vibratory sensation (HP:0002495)	nervous
+HPO: Increased CSF lactate (HP:0002490)	other
+HPO: Tubulointerstitial fibrosis (HP:0005576)	urinary
+HPO: Visual hallucinations (HP:0002367)	nervous
+HPO: Abnormality of the lower motor neuron (HP:0002366)	nervous
+HPO: Hypoplasia of the brainstem (HP:0002365)	nervous
+HPO: Coxa vara (HP:0002812)	skeletal
+HPO: Abnormality of chloride homeostasis (HP:0011422)	other
+HPO: Genu recurvatum (HP:0002816)	skeletal muscle
+HPO: Impaired platelet aggregation (HP:0003540)	hematologic
+HPO: Urinary glycosaminoglycan excretion (HP:0003541)	metabolic
+HPO: Increased serum pyruvate (HP:0003542)	metabolic
+HPO: Abnormality of the middle phalanges of the toes (HP:0010183)	skeletal
+HPO: Dry skin (HP:0000958)	integumentary
+HPO: Exercise intolerance (HP:0003546)	other
+HPO: Shoulder girdle muscle weakness (HP:0003547)	skeletal muscle
+HPO: Hyperuricemia (HP:0002149)	other
+HPO: Hypophosphatemia (HP:0002148)	other
+HPO: Fat malabsorption (HP:0002630)	metabolic
+HPO: Vasculitis (HP:0002633)	cardiovascular
+HPO: Cerebral ischemia (HP:0002637)	nervous
+HPO: Fasciculations (HP:0002380)	skeletal muscle
+HPO: Encephalitis (HP:0002383)	nervous
+HPO: Paraparesis (HP:0002385)	nervous
+HPO: Palpebral edema (HP:0100540)	nervous
+HPO: Generalized hypopigmentation (HP:0007513)	integumentary
+HPO: Neoplasm of the heart (HP:0100544)	cardiovascular
+HPO: Aplasia/Hypoplasia of the 5th finger (HP:0006262)	skeletal
+HPO: Multifactorial inheritance (HP:0001426)	other
+HPO: Abnormality of potassium homeostasis (HP:0011042)	other
+HPO: Parakeratosis (HP:0001036)	integumentary
+HPO: Poor suck (HP:0002033)	other
+HPO: Esophageal atresia (HP:0002032)	digestive
+HPO: Inflammation of the large intestine (HP:0002037)	digestive
+HPO: Rectal prolapse (HP:0002035)	digestive
+HPO: Abnormal respiratory motile cilium morphology (HP:0005938)	respiratory
+HPO: Anorexia (HP:0002039)	behavior
+HPO: Postnatal growth retardation (HP:0008897)	metabolic
+HPO: Abnormality of the columella (HP:0009929)	other
+HPO: Abnormality of cells of the lymphoid lineage (HP:0012140)	lymphatic
+HPO: Hoarse voice (HP:0001609)	other
+HPO: Laryngomalacia (HP:0001601)	other
+HPO: Purpura (HP:0000979)	integumentary
+HPO: Hemangiomatosis (HP:0007461)	cardiovascular
+HPO: Spinal muscular atrophy (HP:0007269)	skeletal muscle
+HPO: Increased density of long bones (HP:0006392)	skeletal
+HPO: Type II lissencephaly (HP:0007260)	skeletal
+HPO: Distal lower limb amyotrophy (HP:0008944)	skeletal muscle
+HPO: Infantile muscular hypotonia (HP:0008947)	skeletal muscle
+HPO: Progressive hearing impairment (HP:0001730)	nervous
+HPO: Pancreatitis (HP:0001733)	digestive
+HPO: Absent/shortened dynein arms (HP:0200106)	other
+HPO: Pancreatic cysts (HP:0001737)	digestive
+HPO: Exocrine pancreatic insufficiency (HP:0001738)	digestive
+HPO: Recurrent sinusitis (HP:0011108)	respiratory
+HPO: Carpal synostosis (HP:0009702)	skeletal
+HPO: Cavernous hemangioma (HP:0001048)	cardiovascular
+HPO: Cerebral hypomyelination (HP:0006808)	nervous
+HPO: Abnormality of the anterior horn cell (HP:0006802)	nervous
+HPO: Recurrent fungal infections (HP:0002841)	immune
+HPO: Choroideremia (HP:0001139)	nervous
+HPO: Acanthosis nigricans (HP:0000956)	integumentary
+HPO: Cafe-au-lait spot (HP:0000957)	integumentary
+HPO: Single transverse palmar crease (HP:0000954)	integumentary
+HPO: Constricted visual fields (HP:0001133)	nervous
+HPO: Corneal dystrophy (HP:0001131)	nervous
+HPO: Aplasia/Hypoplasia involving the femoral head and neck (HP:0009108)	skeletal
+HPO: Heterogeneous (HP:0001425)	other
+HPO: Mitochondrial inheritance (HP:0001427)	other
+HPO: Recurrent viral infections (HP:0004429)	immune
+HPO: Abnormality of the musculature of the hand (HP:0001421)	skeletal muscle
+HPO: X-linked dominant inheritance (HP:0001423)	other
+HPO: Hyperlipoproteinemia (HP:0010980)	metabolic
+HPO: Somatic mutation (HP:0001428)	other
+HPO: Stillbirth (HP:0003826)	reproductive
+HPO: Thickened helices (HP:0000391)	integumentary
+HPO: Aplasia/Hypoplasia of the spleen (HP:0010451)	lymphatic
+HPO: Overfolded helix (HP:0000396)	integumentary
+HPO: Aortic valve stenosis (HP:0001650)	cardiovascular
+HPO: Decreased motor nerve conduction velocity (HP:0003431)	nervous
+HPO: Abnormality of purine metabolism (HP:0004352)	metabolic
+HPO: Combined immunodeficiency (HP:0005387)	immune
+HPO: Abnormal activity of mitochondrial respiratory chain (HP:0011922)	metabolic
+HPO: Asymmetry of the thorax (HP:0001555)	skeletal
+HPO: Pheochromocytoma (HP:0002666)	endocrine
+HPO: Thick lower lip vermilion (HP:0000179)	integumentary
+HPO: Submucous cleft hard palate (HP:0000176)	other
+HPO: Microglossia (HP:0000171)	other
+HPO: Episodic fever (HP:0001954)	other
+HPO: Truncal obesity (HP:0001956)	metabolic
+HPO: Abnormal glucose tolerance (HP:0001952)	metabolic
+HPO: Broad thumb (HP:0011304)	skeletal
+HPO: Polydipsia (HP:0001959)	other
+HPO: Hypoplastic female external genitalia (HP:0012815)	reproductive
+HPO: Muscle fibrillation (HP:0010546)	skeletal muscle
+HPO: Absent radius (HP:0003974)	skeletal
+HPO: Multiple enchondromatosis (HP:0005701)	skeletal
+HPO: Abolished electroretinogram (ERG) (HP:0000550)	nervous
+HPO: Hypoplastic nipples (HP:0002557)	other
+HPO: Highly arched eyebrow (HP:0002553)	integumentary
+HPO: Fine hair (HP:0002213)	integumentary
+HPO: Supernumerary nipples (HP:0002558)	other
+HPO: Curly hair (HP:0002212)	integumentary
+HPO: Congenital diaphragmatic hernia (HP:0000776)	respiratory
+HPO: Abnormality of the thymus (HP:0000777)	lymphatic
+HPO: Narrow chest (HP:0000774)	skeletal
+HPO: Short ribs (HP:0000773)	skeletal
+HPO: Gynecomastia (HP:0000771)	endocrine
+HPO: Hypoplasia of the thymus (HP:0000778)	lymphatic
+HPO: Abnormally folded helix (HP:0008544)	integumentary
+HPO: Lymphangioma (HP:0100764)	lymphatic
+HPO: Barrel-shaped chest (HP:0001552)	skeletal
+HPO: Clubbing of toes (HP:0100760)	integumentary
+HPO: Visceral angiomatosis (HP:0100761)	skeletal
+HPO: Hypoplastic left heart (HP:0004383)	cardiovascular
+HPO: Abnormality of serine family amino acid metabolism (HP:0010894)	metabolic
+HPO: Abnormality of glycine metabolism (HP:0010895)	metabolic
+HPO: Gastrointestinal inflammation (HP:0004386)	digestive
+HPO: Pili torti (HP:0003777)	integumentary
+HPO: Stage 5 chronic kidney disease (HP:0003774)	urinary
+HPO: Gowers sign (HP:0003391)	skeletal muscle
+HPO: Sensory axonal neuropathy (HP:0003390)	nervous
+HPO: Syringomyelia (HP:0003396)	nervous
+HPO: Abnormality of the neuromuscular junction (HP:0003398)	nervous
+HPO: Macular degeneration (HP:0000608)	nervous
+HPO: Optic nerve hypoplasia (HP:0000609)	nervous
+HPO: Nail dystrophy (HP:0008404)	integumentary
+HPO: Elevated alkaline phosphatase (HP:0003155)	other
+HPO: Abnormality of chromosome stability (HP:0003220)	other
+HPO: Central scotoma (HP:0000603)	nervous
+HPO: Hypotelorism (HP:0000601)	other
+HPO: Supranuclear gaze palsy (HP:0000605)	nervous
+HPO: Short palm (HP:0004279)	skeletal
+HPO: Synostosis involving bones of the hand (HP:0004278)	skeletal
+HPO: Increased variability in muscle fiber diameter (HP:0003557)	skeletal muscle
+HPO: Muscle abnormality related to mitochondrial dysfunction (HP:0003800)	skeletal muscle
+HPO: Type 1 muscle fiber predominance (HP:0003803)	skeletal muscle
+HPO: Type 2 muscle fiber atrophy (HP:0003554)	skeletal muscle
+HPO: Rimmed vacuoles (HP:0003805)	skeletal muscle
+HPO: Arthralgia (HP:0002829)	skeletal
+HPO: Difficulty climbing stairs (HP:0003551)	other
+HPO: Aplasia/Hypoplasia of the middle phalanges of the hand (HP:0009843)	skeletal
+HPO: Hepatic necrosis (HP:0002605)	digestive
+HPO: Bowel incontinence (HP:0002607)	digestive
+HPO: Hyporeflexia of lower limbs (HP:0002600)	skeletal
+HPO: Neoplasm of the tracheobronchial system (HP:0100552)	respiratory
+HPO: Asymmetric growth (HP:0100555)	other
+HPO: Lower limb asymmetry (HP:0100559)	skeletal
+HPO: Abnormality of carpal bone ossification (HP:0006257)	skeletal
+HPO: Malignant hyperthermia (HP:0002047)	immune
+HPO: Hypothermia (HP:0002045)	metabolic
+HPO: Esophageal varix (HP:0002040)	cardiovascular
+HPO: Hypoplasia of the iris (HP:0007676)	integumentary
+HPO: Abnormality of permanent molar morphology (HP:0011071)	skeletal
+HPO: Global brain atrophy (HP:0002283)	nervous
+HPO: Mitral valve prolapse (HP:0001634)	cardiovascular
+HPO: Congestive heart failure (HP:0001635)	cardiovascular
+HPO: Tetralogy of Fallot (HP:0001636)	cardiovascular
+HPO: Proximal placement of thumb (HP:0009623)	skeletal
+HPO: Anterior segment dysgenesis (HP:0007700)	integumentary
+HPO: Knee flexion contracture (HP:0006380)	skeletal
+HPO: Abnormal enzyme/coenzyme activity (HP:0012379)	other
+HPO: Fatigue (HP:0012378)	other
+HPO: Decreased activity of mitochondrial respiratory chain (HP:0008972)	metabolic
+HPO: Abnormality of the right ventricle (HP:0001707)	cardiovascular
+HPO: Abnormality of the tricuspid valve (HP:0001702)	cardiovascular
+HPO: Decreased skull ossification (HP:0004331)	skeletal
+HPO: Keratoconjunctivitis (HP:0001096)	integumentary
+HPO: Keratoconjunctivitis sicca (HP:0001097)	integumentary
+HPO: Large eyes (HP:0001090)	nervous
+HPO: Buphthalmos (HP:0000557)	nervous
+HPO: X-linked recessive inheritance (HP:0001419)	other
+HPO: Dysostosis multiplex (HP:0000943)	skeletal
+HPO: Hypoplastic ilia (HP:0000946)	skeletal
+HPO: Pigmentary retinal degeneration (HP:0001146)	integumentary
+HPO: Micronodular cirrhosis (HP:0001413)	digestive
+HPO: Microvesicular hepatic steatosis (HP:0001414)	digestive
+HPO: Severe visual impairment (HP:0001141)	nervous
+HPO: Joint laxity (HP:0001388)	skeletal
+HPO: Acute lymphatic leukemia (HP:0006721)	lymphatic
+HPO: Hip dysplasia (HP:0001385)	skeletal
+HPO: Joint swelling (HP:0001386)	skeletal
+HPO: Joint stiffness (HP:0001387)	skeletal
+HPO: Thrombocytosis (HP:0001894)	hematologic
+HPO: Spinal canal stenosis (HP:0003416)	skeletal
+HPO: Reticulocytopenia (HP:0001896)	hematologic
+HPO: Autoimmune hemolytic anemia (HP:0001890)	immune
+HPO: Chronic otitis media (HP:0000389)	nervous
+HPO: Abnormality of the renal medulla (HP:0100957)	urinary
+HPO: Preauricular skin tag (HP:0000384)	integumentary
+HPO: Chromsome breakage (HP:0040012)	other
+HPO: Mucopolysacchariduria (HP:0008155)	metabolic
+HPO: Abnormality of the phalanges of the 2nd finger (HP:0009541)	skeletal
+HPO: Broad long bones (HP:0005622)	skeletal
+HPO: Dental crowding (HP:0000678)	skeletal
+HPO: Polyhydramnios (HP:0001561)	reproductive
+HPO: Oligohydramnios (HP:0001562)	reproductive
+HPO: T lymphocytopenia (HP:0005403)	immune
+HPO: Tubulointerstitial abnormality (HP:0001969)	urinary
+HPO: Median cleft lip (HP:0000161)	other
+HPO: Narrow mouth (HP:0000160)	skeletal
+HPO: Recurrent bacterial skin infections (HP:0005406)	immune
+HPO: Hypoplastic heart (HP:0001961)	cardiovascular
+HPO: Palpitations (HP:0001962)	cardiovascular
+HPO: Aplasia/Hypoplasia of metatarsal bones (HP:0001964)	skeletal
+HPO: Mesangial abnormality (HP:0001966)	urinary
+HPO: Facial shape deformation (HP:0011334)	skeletal
+HPO: Abnormality of alkaline phosphatase activity (HP:0004379)	other
+HPO: Paraplegia (HP:0010550)	nervous
+HPO: Cutaneous finger syndactyly (HP:0010554)	integumentary
+HPO: Micromelia (HP:0002983)	skeletal
+HPO: Cone-rod dystrophy (HP:0000548)	nervous
+HPO: External ophthalmoplegia (HP:0000544)	nervous
+HPO: Retinal detachment (HP:0000541)	nervous
+HPO: Gastrointestinal infarctions (HP:0005244)	digestive
+HPO: Optic disc pallor (HP:0000543)	nervous
+HPO: Prolonged bleeding time (HP:0003010)	hematologic
+HPO: Flared metaphyses (HP:0003015)	skeletal
+HPO: Pectus excavatum (HP:0000767)	skeletal
+HPO: External ear malformation (HP:0008572)	other
+HPO: Pectus carinatum (HP:0000768)	skeletal
+HPO: Exostoses (HP:0100777)	skeletal
+HPO: Thoracolumbar scoliosis (HP:0002944)	skeletal
+HPO: Thoracic kyphosis (HP:0002942)	skeletal
+HPO: Coronal craniosynostosis (HP:0004440)	skeletal
+HPO: Aplasia/Hypoplasia of the middle phalanx of the 5th finger (HP:0009161)	skeletal
+HPO: Abnormality of the umbilical cord (HP:0010881)	reproductive
+HPO: Increased nuchal translucency (HP:0010880)	other
+HPO: Fused cervical vertebrae (HP:0002949)	skeletal
+HPO: Poikilocytosis (HP:0004447)	hematologic
+HPO: Generalized amyotrophy (HP:0003700)	nervous
+HPO: Abnormality of T cell physiology (HP:0011840)	immune
+HPO: Abnormal connection of the cardiac segments (HP:0011545)	cardiovascular
+HPO: Vertebral hypoplasia (HP:0008417)	skeletal
+HPO: Blindness (HP:0000618)	nervous
+HPO: Hypercholesterolemia (HP:0003124)	metabolic
+HPO: Vertebral compression fractures (HP:0002953)	skeletal
+HPO: Photophobia (HP:0000613)	nervous
+HPO: Iris coloboma (HP:0000612)	nervous
+HPO: Abnormality of the pupil (HP:0000615)	nervous
+HPO: Abnormality of the nasolacrimal system (HP:0000614)	other
+HPO: Lactic acidosis (HP:0003128)	metabolic
+HPO: Urinary bladder sphincter dysfunction (HP:0002839)	urinary
+HPO: Ankle clonus (HP:0011448)	nervous
+HPO: Abnormality of aspartate family amino acid metabolism (HP:0010899)	metabolic
+HPO: Recurrent bronchitis (HP:0002837)	respiratory
+HPO: Parkinsonism with favorable response to dopaminergic medication (HP:0002548)	other
+HPO: Abnormality involving the epiphyses of the upper limbs (HP:0003839)	skeletal
+HPO: Inability to walk (HP:0002540)	other
+HPO: Congenital hepatic fibrosis (HP:0002612)	digestive
+HPO: Aneurysm (HP:0002617)	nervous
+HPO: Abnormal drinking behavior (HP:0030082)	behavior
+HPO: Hypotension (HP:0002615)	cardiovascular
+HPO: Hypoalphalipoproteinemia (HP:0003233)	metabolic
+HPO: Spinal cord lesions (HP:0100561)	nervous
+HPO: Flattened epiphyses (HP:0003071)	skeletal
+HPO: Infertility (HP:0000789)	reproductive
+HPO: Increased number of teeth (HP:0011069)	skeletal
+HPO: Chronic mucocutaneous candidiasis (HP:0002728)	immune
+HPO: Abnormal number of incisors (HP:0011064)	skeletal
+HPO: Systemic lupus erythematosus (HP:0002725)	immune
+HPO: Recurrent abscess formation (HP:0002722)	immune
+HPO: Abnormality of incisor morphology (HP:0011063)	skeletal
+HPO: Partial duplication of thumb phalanx (HP:0009944)	skeletal
+HPO: Duplication of thumb phalanx (HP:0009942)	skeletal
+HPO: Ulnar deviation of finger (HP:0009465)	skeletal
+HPO: Myopathic facies (HP:0002058)	skeletal muscle
+HPO: Abnormality of the intervertebral disk (HP:0005108)	skeletal
+HPO: Abnormality of the Achilles tendon (HP:0005109)	skeletal muscle
+HPO: Decreased central vision (HP:0007663)	nervous
+HPO: Abnormality of the vertebral endplates (HP:0005106)	skeletal
+HPO: Short palpebral fissure (HP:0012745)	integumentary
+HPO: Papilloma (HP:0012740)	other
+HPO: Breech presentation (HP:0001623)	reproductive
+HPO: Premature birth (HP:0001622)	reproductive
+HPO: High pitched voice (HP:0001620)	other
+HPO: Ventricular septal defect (HP:0001629)	cardiovascular
+HPO: Neuroectodermal neoplasm (HP:0030061)	nervous
+HPO: Nervous tissue neoplasm (HP:0030060)	nervous
+HPO: Neuroepithelial neoplasm (HP:0030063)	nervous
+HPO: High anterior hairline (HP:0009890)	integumentary
+HPO: Underdeveloped supraorbital ridges (HP:0009891)	skeletal
+HPO: Abnormal protein glycosylation (HP:0012346)	other
+HPO: Abnormal protein N-linked glycosylation (HP:0012347)	other
+HPO: Arnold-Chiari malformation (HP:0002308)	skeletal
+HPO: Muscle hypertrophy of the lower extremities (HP:0008968)	skeletal muscle
+HPO: Abnormality of nucleobase metabolism (HP:0010932)	metabolic
+HPO: Double outlet right ventricle (HP:0001719)	cardiovascular
+HPO: Mitral stenosis (HP:0001718)	cardiovascular
+HPO: Congenital nonbullous ichthyosiform erythroderma (HP:0007479)	integumentary
+HPO: Left ventricular hypertrophy (HP:0001712)	cardiovascular
+HPO: Broad phalanges of the hand (HP:0009768)	skeletal
+HPO: Recurrent pneumonia (HP:0006532)	immune
+HPO: Interstitial pulmonary disease (HP:0006530)	respiratory
+HPO: Advanced eruption of teeth (HP:0006288)	skeletal
+HPO: Severe muscular hypotonia (HP:0006829)	skeletal muscle
+HPO: Ectopia lentis (HP:0001083)	nervous
+HPO: Cholecystitis (HP:0001082)	digestive
+HPO: Cholelithiasis (HP:0001081)	digestive
+HPO: Congenital glaucoma (HP:0001087)	nervous
+HPO: Papilledema (HP:0001085)	nervous
+HPO: Brushfield spots (HP:0001088)	nervous
+HPO: Hyperextensible skin (HP:0000974)	integumentary
+HPO: Hyperhidrosis (HP:0000975)	integumentary
+HPO: Eczematoid dermatitis (HP:0000976)	integumentary
+HPO: Soft skin (HP:0000977)	integumentary
+HPO: Anhidrosis (HP:0000970)	integumentary
+HPO: Palmoplantar hyperkeratosis (HP:0000972)	integumentary
+HPO: Bile duct proliferation (HP:0001408)	digestive
+HPO: Hypophosphatemic rickets (HP:0004912)	skeletal
+HPO: Intrahepatic cholestasis (HP:0001406)	digestive
+HPO: Hepatocellular necrosis (HP:0001404)	digestive
+HPO: Bruising susceptibility (HP:0000978)	other
+HPO: Hepatocellular carcinoma (HP:0001402)	digestive
+HPO: Septate vagina (HP:0001153)	reproductive
+HPO: Abnormality of cochlea (HP:0000375)	nervous
+HPO: Cupped ear (HP:0000378)	other
+HPO: Hypercortisolism (HP:0001578)	endocrine
+HPO: Proximal tubulopathy (HP:0000114)	urinary
+HPO: Nephropathy (HP:0000112)	urinary
+HPO: Polycystic kidney dysplasia (HP:0000113)	urinary
+HPO: Renal dysplasia (HP:0000110)	urinary
+HPO: Reduced antithrombin III activity (HP:0001976)	other
+HPO: Leukocytosis (HP:0001974)	immune
+HPO: Autoimmune thrombocytopenia (HP:0001973)	immune
+HPO: Macrocytic anemia (HP:0001972)	hematologic
+HPO: Tubulointerstitial nephritis (HP:0001970)	urinary
+HPO: Epicanthus (HP:0000286)	integumentary
+HPO: Facial edema (HP:0000282)	immune
+HPO: Broad face (HP:0000283)	skeletal
+HPO: Coarse facial features (HP:0000280)	integumentary
+HPO: Absent forearm bone (HP:0003953)	skeletal
+HPO: Agnosia (HP:0010524)	nervous
+HPO: Bowed forearm bones (HP:0003956)	skeletal
+HPO: Abnormality of saccadic eye movements (HP:0000570)	nervous
+HPO: Megaloblastic anemia (HP:0001889)	hematologic
+HPO: Lymphopenia (HP:0001888)	lymphatic
+HPO: Thick eyebrow (HP:0000574)	integumentary
+HPO: Scotoma (HP:0000575)	nervous
+HPO: Exotropia (HP:0000577)	nervous
+HPO: Leukopenia (HP:0001882)	immune
+HPO: Eosinophilia (HP:0001880)	hematologic
+HPO: Colon cancer (HP:0003003)	digestive
+HPO: Testicular atrophy (HP:0000029)	reproductive
+HPO: Neuroblastoma (HP:0003006)	nervous
+HPO: Abnormality of male internal genitalia (HP:0000022)	reproductive
+HPO: Personality changes (HP:0000751)	behavior
+HPO: Urinary incontinence (HP:0000020)	urinary
+HPO: Azoospermia (HP:0000027)	reproductive
+HPO: Abnormality of the wing of the ilium (HP:0011867)	skeletal
+HPO: Chest pain (HP:0100749)	other
+HPO: Hyperpituitarism (HP:0010514)	endocrine
+HPO: Blue sclerae (HP:0000592)	integumentary
+HPO: Abnormality of the anterior chamber (HP:0000593)	nervous
+HPO: Progressive external ophthalmoplegia (HP:0000590)	nervous
+HPO: Neoplasm of the rectum (HP:0100743)	digestive
+HPO: Abnormality of the humeroradial joint (HP:0100744)	skeletal
+HPO: Muscle fiber splitting (HP:0003555)	skeletal muscle
+HPO: Abnormal tarsal ossification (HP:0008369)	skeletal
+HPO: Tarsal synostosis (HP:0008368)	skeletal
+HPO: Upper limb muscle weakness (HP:0003484)	skeletal muscle
+HPO: Babinski sign (HP:0003487)	nervous
+HPO: Aplasia/Hypoplasia of the hallux (HP:0008362)	skeletal
+HPO: Segmental peripheral demyelination/remyelination (HP:0003481)	nervous
+HPO: Abnormality of the calcaneus (HP:0008364)	skeletal
+HPO: Muscle stiffness (HP:0003552)	skeletal muscle
+HPO: Exercise-induced muscle cramps (HP:0003710)	skeletal muscle
+HPO: Abnormality of the distal phalanges of the toes (HP:0010182)	skeletal
+HPO: Aplasia/Hypoplasia of the phalanges of the 5th finger (HP:0009376)	skeletal
+HPO: Patellar dislocation (HP:0002999)	skeletal
+HPO: Tetraplegia (HP:0002445)	nervous
+HPO: Fibular aplasia (HP:0002990)	skeletal
+HPO: Abnormality of the fibula (HP:0002991)	skeletal
+HPO: Cleft eyelid (HP:0000625)	integumentary
+HPO: Posterior embryotoxon (HP:0000627)	nervous
+HPO: Panhypogammaglobulinemia (HP:0003139)	immune
+HPO: Entropion (HP:0000621)	nervous
+HPO: Chronic sinusitis (HP:0011109)	immune
+HPO: Furrowed tongue (HP:0000221)	other
+HPO: Abnormality of the left ventricular outflow tract (HP:0011103)	cardiovascular
+HPO: Abnormality of T cells (HP:0002843)	immune
+HPO: Intestinal atresia (HP:0011100)	digestive
+HPO: Abnormality of the gastric mucosa (HP:0004295)	digestive
+HPO: Hypolipoproteinemia (HP:0010981)	metabolic
+HPO: Polygenic inheritance (HP:0010982)	other
+HPO: Cortical dysplasia (HP:0002539)	nervous
+HPO: Incomplete penetrance (HP:0003829)	other
+HPO: Variable expressivity (HP:0003828)	other
+HPO: Abnormality of the intrinsic pathway (HP:0010989)	hematologic
+HPO: Female pseudohermaphroditism (HP:0010458)	reproductive
+HPO: True hermaphroditism (HP:0010459)	reproductive
+HPO: Delayed gross motor development (HP:0002194)	nervous
+HPO: Nephroblastoma (Wilms tumor) (HP:0002667)	urinary
+HPO: Lymphoma (HP:0002665)	lymphatic
+HPO: Delayed epiphyseal ossification (HP:0002663)	skeletal
+HPO: Mucosal telangiectasiae (HP:0100579)	integumentary
+HPO: Lipoatrophy (HP:0100578)	metabolic
+HPO: Attention deficit hyperactivity disorder (HP:0007018)	behavior
+HPO: Chromosomal breakage induced by crosslinking agents (HP:0003221)	other
+HPO: Abnormality of the vocal cords (HP:0008777)	other
+HPO: Abnormality of the prostate (HP:0008775)	reproductive
+HPO: Amaurosis fugax (HP:0100576)	nervous
+HPO: Biliary tract neoplasm (HP:0100574)	digestive
+HPO: Abnormality of dental color (HP:0011073)	skeletal
+HPO: Heterotopia (HP:0002282)	nervous
+HPO: Abnormality of molar morphology (HP:0011070)	skeletal
+HPO: Abnormality of molar (HP:0011077)	skeletal
+HPO: Fair hair (HP:0002286)	integumentary
+HPO: Generalized tonic-clonic seizures (HP:0002069)	nervous
+HPO: Morphological abnormality of the pyramidal tract (HP:0002062)	nervous
+HPO: Rigidity (HP:0002063)	skeletal muscle
+HPO: Spastic gait (HP:0002064)	skeletal muscle
+HPO: Gait ataxia (HP:0002066)	nervous
+HPO: Bradykinesia (HP:0002067)	nervous
+HPO: Craniofacial dystonia (HP:0012179)	skeletal muscle
+HPO: Proximal amyotrophy (HP:0007126)	nervous
+HPO: Morphological abnormality of the middle ear (HP:0008609)	skeletal
+HPO: Abnormal neuron morphology (HP:0012757)	nervous
+HPO: Short distal phalanx of finger (HP:0009882)	skeletal
+HPO: Abnormality of secondary sexual hair (HP:0009888)	integumentary
+HPO: Flat cornea (HP:0007720)	nervous
+HPO: Broad foot (HP:0001769)	skeletal
+HPO: Hammertoe (HP:0001765)	skeletal
+HPO: Talipes equinovarus (HP:0001762)	skeletal
+HPO: Pes planus (HP:0001763)	skeletal
+HPO: Pes cavus (HP:0001761)	skeletal
+HPO: Amniotic constriction ring (HP:0009775)	other
+HPO: Absent thumb (HP:0009777)	skeletal
+HPO: Adactyly (HP:0009776)	skeletal
+HPO: Osteolytic defects of the phalanges of the hand (HP:0009771)	skeletal
+HPO: Symphalangism affecting the phalanges of the hand (HP:0009773)	skeletal
+HPO: Short thumb (HP:0009778)	skeletal
+HPO: Abnormal urine output (HP:0012590)	urinary
+HPO: Hypoplasia of dental enamel (HP:0006297)	skeletal
+HPO: Abnormal urine phosphate concentration (HP:0012599)	other
+HPO: Lower limb muscle weakness (HP:0007340)	skeletal muscle
+HPO: Thin skin (HP:0000963)	integumentary
+HPO: Sacral dimple (HP:0000960)	integumentary
+HPO: Petechiae (HP:0000967)	integumentary
+HPO: Hypohidrosis (HP:0000966)	endocrine
+HPO: Cutis marmorata (HP:0000965)	integumentary
+HPO: Postaxial hand polydactyly (HP:0001162)	skeletal
+HPO: Arachnodactyly (HP:0001166)	skeletal
+HPO: Broad palm (HP:0001169)	skeletal
+HPO: Corneal erosion (HP:0200020)	nervous
+HPO: Down-sloping shoulders (HP:0200021)	skeletal
+HPO: Skull defect (HP:0001362)	skeletal
+HPO: Holoprosencephaly (HP:0001360)	nervous
+HPO: Transitional cell carcinoma of the bladder (HP:0006740)	urinary
+HPO: Malignant gastrointestinal tract tumors (HP:0006749)	digestive
+HPO: Tinnitus (HP:0000360)	nervous
+HPO: Tapered finger (HP:0001182)	skeletal
+"HPO: Low-set, posteriorly rotated ears (HP:0000368)"	other
+HPO: Oligodactyly (hands) (HP:0001180)	skeletal
+HPO: Adducted thumb (HP:0001181)	skeletal
+HPO: Hypochromic microcytic anemia (HP:0004840)	hematologic
+HPO: Broad finger (HP:0001500)	skeletal
+HPO: Enlarged kidneys (HP:0000105)	urinary
+HPO: Renal agenesis (HP:0000104)	urinary
+HPO: Nephrotic syndrome (HP:0000100)	urinary
+HPO: Polyuria (HP:0000103)	urinary
+HPO: Fetal akinesia sequence (HP:0001989)	other
+HPO: Flat occiput (HP:0005469)	skeletal
+HPO: Low anterior hairline (HP:0000294)	integumentary
+HPO: Full cheeks (HP:0000293)	other
+HPO: Abnormality of the radial head (HP:0003995)	skeletal
+HPO: Sleep apnea (HP:0010535)	behavior
+HPO: Wide cranial sutures (HP:0010537)	skeletal
+HPO: Chorioretinal coloboma (HP:0000567)	nervous
+HPO: Esotropia (HP:0000565)	nervous
+HPO: Keratoconus (HP:0000563)	nervous
+HPO: Intestinal polyp (HP:0005266)	digestive
+HPO: Absent eyelashes (HP:0000561)	integumentary
+HPO: Abnormality of the gallbladder (HP:0005264)	digestive
+HPO: Abnormality of the fingertips (HP:0001211)	skeletal
+HPO: Ulnar bowing (HP:0003031)	skeletal
+HPO: Delusions (HP:0000746)	behavior
+HPO: Diminished motivation (HP:0000745)	behavior
+HPO: Fibular hypoplasia (HP:0003038)	skeletal
+HPO: Self-mutilation (HP:0000742)	behavior
+HPO: Apathy (HP:0000741)	behavior
+HPO: Optic nerve coloboma (HP:0000588)	nervous
+HPO: Gangrene (HP:0100758)	other
+HPO: Blepharophimosis (HP:0000581)	integumentary
+HPO: Abnormality of salivation (HP:0100755)	digestive
+HPO: Upslanted palpebral fissure (HP:0000582)	integumentary
+HPO: Esophageal neoplasm (HP:0100751)	digestive
+HPO: Atelectasis (HP:0100750)	respiratory
+HPO: Limb dystonia (HP:0002451)	nervous
+HPO: Abnormality of the motor neurons (HP:0002450)	nervous
+HPO: EMG: myopathic abnormalities (HP:0003458)	nervous
+HPO: Femoral bowing (HP:0002980)	skeletal
+HPO: Elbow flexion contracture (HP:0002987)	skeletal
+HPO: Radial bowing (HP:0002986)	skeletal
+HPO: Hypoplasia of the radius (HP:0002984)	skeletal
+HPO: Dysautonomia (HP:0002459)	nervous
+HPO: Abnormal cortical bone morphology (HP:0003103)	skeletal
+HPO: Abnormal platelet function (HP:0011869)	hematologic
+HPO: Abnormality of macrophages (HP:0004311)	immune
+HPO: Decreased lacrimation (HP:0000633)	other
+HPO: Long palpebral fissure (HP:0000637)	integumentary
+HPO: Blue irides (HP:0000635)	integumentary
+HPO: Childhood onset (HP:0011463)	other
+HPO: Rhabdomyosarcoma (HP:0002859)	other
+HPO: Meningioma (HP:0002858)	nervous
+HPO: Genu valgum (HP:0002857)	skeletal
+HPO: Abnormality of the common coagulation pathway (HP:0010990)	hematologic
+HPO: IgM deficiency (HP:0002850)	immune
+HPO: Abnormality of dicarboxylic acid metabolism (HP:0010995)	metabolic
+HPO: Late onset (HP:0003584)	other
+HPO: Right ventricular cardiomyopathy (HP:0011663)	cardiovascular
+HPO: Insidious onset (HP:0003587)	other
+HPO: Neuronal loss in central nervous system (HP:0002529)	nervous
+HPO: Cardiovascular calcification (HP:0011915)	cardiovascular
+HPO: Hypsarrhythmia (HP:0002521)	cardiovascular
+HPO: Areflexia of lower limbs (HP:0002522)	nervous
+HPO: Basal cell carcinoma (HP:0002671)	integumentary
+HPO: Coxa valga (HP:0002673)	skeletal
+HPO: Gastrointestinal carcinoma (HP:0002672)	digestive
+HPO: Abnormality of the lacrimal duct (HP:0011481)	other
+HPO: Abnormality of the sella turcica (HP:0002679)	skeletal
+HPO: Abnormality of vitamin metabolism (HP:0100508)	metabolic
+HPO: Dicarboxylic aciduria (HP:0003215)	metabolic
+HPO: Increased IgE level (HP:0003212)	immune
+HPO: Peripheral demyelination (HP:0011096)	nervous
+HPO: Alopecia of scalp (HP:0002293)	integumentary
+HPO: Severe Myopia (HP:0011003)	nervous
+HPO: Brittle hair (HP:0002299)	integumentary
+HPO: Absent hair (HP:0002298)	integumentary
+HPO: Hypoplasia of the corpus callosum (HP:0002079)	nervous
+HPO: Truncal ataxia (HP:0002078)	nervous
+HPO: Migraine (HP:0002076)	nervous
+HPO: Dysdiadochokinesis (HP:0002075)	nervous
+HPO: Increased neuronal autofluorescent lipopigment (HP:0002074)	nervous
+HPO: Progressive cerebellar ataxia (HP:0002073)	nervous
+HPO: Limb ataxia (HP:0002070)	nervous
+HPO: Tetraparesis (HP:0002273)	nervous
+HPO: Congenital stationary night blindness (HP:0007642)	nervous
+HPO: Dyschromatopsia (HP:0007641)	nervous
+HPO: Bilateral sensorineural hearing impairment (HP:0008619)	nervous
+HPO: Abnormality of the pulmonary veins (HP:0011718)	cardiovascular
+HPO: Delayed CNS myelination (HP:0002188)	nervous
+HPO: Bundle branch block (HP:0011710)	cardiovascular
+HPO: Neurodegeneration (HP:0002180)	nervous
+"HPO: Intellectual disability, profound (HP:0002187)"	nervous
+HPO: Neurofibrillary tangles (HP:0002185)	nervous
+HPO: Cutaneous syndactyly (HP:0012725)	integumentary
+HPO: Heart block (HP:0012722)	cardiovascular
+HPO: Deep palmar crease (HP:0006191)	integumentary
+HPO: Genu varum (HP:0002970)	skeletal
+HPO: Hyperglycinuria (HP:0003108)	other
+HPO: Abnormality of lateral ventricle (HP:0030047)	cardiovascular
+HPO: Stridor (HP:0010307)	respiratory
+HPO: Iris hypopigmentation (HP:0007730)	integumentary
+HPO: Bony spicule pigmentary retinopathy (HP:0007737)	nervous
+HPO: Rhizomelia (HP:0008905)	skeletal muscle
+HPO: Abnormal gallbladder physiology (HP:0012438)	digestive
+HPO: Abnormal biliary tract physiology (HP:0012439)	digestive
+HPO: Abnormal social behavior (HP:0012433)	behavior
+HPO: Abnormal gallbladder morphology (HP:0012437)	digestive
+HPO: Large earlobe (HP:0009748)	integumentary
+HPO: Achilles tendon contracture (HP:0001771)	skeletal muscle
+HPO: Short foot (HP:0001773)	skeletal
+HPO: Synostosis involving bones of the lower limbs (HP:0009138)	skeletal
+HPO: Focal seizures (HP:0007359)	nervous
+HPO: Chronic obstructive pulmonary disease (HP:0006510)	respiratory
+HPO: Neoplasm of the thyroid gland (HP:0100031)	endocrine
+HPO: Amyotrophic lateral sclerosis (HP:0007354)	nervous
+HPO: Abnormality of the costochondral junction (HP:0000919)	skeletal
+HPO: Sprengel anomaly (HP:0000912)	skeletal
+HPO: Preaxial hand polydactyly (HP:0001177)	skeletal
+HPO: Large hands (HP:0001176)	skeletal
+HPO: Skin nodule (HP:0200036)	integumentary
+HPO: Split hand (HP:0001171)	skeletal
+HPO: Vascular calcification (HP:0004934)	cardiovascular
+HPO: Pustule (HP:0200039)	integumentary
+HPO: Ulnar claw (HP:0001178)	nervous
+HPO: Congenital hip dislocation (HP:0001374)	skeletal
+HPO: Limited elbow extension (HP:0001377)	skeletal muscle
+HPO: Triphalangeal thumb (HP:0001199)	skeletal
+HPO: Ulnar deviation of the hand or of fingers of the hand (HP:0001193)	skeletal
+HPO: Single umbilical artery (HP:0001195)	reproductive
+HPO: Abnormalities of placenta or umbilical cord (HP:0001194)	reproductive
+HPO: Neoplasm of the pancreas (HP:0002894)	digestive
+HPO: Myotonia (HP:0002486)	skeletal muscle
+HPO: Hypothyroidism (HP:0000821)	endocrine
+HPO: Precocious puberty (HP:0000826)	endocrine
+HPO: Growth hormone deficiency (HP:0000824)	endocrine
+HPO: Hyperinsulinemic hypoglycemia (HP:0000825)	metabolic
+HPO: Hypoparathyroidism (HP:0000829)	endocrine
+HPO: Intrauterine growth retardation (HP:0001511)	other
+HPO: Disproportionate tall stature (HP:0001519)	skeletal
+HPO: Small for gestational age (HP:0001518)	other
+HPO: Ketoacidosis (HP:0001993)	metabolic
+HPO: Renal Fanconi syndrome (HP:0001994)	urinary
+HPO: Gout (HP:0001997)	skeletal
+HPO: Neonatal hypoglycemia (HP:0001998)	metabolic
+HPO: Increased corneal curvature (HP:0100692)	nervous
+HPO: Aplasia/Hypoplasia of the uvula (HP:0010293)	skeletal
+HPO: Aplasia/Hypoplasia of the tongue (HP:0010295)	other
+HPO: Ankyloglossia (HP:0010296)	other
+HPO: Bifid tongue (HP:0010297)	other
+HPO: Abnormality of dentin (HP:0010299)	skeletal
+HPO: Biconcave vertebral bodies (HP:0004586)	skeletal
+HPO: Hyperammonemia (HP:0001987)	metabolic
+HPO: Deviation of the hallux (HP:0010051)	skeletal
+HPO: Synostosis involving the elbow (HP:0003938)	skeletal
+HPO: Broad hallux (HP:0010055)	skeletal
+HPO: Congenital primary aphakia (HP:0007707)	nervous
+HPO: Bone marrow hypocellularity (HP:0005528)	other
+HPO: Autosomal dominant inheritance (HP:0000006)	other
+HPO: Autosomal recessive inheritance (HP:0000007)	other
+HPO: Multicystic kidney dysplasia (HP:0000003)	urinary
+HPO: Fibroma (HP:0010614)	reproductive
+HPO: Angiofibromas (HP:0010615)	cardiovascular
+HPO: Menorrhagia (HP:0000132)	reproductive
+HPO: Gonadal dysgenesis (HP:0000133)	other
+HPO: Aseptic necrosis (HP:0010885)	skeletal
+HPO: Poor speech (HP:0002465)	other
+HPO: Vaginal fistula (HP:0004320)	reproductive
+HPO: Abnormal EKG (HP:0003115)	cardiovascular
+HPO: EMG: neuropathic changes (HP:0003445)	nervous
+HPO: Abnormality of serum amino acid levels (HP:0003112)	other
+HPO: Axonal loss (HP:0003447)	nervous
+HPO: Amblyopia (HP:0000646)	nervous
+HPO: Sclerocornea (HP:0000647)	nervous
+HPO: Gaze-evoked nystagmus (HP:0000640)	nervous
+HPO: Dysmetric saccades (HP:0000641)	nervous
+HPO: Optic atrophy (HP:0000648)	nervous
+HPO: Abnormality of vision evoked potentials (HP:0000649)	nervous
+HPO: Squamous cell carcinoma (HP:0002860)	integumentary
+HPO: Melanoma (HP:0002861)	integumentary
+HPO: Bladder carcinoma (HP:0002862)	urinary
+HPO: Myelodysplasia (HP:0002863)	hematologic
+HPO: Villous atrophy (HP:0011473)	digestive
+HPO: Abnormality of small intestinal villus morphology (HP:0011472)	digestive
+HPO: Hypoplastic iliac wings (HP:0002866)	skeletal
+HPO: Infantile onset (HP:0003593)	other
+HPO: Flared iliac wings (HP:0002869)	skeletal
+HPO: Abnormality of the heme biosynthetic pathway (HP:0010472)	other
+HPO: Mask-like facies (HP:0000298)	other
+HPO: Spastic tetraplegia (HP:0002510)	nervous
+HPO: Abnormal hemoglobin (HP:0011902)	hematologic
+HPO: Increased intracranial pressure (HP:0002516)	nervous
+HPO: Abnormality of the periventricular white matter (HP:0002518)	nervous
+HPO: Hypoplasia of the ulna (HP:0003022)	skeletal
+HPO: Metaphyseal cupping (HP:0003021)	skeletal
+HPO: Mesomelia (HP:0003027)	skeletal
+HPO: Metaphyseal irregularity (HP:0003025)	skeletal
+HPO: Dialeptic seizures (HP:0011146)	nervous
+HPO: Ependymoma (HP:0002888)	nervous
+HPO: Developmental regression (HP:0002376)	behavior
+HPO: Hyperventilation (HP:0002883)	respiratory
+HPO: Respiratory difficulties (HP:0002880)	respiratory
+HPO: Hepatoblastoma (HP:0002884)	digestive
+HPO: Medulloblastoma (HP:0002885)	nervous
+HPO: Rhabdomyolysis (HP:0003201)	other
+HPO: Cerebellar dysplasia (HP:0007033)	nervous
+HPO: Intracellular accumulation of autofluorescent lipopigment storage material (HP:0003204)	other
+HPO: Abnormality of urine glucose concentration (HP:0011016)	urinary
+HPO: Midface retrusion (HP:0011800)	skeletal
+HPO: Abnormality of polysaccharide metabolism (HP:0011012)	metabolic
+HPO: Increased mean platelet volume (HP:0011877)	hematologic
+HPO: Abnormal platelet volume (HP:0011876)	hematologic
+HPO: Intention tremor (HP:0002080)	nervous
+HPO: Occipital encephalocele (HP:0002085)	nervous
+HPO: Pulmonary hypoplasia (HP:0002089)	respiratory
+HPO: Bifid uvula (HP:0000193)	other
+HPO: Progressive disorder (HP:0003676)	other
+HPO: Neoplasm of head and neck (HP:0012288)	integumentary
+HPO: Meckel diverticulum (HP:0002245)	digestive
+HPO: Abnormality of the duodenum (HP:0002246)	digestive
+HPO: Hepatomegaly (HP:0002240)	digestive
+HPO: Hepatitis (HP:0012115)	immune
+HPO: Abnormal albumin level (HP:0012116)	other
+HPO: Hypoplasia of the pons (HP:0012110)	nervous
+HPO: Increased serum lactate (HP:0002151)	other
+HPO: Neonatal respiratory distress (HP:0002643)	respiratory
+HPO: Wormian bones (HP:0002645)	skeletal
+HPO: Aortic dissection (HP:0002647)	cardiovascular
+HPO: Joint hemorrhage (HP:0005261)	skeletal
+HPO: Homocystinuria (HP:0002156)	other
+HPO: Spontaneous abortion (HP:0005268)	reproductive
+HPO: Wide intermamillary distance (HP:0006610)	reproductive
+HPO: Lower limb amyotrophy (HP:0007210)	nervous
+HPO: Aganglionic megacolon (HP:0002251)	digestive
+HPO: Muscular hypotonia of the trunk (HP:0008936)	skeletal muscle
+HPO: Non-midline cleft lip (HP:0100335)	other
+HPO: Splenomegaly (HP:0001744)	lymphatic
+HPO: Asplenia (HP:0001746)	lymphatic
+HPO: Popliteal pterygium (HP:0009756)	other
+HPO: Partial duplication of the phalanx of hand (HP:0009999)	skeletal
+HPO: Aplasia/Hypoplasia involving the carpal bones (HP:0006502)	skeletal
+HPO: Abnormality involving the epiphyses of the lower limbs (HP:0006500)	skeletal
+HPO: Aplasia/hypoplasia of the humerus (HP:0006507)	skeletal
+HPO: Cerebral palsy (HP:0100021)	nervous
+HPO: Breast carcinoma (HP:0003002)	reproductive
+HPO: Limited hip movement (HP:0008800)	other
+HPO: Abnormality of the pons (HP:0007361)	nervous
+HPO: Aplasia/Hypoplasia of the brainstem (HP:0007362)	nervous
+HPO: Arteriovenous malformation (HP:0100026)	cardiovascular
+HPO: Male pseudohermaphroditism (HP:0000037)	reproductive
+HPO: Rib fusion (HP:0000902)	skeletal
+HPO: Abnormality of magnesium homeostasis (HP:0004921)	other
+HPO: Skin ulcer (HP:0200042)	integumentary
+HPO: Verrucae (HP:0200043)	integumentary
+HPO: Epidermoid cyst (HP:0200040)	integumentary
+HPO: Absent speech (HP:0001344)	other
+HPO: Abnormality of the pericardium (HP:0001697)	cardiovascular
+HPO: Primary atrial arrhythmia (HP:0001692)	cardiovascular
+HPO: Cerebral hemorrhage (HP:0001342)	nervous
+HPO: Facial diplegia (HP:0001349)	other
+HPO: Sudden death (HP:0001699)	other
+HPO: Deformed tarsal bones (HP:0008119)	skeletal
+HPO: Insulin-resistant diabetes mellitus (HP:0000831)	metabolic
+HPO: Glucose intolerance (HP:0000833)	metabolic
+HPO: Adrenal hypoplasia (HP:0000835)	endocrine
+HPO: Gonadotropin excess (HP:0000837)	endocrine
+HPO: Hyperthyroidism (HP:0000836)	endocrine
+HPO: Large for gestational age (HP:0001520)	other
+HPO: Death in infancy (HP:0001522)	other
+HPO: Shallow orbits (HP:0000586)	skeletal
+HPO: Abnormality of Sharpey fibers (HP:0100685)	skeletal muscle
+HPO: Distal arthrogryposis (HP:0005684)	skeletal muscle
+HPO: Abnormality of the salivary glands (HP:0010286)	digestive
+HPO: Stomatitis (HP:0010280)	other
+HPO: Aplasia/Hypoplasia of the thymus (HP:0010515)	lymphatic
+HPO: Aplasia/Hypoplasia of the 4th metacarpal (HP:0010042)	skeletal
+HPO: Short 4th metacarpal (HP:0010044)	skeletal
+HPO: Long toe (HP:0010511)	skeletal
+HPO: High forehead (HP:0000348)	skeletal
+HPO: Wrist flexion contracture (HP:0001239)	skeletal
+HPO: Long philtrum (HP:0000343)	integumentary
+HPO: Narrow forehead (HP:0000341)	skeletal
+HPO: Sloping forehead (HP:0000340)	skeletal
+HPO: Abnormality of the fingernails (HP:0001231)	integumentary
+HPO: Hypoplasia of the uterus (HP:0000013)	reproductive
+HPO: Urinary urgency (HP:0000012)	urinary
+HPO: Recurrent urinary tract infections (HP:0000010)	immune
+HPO: Bladder diverticulum (HP:0000015)	urinary
+HPO: Scapular winging (HP:0003691)	skeletal
+HPO: Rocker bottom foot (HP:0001838)	skeletal
+HPO: Split foot (HP:0001839)	skeletal
+HPO: Long foot (HP:0001833)	skeletal
+HPO: Postaxial foot polydactyly (HP:0001830)	skeletal
+HPO: Camptodactyly of toe (HP:0001836)	skeletal
+HPO: Broad toe (HP:0001837)	skeletal
+HPO: Skin tags (HP:0010609)	integumentary
+HPO: Progressive macrocephaly (HP:0004481)	skeletal
+HPO: Relative macrocephaly (HP:0004482)	skeletal
+HPO: Neoplasm of the lung (HP:0100526)	respiratory
+HPO: Abnormality of complement system (HP:0005339)	immune
+HPO: Sparse lateral eyebrow (HP:0005338)	integumentary
+HPO: Renal salt wasting (HP:0000127)	urinary
+HPO: Hydronephrosis (HP:0000126)	urinary
+HPO: Renal tubular dysfunction (HP:0000124)	urinary
+HPO: Nephritis (HP:0000123)	urinary
+HPO: Unilateral renal agenesis (HP:0000122)	urinary
+HPO: Nephrocalcinosis (HP:0000121)	urinary
+"HPO: Intellectual disability, severe (HP:0010864)"	nervous
+HPO: IgG deficiency (HP:0004315)	immune
+HPO: Paralysis (HP:0003470)	nervous
+HPO: Intestinal polyposis (HP:0200008)	digestive
+HPO: Abnormality of reticulocytes (HP:0004312)	immune
+HPO: Fatigable weakness (HP:0003473)	skeletal muscle
+HPO: Vitreoretinal degeneration (HP:0000655)	nervous
+HPO: Decreased electroretinogram (ERG) amplitude (HP:0000654)	nervous
+HPO: Oculomotor apraxia (HP:0000657)	nervous
+HPO: Ectropion (HP:0000656)	nervous
+HPO: Diplopia (HP:0000651)	nervous
+HPO: Sparse eyelashes (HP:0000653)	integumentary
+HPO: Exertional dyspnea (HP:0002875)	respiratory
+HPO: Obstructive sleep apnea (HP:0002870)	behavior
+HPO: Respiratory failure (HP:0002878)	respiratory
+HPO: Progressive inability to walk (HP:0002505)	other
+HPO: Morphological abnormality of the inner ear (HP:0011390)	nervous
+HPO: Limb hypertonia (HP:0002509)	skeletal muscle
+HPO: Embryonal neoplasm (HP:0002898)	other
+HPO: Hyperphosphaturia (HP:0003109)	urinary
+HPO: Uterine leiomyosarcoma (HP:0002891)	reproductive
+HPO: Thyroid carcinoma (HP:0002890)	endocrine
+HPO: Papillary thyroid carcinoma (HP:0002895)	endocrine
+HPO: Abnormality of aromatic amino acid family metabolism (HP:0004338)	metabolic
+HPO: Neoplasm of the liver (HP:0002896)	digestive
+HPO: Abnormality of sulfur amino acid metabolism (HP:0004339)	metabolic
+HPO: Hip contracture (HP:0003273)	skeletal muscle
+HPO: Abdominal distention (HP:0003270)	other
+HPO: Anal stenosis (HP:0002025)	digestive
+HPO: Abnormality of mucopolysaccharide metabolism (HP:0011020)	metabolic
+HPO: Gastroesophageal reflux (HP:0002020)	digestive
+HPO: Slender long bone (HP:0003100)	skeletal
+HPO: Albinism (HP:0001022)	integumentary
+"HPO: Primitive reflexes (palmomental, snout, glabellar) (HP:0002476)"	nervous
+HPO: Myelomeningocele (HP:0002475)	nervous
+HPO: Restrictive lung disease (HP:0002091)	respiratory
+HPO: Pulmonary hypertension (HP:0002092)	cardiovascular
+HPO: Emphysema (HP:0002097)	respiratory
+HPO: Asthma (HP:0002099)	respiratory
+HPO: Respiratory distress (HP:0002098)	respiratory
+HPO: Cervical subluxation (HP:0003308)	skeletal
+HPO: Spondylolisthesis (HP:0003302)	skeletal
+HPO: Ovoid vertebral bodies (HP:0003300)	skeletal
+HPO: Irregular vertebral endplates (HP:0003301)	skeletal
+HPO: Spinal rigidity (HP:0003306)	skeletal
+HPO: Methylmalonic aciduria (HP:0012120)	urinary
+HPO: Stomach cancer (HP:0012126)	digestive
+HPO: Epiphyseal dysplasia (HP:0002656)	skeletal
+HPO: Bone pain (HP:0002653)	skeletal
+HPO: Abnormal pupillary function (HP:0007686)	nervous
+HPO: Osteolytic defects of the hand bones (HP:0009699)	skeletal
+HPO: Absent rod-and cone-mediated responses on ERG (HP:0007688)	nervous
+HPO: Rhinitis (HP:0012384)	respiratory
+HPO: Bronchitis (HP:0012387)	respiratory
+HPO: Opacification of the corneal stroma (HP:0007759)	nervous
+HPO: Muscle fiber cytoplasmatic inclusion bodies (HP:0100303)	skeletal muscle
+HPO: Hypoplasia of the fovea (HP:0007750)	nervous
+HPO: Neonatal short-limb short stature (HP:0008921)	skeletal
+HPO: Impaired social interactions (HP:0000735)	behavior
+HPO: Retinal dysplasia (HP:0007973)	nervous
+HPO: Brachydactyly syndrome (HP:0001156)	skeletal
+HPO: Prolonged neonatal jaundice (HP:0006579)	digestive
+HPO: Subacute progressive viral hepatitis (HP:0006572)	immune
+HPO: Symptomatic seizures (HP:0011145)	nervous
+HPO: Atrophy/Degeneration involving motor neurons (HP:0007373)	nervous
+HPO: Atrophy/Degeneration involving the corticospinal tracts (HP:0007372)	nervous
+HPO: Nuclear cataract (HP:0100018)	nervous
+HPO: Abnormality of the septum pellucidum (HP:0007375)	nervous
+HPO: Abnormal large intestine physiology (HP:0012700)	digestive
+HPO: Abnormal respiratory epithelium morphology (HP:0012253)	respiratory
+HPO: Dynein arm defect of respiratory motile cilia (HP:0012255)	respiratory
+HPO: Abnormality of monocarboxylic acid metabolism (HP:0010996)	metabolic
+"HPO: Intellectual disability, progressive (HP:0006887)"	nervous
+HPO: Chondrocalcinosis (HP:0000934)	skeletal
+HPO: Osteopenia (HP:0000938)	skeletal
+HPO: Osteoporosis (HP:0000939)	skeletal
+HPO: Small hand (HP:0200055)	skeletal
+HPO: Plagiocephaly (HP:0001357)	skeletal
+HPO: Megalencephaly (HP:0001355)	nervous
+HPO: Coarctation of aorta (HP:0001680)	cardiovascular
+HPO: Subaortic stenosis (HP:0001682)	cardiovascular
+HPO: Methylmalonic acidemia (HP:0002912)	metabolic
+HPO: Omphalocele (HP:0001539)	other
+HPO: Renal cortical cysts (HP:0000803)	urinary
+HPO: Umbilical hernia (HP:0001537)	reproductive
+HPO: Slender build (HP:0001533)	other
+HPO: Failure to thrive in infancy (HP:0001531)	other
+HPO: Abnormality of the vitamin B12 metabolism (HP:0004341)	metabolic
+HPO: Trigonocephaly (HP:0000243)	skeletal
+HPO: Brachycephaly (HP:0000248)	skeletal
+HPO: Neoplasm of the small intestine (HP:0100833)	digestive
+HPO: Round ear (HP:0100830)	other
+HPO: Malignant neoplasm of the central nervous system (HP:0100836)	nervous
+HPO: Benign neoplasm of the central nervous system (HP:0100835)	nervous
+HPO: Prominent supraorbital ridges (HP:0000336)	skeletal
+HPO: Broad forehead (HP:0000337)	skeletal
+HPO: Short chin (HP:0000331)	skeletal
+HPO: Labial hypoplasia (HP:0000066)	reproductive
+HPO: Urethral obstruction (HP:0000796)	urinary
+HPO: Hematuria (HP:0000790)	urinary
+HPO: Decreased activity of cytochrome C oxidase in muscle tissue (HP:0003688)	skeletal muscle
+HPO: Centrally nucleated skeletal muscle fibers (HP:0003687)	skeletal muscle
+HPO: Nonprogressive disorder (HP:0003680)	other
+HPO: Insomnia (HP:0100785)	behavior
+HPO: Prostate neoplasm (HP:0100787)	reproductive
+HPO: Conjunctival hamartoma (HP:0100780)	skeletal muscle
+HPO: Breast aplasia (HP:0100783)	reproductive
+HPO: Craniofacial hyperostosis (HP:0004493)	skeletal
+HPO: Widely patent fontanelles and sutures (HP:0004492)	skeletal
+HPO: Hallux valgus (HP:0001822)	skeletal
+HPO: Weight loss (HP:0001824)	metabolic
+HPO: Genital tract atresia (HP:0001827)	reproductive
+HPO: Abnormal rod and cone electroretinograms (HP:0008323)	nervous
+HPO: Midline defect of the nose (HP:0004122)	other
+HPO: Abnormal foot bone ossification (HP:0010675)	skeletal
+HPO: Microcornea (HP:0000482)	nervous
+HPO: Astigmatism (HP:0000483)	nervous
+HPO: Megalocornea (HP:0000485)	nervous
+HPO: Retinopathy (HP:0000488)	nervous
+HPO: Capillary hemangiomas (HP:0005306)	cardiovascular
+HPO: Hypodontia (HP:0000668)	skeletal
+HPO: Abnormality of the endocardium (HP:0004306)	cardiovascular
+HPO: Glossoptosis (HP:0000162)	other
+HPO: Ventricular arrhythmia (HP:0004308)	cardiovascular
+HPO: Synophrys (HP:0000664)	integumentary
+HPO: Horizontal nystagmus (HP:0000666)	nervous
+HPO: Atonic seizures (HP:0010819)	nervous
+HPO: Neck muscle weakness (HP:0000467)	skeletal muscle
+HPO: Webbed neck (HP:0000465)	integumentary
+HPO: Cellulitis (HP:0100658)	integumentary
+HPO: Optic neuritis (HP:0100653)	nervous
+HPO: Type I diabetes mellitus (HP:0100651)	metabolic
+HPO: Retrobulbar optic neuritis (HP:0100654)	nervous
+HPO: Hypergammaglobulinemia (HP:0010702)	immune
+HPO: Ulnar deviation of the wrist (HP:0003049)	skeletal
+"HPO: Congenital, generalized hypertrichosis (HP:0004540)"	integumentary
+HPO: Poor coordination (HP:0002370)	nervous
+HPO: Increased connective tissue (HP:0009025)	other
+HPO: Arthropathy (HP:0003040)	skeletal
+HPO: Foot dorsiflexor weakness (HP:0009027)	skeletal muscle
+HPO: Clumsiness (HP:0002312)	behavior
+HPO: Spastic paraparesis (HP:0002313)	skeletal muscle
+HPO: Unsteady gait (HP:0002317)	other
+HPO: Degeneration of the lateral corticospinal tracts (HP:0002314)	nervous
+HPO: Zonular cataract (HP:0010920)	nervous
+HPO: Abnormality of calcium-phosphate metabolism (HP:0100530)	metabolic
+HPO: Periorbital edema (HP:0100539)	other
+HPO: Abnormality of renal resorption (HP:0011038)	urinary
+HPO: Abnormality of renal excretion (HP:0011036)	urinary
+HPO: Abnormality of the renal cortex (HP:0011035)	urinary
+HPO: Amyloidosis (HP:0011034)	other
+HPO: Abnormality of iron homeostasis (HP:0011031)	other
+HPO: Abnormality of transition element cation homeostasis (HP:0011030)	other
+HPO: Ridged nail (HP:0001807)	integumentary
+HPO: Increased cerebral lipofuscin (HP:0011813)	other
+HPO: Woolly hair (HP:0002224)	integumentary
+HPO: Absent eyebrow (HP:0002223)	integumentary
+HPO: Hypoplasia of the odontoid process (HP:0003311)	skeletal
+HPO: Abnormality of the odontoid process (HP:0003310)	skeletal
+HPO: Abnormal number of erythroid precursors (HP:0012131)	hematologic
+HPO: Abnormality of cells of the erythroid lineage (HP:0012130)	hematologic
+HPO: Congenital malformation of the right heart (HP:0011723)	cardiovascular
+HPO: Porencephaly (HP:0002132)	nervous
+HPO: Status epilepticus (HP:0002133)	nervous
+HPO: Broad-based gait (HP:0002136)	other
+HPO: Abnormality of the basal ganglia (HP:0002134)	nervous
+HPO: Basal ganglia calcification (HP:0002135)	nervous
+HPO: Flexion contracture of toe (HP:0005830)	skeletal muscle
+HPO: Cerebral inclusion bodies (HP:0100314)	nervous
+HPO: Termporal pattern (HP:0011008)	other
+HPO: Acute necrotizing encephalopathy (HP:0006965)	nervous
+HPO: Posterior subcapsular cataract (HP:0007787)	nervous
+HPO: Increased hepatocellular lipid droplets (HP:0006565)	metabolic
+HPO: Lipid accumulation in hepatocytes (HP:0006561)	metabolic
+HPO: Viral hepatitis (HP:0006562)	immune
+HPO: CNS demyelination (HP:0007305)	nervous
+HPO: Neoplasm of the peripheral nervous system (HP:0100007)	nervous
+HPO: Increased intramyocellular lipid droplets (HP:0012240)	metabolic
+HPO: Sex reversal (HP:0012245)	other
+HPO: Abnormal sex determination (HP:0012244)	reproductive
+HPO: Abnormality of the antihelix (HP:0009738)	other
+HPO: Platyspondyly (HP:0000926)	skeletal
+HPO: Missing ribs (HP:0000921)	skeletal
+HPO: Cerebral aneurysm (HP:0004944)	nervous
+HPO: Specific learning disability (HP:0001328)	other
+HPO: Aortic aneurysm (HP:0004942)	cardiovascular
+HPO: Hypoglycemic coma (HP:0001325)	metabolic
+HPO: Vascular tortuosity (HP:0004948)	cardiovascular
+HPO: Hypermetropia (HP:0000540)	nervous
+HPO: Abnormal finger flexion creases (HP:0006143)	integumentary
+HPO: Premature loss of primary teeth (HP:0006323)	skeletal
+HPO: Hypoglycemic seizures (HP:0002173)	metabolic
+HPO: Acute myeloid leukemia (HP:0004808)	lymphatic
+HPO: Poor eye contact (HP:0000817)	nervous
+HPO: Hypergonadotropic hypogonadism (HP:0000815)	endocrine
+HPO: Synostosis of carpal bones (HP:0005048)	skeletal
+HPO: Fragile skin (HP:0001030)	integumentary
+HPO: Premature rupture of membranes (HP:0001788)	reproductive
+HPO: Hypermelanotic macule (HP:0001034)	integumentary
+HPO: Abnormal delivery (HP:0001787)	reproductive
+HPO: Broad metatarsal (HP:0001783)	skeletal
+HPO: Progressive microcephaly (HP:0000253)	nervous
+HPO: Glomerulopathy (HP:0100820)	urinary
+HPO: Cheilitis (HP:0100825)	other
+HPO: Abnormality of macular pigmentation (HP:0008002)	integumentary
+HPO: Short 5th finger (HP:0009237)	skeletal
+HPO: Bowel diverticulosis (HP:0005222)	digestive
+"HPO: Intellectual disability, mild (HP:0001256)"	nervous
+HPO: Lethargy (HP:0001254)	behavior
+HPO: Facial hemangioma (HP:0000329)	cardiovascular
+HPO: Triangular face (HP:0000325)	other
+HPO: Facial asymmetry (HP:0000324)	other
+HPO: Hypoplasia of the maxilla (HP:0000327)	skeletal
+HPO: Spastic paraplegia (HP:0001258)	nervous
+HPO: Short philtrum (HP:0000322)	integumentary
+HPO: Renal duplication (HP:0000075)	urinary
+HPO: Abnormality of the metopic suture (HP:0005556)	skeletal
+HPO: Ureteral stenosis (HP:0000071)	urinary
+HPO: Slow progression (HP:0003677)	other
+HPO: Ureteral duplication (HP:0000073)	urinary
+HPO: Hydroureter (HP:0000072)	urinary
+HPO: Rapidly progressive (HP:0003678)	other
+HPO: Orchitis (HP:0100796)	reproductive
+HPO: Abnormal mitochondria in muscle tissue (HP:0008316)	skeletal muscle
+HPO: Cheekbone underdevelopment (HP:0010669)	skeletal
+HPO: Abnormal hand bone ossification (HP:0010660)	skeletal
+HPO: Abnormality of the diencephalon (HP:0010662)	nervous
+HPO: Recurrent corneal erosions (HP:0000495)	nervous
+HPO: Downslanted palpebral fissures (HP:0000494)	integumentary
+HPO: Abnormality of the fovea (HP:0000493)	nervous
+HPO: Keratitis (HP:0000491)	nervous
+HPO: Deeply set eye (HP:0000490)	nervous
+HPO: Blepharitis (HP:0000498)	nervous
+HPO: Neuroblastic tumors (HP:0004376)	nervous
+HPO: Tented upper lip vermilion (HP:0010804)	integumentary
+HPO: Focal dystonia (HP:0004373)	nervous
+HPO: Taurodontia (HP:0000679)	skeletal
+HPO: Abnormality of glycosaminoglycan metabolism (HP:0004371)	metabolic
+HPO: Oligodontia (HP:0000677)	skeletal
+HPO: Abnormality of the incisor (HP:0000676)	skeletal
+HPO: Protruding tongue (HP:0010808)	other
+HPO: Back pain (HP:0003418)	skeletal
+HPO: Carious teeth (HP:0000670)	skeletal
+HPO: Excessive salivation (HP:0003781)	digestive
+HPO: Short neck (HP:0000470)	skeletal
+HPO: Torticollis (HP:0000473)	skeletal
+HPO: Cerebral edema (HP:0002181)	nervous
+HPO: Cystic hygroma (HP:0000476)	nervous
+HPO: Neoplasm of the oral cavity (HP:0100649)	other
+HPO: Neoplasm of the adrenal cortex (HP:0100641)	endocrine
+HPO: Abnormality of nail color (HP:0100643)	integumentary
+HPO: Abnormality of abdominal situs (HP:0011620)	cardiovascular
+HPO: Thyroiditis (HP:0100646)	endocrine
+HPO: Increased IgM level (HP:0003496)	immune
+HPO: Hypercalcemia (HP:0003072)	other
+HPO: Hypoalbuminemia (HP:0003073)	other
+HPO: Hyperglycemia (HP:0003074)	metabolic
+HPO: Hypoproteinemia (HP:0003075)	other
+HPO: Glycosuria (HP:0003076)	urinary
+HPO: Nephrolithiasis (HP:0000787)	urinary
+HPO: Primary amenorrhea (HP:0000786)	reproductive
+HPO: Hemiplegia (HP:0002301)	nervous
+HPO: Mutism (HP:0002300)	nervous
+HPO: Clinodactyly of the 5th finger (HP:0004209)	skeletal
+HPO: Athetosis (HP:0002305)	nervous
+HPO: Akinesia (HP:0002304)	nervous
+HPO: Drooling (HP:0002307)	other
+HPO: Abnormality of sodium homeostasis (HP:0010931)	other
+HPO: Male infertility (HP:0003251)	reproductive
+HPO: Disproportionate short-trunk short stature (HP:0003521)	skeletal
+HPO: Abnormality of DNA repair (HP:0003254)	other
+HPO: Hypoplasia of the capital femoral epiphysis (HP:0003090)	skeletal
+HPO: Vertebral fusion (HP:0002948)	skeletal
+HPO: Tachypnea (HP:0002789)	respiratory
+HPO: Bronchomalacia (HP:0002780)	respiratory
+HPO: Recurrent lower respiratory tract infections (HP:0002783)	immune
+HPO: Molar tooth sign on MRI (HP:0002419)	nervous
+HPO: Abnormality of midbrain morphology (HP:0002418)	nervous
+HPO: Leukodystrophy (HP:0002415)	nervous
+HPO: Myokymia (HP:0002411)	nervous
+HPO: Aqueductal stenosis (HP:0002410)	nervous
+HPO: Abnormal hair laboratory examination (HP:0003328)	integumentary
+HPO: Generalized muscle weakness (HP:0003324)	skeletal muscle
+HPO: Limb-girdle muscle weakness (HP:0003325)	skeletal muscle
+HPO: Metaphyseal dysplasia (HP:0100255)	skeletal
+HPO: Progressive muscle weakness (HP:0003323)	skeletal muscle
+HPO: Camptodactyly of finger (HP:0100490)	skeletal
+HPO: Joint contractures involving the joints of the feet (HP:0100492)	skeletal
+HPO: Protuberant abdomen (HP:0001538)	metabolic
+HPO: Abnormality of the level of lipoprotein cholesterol (HP:0010979)	metabolic
+HPO: Abnormality of the middle phalanges of the hand (HP:0009833)	skeletal
+HPO: Broad distal phalanx of finger (HP:0009836)	skeletal
+HPO: Abnormality of the proximal phalanges of the hand (HP:0009834)	skeletal
+HPO: Absence seizures (HP:0002121)	nervous
+HPO: Cerebral cortical atrophy (HP:0002120)	nervous
+HPO: Generalized myoclonic seizures (HP:0002123)	nervous
+HPO: Upper motor neuron abnormality (HP:0002127)	nervous
+HPO: Polymicrogyria (HP:0002126)	nervous
+HPO: Abnormality of the foot musculature (HP:0001436)	skeletal muscle
+HPO: Impaired smooth pursuit (HP:0007772)	nervous
+HPO: Abnormality of endocrine pancreas physiology (HP:0012093)	digestive
+HPO: Abnormal pancreas size (HP:0012094)	digestive
+HPO: Waddling gait (HP:0002515)	other
+HPO: Abnormality of proline metabolism (HP:0010907)	metabolic
+HPO: Abnormal auditory evoked potentials (HP:0006958)	nervous
+HPO: Acute hepatic failure (HP:0006554)	digestive
+HPO: Respiratory insufficiency due to defective ciliary clearance (HP:0200073)	respiratory
+HPO: Aplasia/Hypoplasia of the phalanges of the thumb (HP:0009658)	skeletal
+HPO: Lissencephaly (HP:0001339)	nervous
+HPO: Partial agenesis of the corpus callosum (HP:0001338)	nervous
+HPO: Myoclonus (HP:0001336)	nervous
+HPO: Absent septum pellucidum (HP:0001331)	nervous
+HPO: Abnormality of ocular smooth pursuit (HP:0000617)	nervous
+HPO: Secondary amenorrhea (HP:0000869)	reproductive
+HPO: Nonimmune hydrops fetalis (HP:0001790)	other
+HPO: Urticaria (HP:0001025)	immune
+HPO: Peripheral hypomyelination (HP:0007182)	nervous
+HPO: Poikiloderma (HP:0001029)	integumentary
+HPO: Short nail (HP:0001799)	integumentary
+HPO: Anonychia (HP:0001798)	integumentary
+HPO: Wide anterior fontanel (HP:0000260)	skeletal
+HPO: Turricephaly (HP:0000262)	skeletal
+HPO: Dolichocephaly (HP:0000268)	skeletal
+HPO: Prominent occiput (HP:0000269)	skeletal
+HPO: Renovascular hypertension (HP:0100817)	cardiovascular
+HPO: Abnormality of the 4th metacarpal (HP:0010012)	skeletal
+HPO: Intestinal fistula (HP:0100819)	digestive
+HPO: Round face (HP:0000311)	skeletal
+HPO: Hypertelorism (HP:0000316)	skeletal
+HPO: Smooth philtrum (HP:0000319)	integumentary
+HPO: Calcaneovalgus deformity (HP:0001848)	skeletal
+HPO: Hypoplastic toenails (HP:0001800)	integumentary
+HPO: Steatorrhea (HP:0002570)	metabolic
+HPO: Onycholysis (HP:0001806)	integumentary
+HPO: Thick nail (HP:0001805)	integumentary
+HPO: Fragile nails (HP:0001808)	integumentary
+HPO: Abnormality of pain sensation (HP:0010832)	nervous
+HPO: Epiphyseal stippling (HP:0010655)	skeletal
+HPO: Abnormal epiphyseal ossification (HP:0010656)	skeletal
+HPO: Abnormality of glycolysis (HP:0004366)	metabolic
+HPO: Paresthesia (HP:0003401)	nervous
+HPO: Widely spaced teeth (HP:0000687)	skeletal
+HPO: Delayed eruption of teeth (HP:0000684)	skeletal
+HPO: White forelock (HP:0002211)	integumentary
+HPO: Dental malocclusion (HP:0000689)	skeletal
+HPO: Increased purine levels (HP:0004368)	other
+HPO: Limb-girdle muscle atrophy (HP:0003797)	skeletal muscle
+HPO: Prominent nose (HP:0000448)	skeletal
+HPO: Convex nasal ridge (HP:0000444)	skeletal
+HPO: Wide nose (HP:0000445)	skeletal
+HPO: Narrow nasal bridge (HP:0000446)	skeletal
+HPO: Nemaline bodies (HP:0003798)	skeletal muscle
+HPO: Premature skin wrinkling (HP:0100678)	integumentary
+HPO: Lack of skin elasticity (HP:0100679)	integumentary
+HPO: Rough bone trabeculation (HP:0100670)	skeletal
+HPO: Abnormal trabecular bone morphology (HP:0100671)	skeletal
+HPO: Bifid scrotum (HP:0000048)	reproductive
+HPO: Shawl scrotum (HP:0000049)	reproductive
+HPO: Long clavicles (HP:0000890)	skeletal
+HPO: Abnormality of the humerus (HP:0003063)	skeletal
+HPO: Abnormal hair whorl (HP:0010721)	integumentary
+HPO: Cone-shaped epiphyses of the phalanges of the hand (HP:0010230)	skeletal
+HPO: Enlarged penis (HP:0000040)	reproductive
+HPO: Beaking of vertebral bodies (HP:0004568)	skeletal
+HPO: Hypogonadotrophic hypogonadism (HP:0000044)	endocrine
+HPO: Scrotal hypoplasia (HP:0000046)	reproductive
+HPO: Hypospadias (HP:0000047)	urinary
+HPO: Abnormality of the middle phalanx of the 5th finger (HP:0004219)	skeletal
+HPO: Pulmonary embolism (HP:0002204)	respiratory
+HPO: Abnormality of the phalanges of the 5th finger (HP:0004213)	skeletal
+HPO: Short clavicles (HP:0000894)	skeletal
+HPO: 3-Methylglutaconic aciduria (HP:0003535)	metabolic
+HPO: Abnormality of methionine metabolism (HP:0010901)	metabolic
+HPO: Abnormality of glutamine family amino acid metabolism (HP:0010902)	metabolic
+HPO: Pulmonary fibrosis (HP:0002206)	respiratory
+HPO: Hydroxyprolinuria (HP:0003080)	other
+HPO: Dislocated radial head (HP:0003083)	skeletal
+HPO: Poor head control (HP:0002421)	nervous
+HPO: Distal sensory impairment (HP:0002936)	nervous
+HPO: Hemivertebrae (HP:0002937)	skeletal
+HPO: Impaired proprioception (HP:0010831)	nervous
+HPO: Lumbar hyperlordosis (HP:0002938)	skeletal
+HPO: Hydrocephalus (HP:0000238)	nervous
+HPO: Abnormality of T cell number (HP:0011839)	immune
+HPO: Coarse hair (HP:0002208)	integumentary
+HPO: Sparse scalp hair (HP:0002209)	integumentary
+HPO: Osteoarthritis (HP:0002758)	skeletal
+HPO: Pseudobulbar signs (HP:0002200)	behavior
+HPO: Thin bony cortex (HP:0002753)	skeletal
+HPO: Delayed skeletal maturation (HP:0002750)	skeletal
+HPO: Kyphoscoliosis (HP:0002751)	skeletal
+HPO: Pathologic fracture (HP:0002756)	skeletal
+HPO: Recurrent fractures (HP:0002757)	skeletal
+HPO: Osteomyelitis (HP:0002754)	skeletal
+HPO: Sensorimotor neuropathy (HP:0007141)	nervous
+HPO: Distal upper limb amyotrophy (HP:0007149)	nervous
+HPO: Abnormal spermatogenesis (HP:0008669)	reproductive
+HPO: Leiomyosarcoma (HP:0100243)	skeletal muscle
+HPO: Hypoplastic pelvis (HP:0008839)	skeletal
+HPO: Thickened calvaria (HP:0002684)	skeletal
+HPO: Prenatal maternal abnormality (HP:0002686)	reproductive
+HPO: Abnormality of the frontal sinuses (HP:0002687)	respiratory
+HPO: J-shaped sella turcica (HP:0002680)	skeletal
+HPO: Deformed sella turcica (HP:0002681)	skeletal
+HPO: Absent frontal sinuses (HP:0002688)	respiratory
+HPO: Elfin facies (HP:0004428)	other
+HPO: Delayed myelination (HP:0012448)	nervous
+HPO: Forearm undergrowth (HP:0009821)	skeletal
+HPO: Short middle phalanx of finger (HP:0005819)	skeletal
+HPO: Aplasia involving bones of the upper limbs (HP:0009823)	skeletal
+HPO: Aplasia involving forearm bones (HP:0009822)	skeletal
+HPO: Aplasia involving bones of the extremities (HP:0009825)	skeletal
+HPO: Polycystic ovaries (HP:0000147)	reproductive
+HPO: Bronchiectasis (HP:0002110)	respiratory
+HPO: Supernumerary ribs (HP:0005815)	skeletal
+HPO: Pulmonary infiltrates (HP:0002113)	respiratory
+HPO: Abnormality of intracranial pressure (HP:0012640)	nervous
+HPO: Alveolar cell carcinoma (HP:0006519)	respiratory
+HPO: Abnormality of skeletal muscle fiber size (HP:0012084)	skeletal muscle
+HPO: Supernumerary spleens (HP:0009799)	lymphatic
+HPO: Abnormal vertebral ossification (HP:0100569)	skeletal
+HPO: Impaired pain sensation (HP:0007328)	nervous
+HPO: Hypopigmentation of the fundus (HP:0007894)	integumentary
+HPO: Abnormal ciliary motility (HP:0012262)	respiratory
+HPO: Abnormal respiratory motile cilium physiology (HP:0012261)	respiratory
+HPO: Aplasia/hypoplasia of the uterus (HP:0008684)	reproductive
+HPO: Carpal bone hypoplasia (HP:0001498)	skeletal
+HPO: Mitral regurgitation (HP:0001653)	cardiovascular
+HPO: Pachygyria (HP:0001302)	nervous
+HPO: Prolonged QT interval (HP:0001657)	cardiovascular
+HPO: Patent foramen ovale (HP:0001655)	cardiovascular
+HPO: Tongue fasciculations (HP:0001308)	nervous
+HPO: Myocardial infarction (HP:0001658)	cardiovascular
+HPO: Aortic regurgitation (HP:0001659)	cardiovascular
+HPO: IgA deficiency (HP:0002720)	immune
+HPO: Congenital ichthyosiform erythroderma (HP:0007431)	integumentary
+HPO: 11 pairs of ribs (HP:0000878)	skeletal
+HPO: Oligomenorrhea (HP:0000876)	reproductive
+HPO: Multiple lipomas (HP:0001012)	other
+HPO: Recurrent skin infections (HP:0001581)	immune
+HPO: Erythroderma (HP:0001019)	integumentary
+HPO: Abnormality of the labia majora (HP:0012881)	reproductive
+HPO: Abnormality of the labia minora (HP:0012880)	reproductive
+HPO: Abnormal blistering of the skin (HP:0008066)	integumentary
+HPO: Aplasia/Hypoplasia of the lens (HP:0008063)	nervous
+HPO: Aplasia/Hypoplasia of the fovea (HP:0008060)	nervous
+HPO: Aplasia/Hypoplasia affecting the retina (HP:0008061)	nervous
+HPO: Abnormality of the 1st metacarpal (HP:0010009)	skeletal
+HPO: Orthostatic hypotension (HP:0001278)	cardiovascular
+HPO: Syncope (HP:0001279)	nervous
+HPO: Short humerus (HP:0005792)	skeletal
+HPO: Polyneuropathy (HP:0001271)	nervous
+HPO: Cerebellar atrophy (HP:0001272)	nervous
+HPO: Pointed chin (HP:0000307)	skeletal
+HPO: Abnormal atrioventricular conduction (HP:0005150)	cardiovascular
+HPO: Mandibular prognathia (HP:0000303)	skeletal
+HPO: Delayed closure of the anterior fontanelle (HP:0001476)	skeletal
+HPO: Microretrognathia (HP:0000308)	other
+HPO: Aplasia/Hypoplasia of the tibia (HP:0005772)	skeletal
+HPO: Pancytopenia (HP:0001876)	hematologic
+HPO: Neutropenia (HP:0001875)	immune
+HPO: Vesicoureteral reflux (HP:0000076)	urinary
+HPO: Abnormality of eosinophils (HP:0001879)	hematologic
+HPO: Prominent metopic ridge (HP:0005487)	skeletal
+HPO: Postnatal microcephaly (HP:0005484)	skeletal
+HPO: Cellular immunodeficiency (HP:0005374)	immune
+HPO: Malar flattening (HP:0000272)	skeletal
+HPO: Delayed cranial suture closure (HP:0000270)	skeletal
+HPO: Long face (HP:0000276)	skeletal
+HPO: Narrow face (HP:0000275)	skeletal
+HPO: Microdontia (HP:0000691)	skeletal
+HPO: Natal tooth (HP:0000695)	skeletal
+HPO: Conical tooth (HP:0000698)	skeletal
+HPO: Choanal atresia (HP:0000453)	respiratory
+HPO: Choanal stenosis (HP:0000452)	respiratory
+HPO: Depressed nasal ridge (HP:0000457)	skeletal
+HPO: Broad nasal tip (HP:0000455)	integumentary
+HPO: EEG with generalized epileptiform discharges (HP:0011198)	nervous
+HPO: Anosmia (HP:0000458)	nervous
+HPO: Primary adrenal insufficiency (HP:0008207)	endocrine
+HPO: Dyskinesia (HP:0100660)	nervous
+HPO: Generalized hypopigmentation of hair (HP:0011358)	integumentary
+HPO: Dry hair (HP:0011359)	integumentary
+HPO: Premature ovarian failure (HP:0008209)	reproductive
+HPO: Pancreatic islet-cell hyperplasia (HP:0004510)	digestive
+HPO: Abnormality of the labia (HP:0000058)	reproductive
+HPO: Clitoromegaly (HP:0000057)	reproductive
+HPO: Abnormality of the clitoris (HP:0000056)	reproductive
+HPO: Micropenis (HP:0000054)	reproductive
+HPO: Macroorchidism (HP:0000053)	reproductive
+HPO: Abnormality of alanine metabolism (HP:0010916)	metabolic
+HPO: Abnormality of pyruvate family amino acid metabolism (HP:0010915)	metabolic
+HPO: Abnormality of homocysteine metabolism (HP:0010919)	metabolic
+HPO: Short middle phalanx of the 5th finger (HP:0004220)	skeletal
+HPO: Mild short stature (HP:0003502)	skeletal
+HPO: Aplasia/Hypoplasia involving the vertebral column (HP:0008518)	skeletal
+HPO: Oligodactyly (HP:0012165)	skeletal
+HPO: Aplasia/Hypoplasia of the sacrum (HP:0008517)	skeletal
+HPO: Aplasia/Hypoplasia of the vertebrae (HP:0008515)	skeletal
+HPO: Abnormality of binocular vision (HP:0011514)	nervous
+HPO: Abnormality of fatty-acid metabolism (HP:0004359)	metabolic
+HPO: Meningocele (HP:0002435)	nervous
+HPO: Increased CSF protein (HP:0002922)	other
+HPO: Thyroid-stimulating hormone excess (HP:0002925)	endocrine
+HPO: Aplasia/Hypoplasia involving the pelvis (HP:0009103)	skeletal
+HPO: Arterial thrombosis (HP:0004420)	cardiovascular
+HPO: Abnormality of pyrimidine metabolism (HP:0004353)	metabolic
+HPO: Aplasia/Hypoplasia of the pubic bone (HP:0009104)	skeletal
+HPO: Osteomalacia (HP:0002749)	skeletal
+HPO: Rickets (HP:0002748)	skeletal
+HPO: Slow-growing hair (HP:0002217)	integumentary
+HPO: Premature graying of hair (HP:0002216)	integumentary
+HPO: Oral leukoplakia (HP:0002745)	other
+HPO: Prominent forehead (HP:0011220)	skeletal
+HPO: Respiratory insufficiency due to muscle weakness (HP:0002747)	respiratory
+HPO: Neoplasm of the colon (HP:0100273)	digestive
+HPO: Skin pits (HP:0100276)	integumentary
+HPO: Periauricular skin pits (HP:0100277)	integumentary
+HPO: Hyperalaninemia (HP:0003348)	metabolic
+HPO: Abnormality of the parietal bone (HP:0002696)	skeletal
+HPO: Anencephaly (HP:0002323)	nervous
+HPO: Resting tremor (HP:0002322)	nervous
+HPO: Vertigo (HP:0002321)	nervous
+HPO: Abnormality of the pleura (HP:0002103)	respiratory
+HPO: Abnormal lung lobation (HP:0002101)	respiratory
+HPO: Persistence of primary teeth (HP:0006335)	skeletal
+HPO: Hemoptysis (HP:0002105)	other
+HPO: Preauricular pit (HP:0004467)	nervous
+HPO: Plantar hyperkeratosis (HP:0007556)	integumentary
+HPO: Abnormality of the preputium (HP:0100587)	reproductive
+HPO: Teleangiectasia of the skin (HP:0100585)	cardiovascular
+HPO: Nasal polyposis (HP:0100582)	integumentary
+HPO: Delayed puberty (HP:0000823)	endocrine
+HPO: Humeroradial synostosis (HP:0003041)	skeletal
+HPO: Type II diabetes mellitus (HP:0005978)	metabolic
+HPO: Muscle fiber inclusion bodies (HP:0100299)	skeletal muscle
+HPO: Muscle fiber atrophy (HP:0100295)	skeletal muscle
+HPO: Acute encephalopathy (HP:0006846)	nervous
+HPO: Freckling (HP:0001480)	integumentary
+HPO: Cardiomegaly (HP:0001640)	cardiovascular
+HPO: Patent ductus arteriosus (HP:0001643)	cardiovascular
+HPO: Pulmonic stenosis (HP:0001642)	cardiovascular
+HPO: Sudden cardiac death (HP:0001645)	cardiovascular
+HPO: Dilated cardiomyopathy (HP:0001644)	cardiovascular
+HPO: Bicuspid aortic valve (HP:0001647)	cardiovascular
+HPO: Dysmetria (HP:0001310)	nervous
+HPO: Patellar aplasia (HP:0006443)	skeletal
+HPO: Neonatal hypotonia (HP:0001319)	skeletal muscle
+HPO: Spontaneous hematomas (HP:0007420)	hematologic
+HPO: Ocular albinism (HP:0001107)	nervous
+HPO: Retinal atrophy (HP:0001105)	nervous
+HPO: Hyperactive renin-angiotensin system (HP:0000841)	other
+HPO: Hyperparathyroidism (HP:0000843)	endocrine
+HPO: Growth hormone excess (HP:0000845)	endocrine
+HPO: Abnormality of renin-angiotensin system (HP:0000847)	other
+HPO: Increased circulating renin level (HP:0000848)	other
+HPO: Decreased subcutaneous fat (HP:0001002)	metabolic
+HPO: Abnormality of subcutaneous fat tissue (HP:0001001)	metabolic
+HPO: Hirsutism (HP:0001007)	integumentary
+HPO: Hypotrichosis (HP:0001006)	integumentary
+HPO: Lymphedema (HP:0001004)	lymphatic
+HPO: Vertebral arch anomaly (HP:0008438)	skeletal
+HPO: Primitive neuroectodermal tumor (HP:0030065)	nervous
+HPO: Abnormality of the corticospinal tract (HP:0002492)	nervous
+HPO: Abnormal glycosylation (HP:0012345)	other
+HPO: Short 1st metacarpal (HP:0010034)	skeletal
+HPO: Peripheral primitive neuroectodermal neoplasm (HP:0030067)	nervous
+HPO: Autoamputation (HP:0001218)	other
+HPO: Hemiparesis (HP:0001269)	skeletal muscle
+HPO: Choreoathetosis (HP:0001266)	nervous
+HPO: Spastic diplegia (HP:0001264)	nervous
+HPO: Dysarthria (HP:0001260)	nervous
+HPO: Abnormality of the musculature of the pelvis (HP:0001469)	skeletal muscle
+HPO: Melanocytic nevus (HP:0000995)	integumentary
+HPO: Cutaneous photosensitivity (HP:0000992)	integumentary
+HPO: Xanthomatosis (HP:0000991)	metabolic
+HPO: Aplasia/Hypoplasia involving the musculature (HP:0001460)	skeletal muscle
+HPO: Retinitis pigmentosa (HP:0000510)	integumentary
+HPO: 2-3 toe syndactyly (HP:0004691)	skeletal
+HPO: Slow saccadic eye movements (HP:0000514)	nervous
+HPO: Congenital cataract (HP:0000519)	nervous
+HPO: Open mouth (HP:0000194)	other
+HPO: Abnormality of the carotid arteries (HP:0005344)	cardiovascular
+HPO: Short hallux (HP:0010109)	skeletal
+HPO: Abnormality of oral frenula (HP:0000190)	integumentary
+HPO: Polar cataract (HP:0010696)	nervous
+HPO: Prominent nasal bridge (HP:0000426)	integumentary
+HPO: Epileptiform EEG discharges (HP:0011182)	nervous
+HPO: Epistaxis (HP:0000421)	other
+HPO: Granulocytopenia (HP:0001913)	immune
+HPO: Hypoventilation (HP:0002791)	respiratory
+HPO: Aplastic anemia (HP:0001915)	hematologic
+HPO: Myositis (HP:0100614)	skeletal muscle
+HPO: Ovarian neoplasm (HP:0100615)	reproductive
+HPO: Severe global developmental delay (HP:0011344)	nervous
+HPO: Medial flaring of the eyebrow (HP:0010747)	integumentary
+HPO: Short metatarsal (HP:0010743)	skeletal
+HPO: Death in childhood (HP:0003819)	other
+HPO: Renal cell carcinoma (HP:0005584)	urinary
+HPO: Enlarged epiphyses (HP:0010580)	skeletal
+HPO: Type I transferrin isoform profile (HP:0003642)	other
+HPO: Irregular epiphyses (HP:0010582)	skeletal
+HPO: Small epiphyses (HP:0010585)	skeletal
+HPO: Prolonged partial thromboplastin time (HP:0003645)	hematologic
+HPO: Abnormality of long-chain fatty-acid metabolism (HP:0010964)	metabolic
+HPO: Severe short stature (HP:0003510)	skeletal
+HPO: Polyphagia (HP:0002591)	behavior
+HPO: Ileus (HP:0002595)	digestive
+HPO: Abnormality of liposaccharide metabolism (HP:0010968)	metabolic
+HPO: Abnormality of glycolipid metabolism (HP:0010969)	metabolic
+HPO: Anxiety (HP:0000739)	behavior
+HPO: Congenital onset (HP:0003577)	other
+HPO: Stereotypic behavior (HP:0000733)	behavior
+HPO: Irritability (HP:0000737)	behavior
+HPO: Disinhibition (HP:0000734)	behavior
+HPO: Abnormality of the phalanges of the hallux (HP:0010057)	skeletal
+HPO: Germ cell neoplasia (HP:0100728)	reproductive
+HPO: Neonatal death (HP:0003811)	other
+HPO: Gastrointestinal stroma tumor (HP:0100723)	digestive
+HPO: Mediastinal lymphadenopathy (HP:0100721)	lymphatic
+HPO: Aplasia/Hypoplasia of the frontal sinuses (HP:0009119)	respiratory
+HPO: Abnormality of chromosome segregation (HP:0002916)	other
+HPO: Hypomagnesemia (HP:0002917)	other
+HPO: Elevated hepatic transaminases (HP:0002910)	digestive
+HPO: CNS hypomyelination (HP:0003429)	nervous
+HPO: Myoglobinuria (HP:0002913)	other
+HPO: Complement deficiency (HP:0004431)	immune
+HPO: Severe combined immunodeficiency (HP:0004430)	immune
+HPO: Diaphragmatic weakness (HP:0009113)	respiratory
+HPO: Agammaglobulinemia (HP:0004432)	immune
+HPO: Abnormality of glycosphingolipid metabolism (HP:0004343)	metabolic
+HPO: Cranial hyperostosis (HP:0004437)	skeletal
+HPO: Abnormality of vitamin B metabolism (HP:0004340)	metabolic
+HPO: Tracheomalacia (HP:0002779)	respiratory
+HPO: Tracheal stenosis (HP:0002777)	respiratory
+HPO: Lip pit (HP:0100267)	integumentary
+HPO: Decreased circulating renin level (HP:0003351)	other
+HPO: Abnormality of the parathyroid morphology (HP:0011766)	endocrine
+HPO: Frequent falls (HP:0002359)	other
+HPO: Memory impairment (HP:0002354)	nervous
+HPO: Difficulty walking (HP:0002355)	other
+HPO: Aplasia of the phalanges of the hand (HP:0009802)	skeletal
+HPO: Maternal diabetes (HP:0009800)	reproductive
+HPO: Nephrogenic diabetes insipidus (HP:0009806)	urinary
+HPO: Spinal cord compression (HP:0002176)	nervous
+HPO: Clonus (HP:0002169)	nervous
+HPO: Postural instability (HP:0002172)	other
+HPO: Gait imbalance (HP:0002141)	nervous
+HPO: Gliosis (HP:0002171)	nervous
+HPO: Dandy-Walker malformation (HP:0001305)	nervous
+HPO: Bone cyst (HP:0012062)	skeletal
+HPO: Rectal fistula (HP:0100590)	digestive
+HPO: Potter facies (HP:0002009)	other
+HPO: Deep philtrum (HP:0002002)	integumentary
+HPO: Facial cleft (HP:0002006)	other
+HPO: Frontal bossing (HP:0002007)	skeletal
+HPO: Bilateral microphthalmos (HP:0007633)	nervous
+HPO: Obstructive lung disease (HP:0006536)	respiratory
+HPO: Tibial bowing (HP:0002982)	skeletal
+HPO: Complete atrioventricular canal defect (HP:0001674)	cardiovascular
+HPO: Short phalanx of the thumb (HP:0009660)	skeletal
+HPO: Asymmetric septal hypertrophy (HP:0001670)	cardiovascular
+HPO: Absent phalangeal crease (HP:0006109)	integumentary
+HPO: Atrioventricular block (HP:0001678)	cardiovascular
+HPO: Abnormality of the axillary hair (HP:0100134)	integumentary
+HPO: Atrioventricular canal defect (HP:0006695)	cardiovascular
+HPO: Abnormal autonomic nervous system physiology (HP:0012332)	nervous
+HPO: Abnormal biliary tract morphology (HP:0012440)	digestive
+HPO: Insulin resistance (HP:0000855)	metabolic
+HPO: Goiter (HP:0000853)	endocrine
+HPO: Redundant skin (HP:0001582)	integumentary
+HPO: Hyperaldosteronism (HP:0000859)	endocrine
+HPO: Menstrual irregularities (HP:0000858)	reproductive
+HPO: Aplasia/Hypoplasia of the capital femoral epiphysis (HP:0005003)	skeletal
+HPO: Atrophic scars (HP:0001075)	integumentary
+HPO: Epileptic encephalopathy (HP:0200134)	nervous
+HPO: Abnormality of the line of Schwalbe (HP:0008048)	nervous
+HPO: Short femoral neck (HP:0100864)	skeletal
+HPO: Duodenal stenosis (HP:0100867)	digestive
+HPO: Aplasia/Hypoplasia of the 1st metacarpal (HP:0010026)	skeletal
+HPO: Generalized hypotonia (HP:0001290)	skeletal muscle
+HPO: Stroke (HP:0001297)	cardiovascular
+HPO: Heterochromia iridis (HP:0001100)	integumentary
+HPO: Pallor (HP:0000980)	integumentary
+HPO: Palmoplantar keratoderma (HP:0000982)	integumentary
+HPO: Abnormality of the upper arm (HP:0001454)	skeletal
+HPO: Pruritus (HP:0000989)	integumentary
+HPO: Skin rash (HP:0000988)	immune
+HPO: Distal lower limb muscle weakness (HP:0009053)	skeletal muscle
+HPO: Telecanthus (HP:0000506)	skeletal
+HPO: Ptosis (HP:0000508)	skeletal muscle
+HPO: Sandal gap (HP:0001852)	skeletal
+HPO: Postural tremor (HP:0002174)	nervous
+HPO: Narrow palate (HP:0000189)	skeletal
+HPO: Abnormality of the 2nd finger (HP:0004100)	skeletal
+HPO: Broad alveolar ridges (HP:0000187)	skeletal
+HPO: Supraventricular tachycardia (HP:0004755)	cardiovascular
+HPO: Ventricular tachycardia (HP:0004756)	cardiovascular
+HPO: Thin upper lip vermilion (HP:0000219)	integumentary
+HPO: High palate (HP:0000218)	skeletal
+HPO: Xerostomia (HP:0000217)	digestive
+HPO: Trismus (HP:0000211)	skeletal muscle
+HPO: Gingival overgrowth (HP:0000212)	immune
+HPO: Genetic anticipation (HP:0003743)	other
+HPO: Sporadic (HP:0003745)	other
+HPO: Pelvic girdle muscle weakness (HP:0003749)	skeletal muscle
+HPO: Depressed nasal tip (HP:0000437)	integumentary
+HPO: Wide nasal bridge (HP:0000431)	integumentary
+HPO: Underdeveloped nasal alae (HP:0000430)	integumentary
+HPO: Abnormality of the nasal mucosa (HP:0000433)	integumentary
+HPO: Acanthocytosis (HP:0001927)	hematologic
+HPO: Vacuolated lymphocytes (HP:0001922)	lymphatic
+HPO: Reticulocytosis (HP:0001923)	hematologic
+HPO: Increased muscle lipid content (HP:0009058)	metabolic
+HPO: Neoplasm of the respiratory system (HP:0100606)	respiratory
+HPO: Recurrent cutaneous fungal infections (HP:0011370)	immune
+HPO: Portal hypertension (HP:0001409)	cardiovascular
+HPO: Toxemia of pregnancy (HP:0100603)	reproductive
+HPO: Small intestinal stenosis (HP:0012848)	digestive
+HPO: Chin dimple (HP:0010751)	integumentary
+HPO: Exercise-induced myalgia (HP:0003738)	skeletal muscle
