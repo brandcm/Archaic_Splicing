@@ -8,7 +8,9 @@ This directory houses scripts that generate additional information for both spli
 
 - get_1KG_sample_names.sh retrieves sample names from the 1KG VCF.
 
-- query_1KG_allele_frequencies.sh retrieves pre-calculated allele frequencies for archaic variants that are also present in 1KG.
+- query_1KG_allele_frequencies.sh retrieves allele counts, numbers, and frequencies for archaic variants that are also present in 1KG.
+
+- query_gnomAD_allele_frequencies.sh retrieves allele counts, numbers, and frequencies for archaic variants that are also present in gnomAD.
 
 - subset_1KG.sh subsets variants in 1KG within GENCODE, Human Release 24 for hg38, gene bodies that also occur in the archaic hominins.
 
