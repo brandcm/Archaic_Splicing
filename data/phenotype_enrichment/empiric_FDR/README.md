@@ -1,1 +1,1 @@
-This directory contains the empiric FDR outputs per ontology for each of the nine sets. These files are used to calculate the FDR-adjusted p-values for each ontology/set combination in the [analysis notebook](https://github.com/brandcm/Archaic_Splicing/blob/main/scripts/notebooks/5_analysis.ipynb).
+This directory contains the empiric FDR outputs per ontology set combination. These files are used to calculate the FDR-adjusted p values per combination in the [analysis notebook](https://github.com/brandcm/Archaic_Splicing/blob/main/scripts/notebooks/5_analysis.ipynb).
