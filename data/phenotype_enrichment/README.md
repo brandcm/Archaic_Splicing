@@ -6,11 +6,11 @@ The pipeline and associated scripts conduct an enrichment analyis using an empir
 
 This directory contains the following subdirectories and files:
 
-- data contains the gene lists for each of the nine sets. These files are same as those in ../genes/ for delta >= 0.2. The "archaic_data_for_enrichment.txt" file was too large to include here but is generated via the analysis notebook.
+- data contains the gene lists for each of the nine sets. These files are same as those [here](https://github.com/brandcm/Archaic_Splicing/tree/main/data/genes) for delta $\geq$ 0.2. The "archaic_data_for_enrichment.txt" file was too large to include here but is generated via the [analysis Jupyter notebook](https://github.com/brandcm/Archaic_Splicing/blob/main/scripts/notebooks/5_analysis.ipynb).
 
-- empiric_counts contains files with empirically generated null distributions for each term with >= 1 observation per ontology per gene set.
+- empiric_counts contains files with empirically generated null distributions for each term with $\geq$ 1 observation per ontology per gene set.
 
-- empiric_FDR contains files with a subset (10%) of the empirically generated null distributions for each term with >= 1 observation per ontology per gene set used to calculate a FDR-corrected p-value threshold.
+- empiric_FDR contains files with a subset (10%) of the empirically generated null distributions for each term with $\geq$ 1 observation per ontology per gene set used to calculate a FDR-corrected p-value threshold.
 
 - observed contains files indicating which genes per term per ontology are present in each of the nine gene sets.
 
