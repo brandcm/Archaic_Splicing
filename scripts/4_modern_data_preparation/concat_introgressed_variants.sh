@@ -20,4 +20,5 @@ cat "$vernot"/all_tag_snps.ASN.merged.ALL.0.3_R2_cluster.1KG_phase3_essentials.b
 "$vernot"/all_tag_snps.PNG.merged.ALL.0.3_R2_cluster.1KG_phase3_essentials.bed \
 "$vernot"/all_tag_snps.SAS.merged.ALL.0.3_R2_cluster.1KG_phase3_essentials.bed |
 sort -k1,1 -k2,2n > sorted_archaic_introgressed_tag_snps.bed
-awk '!seen[$0]++' sorted_archaic_introgressed_tag_snps.bed > sorted_no_dups_archaic_introgressed_tag_snps.bed
+awk '!seen[$0]++' sorted_archaic_introgressed_tag_snps.bed > Vernot_et_al_2016_introgressed_tag_snps.bed
+rm sorted_archaic_introgressed_tag_snps.bed
