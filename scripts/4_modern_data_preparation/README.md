@@ -8,6 +8,10 @@ This directory houses scripts that generate additional information for both spli
 
 - get_1KG_sample_names.sh retrieves sample names from the 1KG VCF.
 
+- identify_CpGs.py is a script that retrieves the dinucleotide context for any gnomAD "C" variants in the archaic genomic data.
+
+- identify_CpGs.sh runs the identify_CpGs.py script with the designated inputs and output.
+
 - query_1KG_allele_frequencies.sh retrieves allele counts, numbers, and frequencies for archaic variants that are also present in 1KG.
 
 - query_gnomAD_allele_frequencies.sh retrieves allele counts, numbers, and frequencies for archaic variants that are also present in gnomAD.
