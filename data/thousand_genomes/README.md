@@ -1,1 +1,1 @@
-This directory contains a handful of sample names used in various analyses. Not included are the 1KG VCFs.
+This directory contains a handful of sample names used in various analyses. The subdirectory "spliceosome_variants" contains the inputs and outputs for variants among spliceosome associated genes in 24 randomly sampled 1KG samples run the Ensembl's VEP. Not included in this directory are the 1KG VCFs.
