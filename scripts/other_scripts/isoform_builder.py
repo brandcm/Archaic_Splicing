@@ -17,9 +17,9 @@ def parse_args():
 	
 	parser.add_argument(
 		"--variants", type=str, required=True,
-		help="Path to input text file with variants using 1-based coordinates. Text file should be tab-delimited and include the chromosome, position, and variant.")
+		help="Path to input text file with variants using 1-based coordinates. Text file should be tab-delimited and include the chromosome, position, ref allele, alt allele, gene name, and the 8 SpliceAI outputs for that variant.")
 	
-	parser.add_argument("--out", type=str, required=True, help="Path to output FASTA file.")
+	parser.add_argument("--out", type=str, required=True, help="Path to output file.")
 	
 	args = parser.parse_args()
 	return args
