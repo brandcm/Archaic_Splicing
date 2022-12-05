@@ -3,10 +3,10 @@
 #$ -M colin.brand@ucsf.edu
 #$ -m ae
 #$ -cwd
-#$ -o ~/../../../group/capra/projects/archaic_splicing/scripts/4_modern_data_preparation/thousand_genomes_spliceosome_variants.out
-#$ -e ~/../../../group/capra/projects/archaic_splicing/scripts/4_modern_data_preparation/thousand_genomes_spliceosome_variants.err
-#$ -l h_rt=24:00:00
-#$ -l mem_free=60G
+#$ -o ~/../../../group/capra/projects/archaic_splicing/scripts/other_scripts/isoform_builder.out
+#$ -e ~/../../../group/capra/projects/archaic_splicing/scripts/other_scripts/isoform_builder.err
+#$ -l h_rt=8:00:00
+#$ -l mem_free=20G
 
 # set path to hg19 change directories
 hg19="../../../../data/hg19_fasta/2022-03-14/hg19.fa"
