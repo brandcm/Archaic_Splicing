@@ -7,7 +7,7 @@ gzip -d gencode.v24lift37.basic.annotation.gff3.gz
 awk -F '[\t,;]' '$3 == "start_codon" {print $1,$2,$4,$5,$7,$15}' OFS='\t' gencode.v24lift37.basic.annotation.gff3 |
 awk '{gsub("gene_name=", "", $6); print}' OFS='\t' | awk '!seen[$0]++' | awk '{print $1,$3,$4,$5,$6,$2}' OFS='\t' > tmp.txt
 
-# remove start codons that dont' fall among defined set of exons (in 1-based coordinates)
+# remove start codons that do not fall among defined set of exons (in 1-based coordinates)
 while IFS= read -r line; do
   echo "$line" > start.txt
   gene=$( echo "$line" | cut -f5 )
