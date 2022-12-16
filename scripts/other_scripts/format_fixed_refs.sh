@@ -12,7 +12,7 @@
 module load CBI
 module load bedtools2/2.30.0
 module load htslib/1.13
-module load samtools
+module load samtools/1.16
 
 # change directories
 cd ../../data/fixed_refs
