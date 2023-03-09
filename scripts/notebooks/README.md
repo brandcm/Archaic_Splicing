@@ -10,4 +10,4 @@ This directory contains Jupyter notebooks that directly generate dataframes for 
 
 - 5_analysis.ipynb generates the final, complete dataframe and conducts all data analysis presented in the manuscript.
 
-- 6_plots.ipynb produces all the plots presented in the manuscript. 
+- 6_plots.ipynb produces most of the figures presented in the manuscript. We used Inkscape to generate the remaining figures and for additional figure annotation.
