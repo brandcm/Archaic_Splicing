@@ -8,7 +8,7 @@ This directory contains other scripts used in data analysis.
 
 - count_archaic_spliceosome_missense_variants.sh does the same as the above script for each archaic genome.
 
-- format_*_refs.sh formats the data from the fixed and introgressed reference allele sets for input to SpliceAI. These scripts require that individual autosomal FASTAs for hg19 have been downloaded in the "new_reference" directory before running the scripts. See [this repo](https://github.com/brandcm/add_variants_to_FASTA) for how to easily do this.
+- format_*_refs.sh formats the data from the fixed and introgressed reference allele sets for input to SpliceAI. These scripts require that individual autosomal FASTAs for hg19 have been downloaded in the "new_reference" directory (or edit the path in the script to where such files can be found) before running the scripts. See [this repo](https://github.com/brandcm/add_variants_to_FASTA) for how to easily do this. 
 
 - isoform_builder.py assesses the effect of a SAV on the resulting transcript/protein. It requires six arguments: 1) a chromosome lengths file formatted as a tab-delimited two column file with the chromosome name (e.g., "chr1") in the first field and length in the second field, 2) an exon coordinates file in BED format, 3) a FASTA file for the reference genome, 4) a file with 1-based translation start coordinates from a GFF, 5) a tab-delimited variants file containing the chromosome, 1-based variant position, reference allele, alternate allele, gene name, and the eight SpliceAI outputs, and 6) an output file name.
 
