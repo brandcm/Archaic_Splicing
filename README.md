@@ -5,6 +5,6 @@ This repository houses data and scripts used in the archaic splicing project. Pl
 
 - The manuscript directory contains files associated with the preprint version of the manuscript.
 
-- The scripts directory contains most the scripts used in the analysis for data generation, data analysis, and data visualization. The remaining scripts are housed in the data directory.
+- The scripts directory contains most of the scripts used in the analysis for data generation, data analysis, and data visualization. The pipeline and scripts used to run the phenotype enrichment analysis are located in the data directory.
 
 Do not hesitate to reach out with questions or comments on any aspect of this work: colin.brand@ucsf.edu and tony@capralab.org. 
