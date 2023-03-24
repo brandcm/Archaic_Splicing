@@ -8,9 +8,6 @@
 #$ -l h_rt=1:00:00
 #$ -l mem_free=5G
 
-# load modules
-
-
 # run script
 cd ../../data/GTEx_sQTLs/signif_pairs
 for f in *.txt; do awk -F _ '{print $1"_"$2,$3,$4,ARGV[2]}' OFS='\t' $f > chrom_pos_$f & done
