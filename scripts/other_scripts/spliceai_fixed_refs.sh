@@ -9,9 +9,6 @@
 #$ -l h_rt=48:00:00
 #$ -l mem_free=30G
 
-# load modules
-
-
 # load conda environment
 source ~/miniconda3/etc/profile.d/conda.sh
 conda activate spliceai
