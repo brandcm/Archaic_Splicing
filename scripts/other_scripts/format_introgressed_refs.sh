@@ -17,7 +17,7 @@ module load samtools/1.16
 cd ../../data/introgressed_refs
 
 # format variants for new FASTA
-#awk '{print $1,$2,$4}' OFS='\t' introgressed_ref_tag.txt > new_reference/alt_to_ref_variants.txt
+awk '{print $1,$2,$4}' OFS='\t' introgressed_ref_tag.txt > new_reference/alt_to_ref_variants.txt
 
 # create new FASTA (assuming there are already per chromosome FASTAs present in the working directory)
 cd new_reference
