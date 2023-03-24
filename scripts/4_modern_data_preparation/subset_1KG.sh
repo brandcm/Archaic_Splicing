@@ -13,8 +13,8 @@ module load CBI
 module load bcftools/1.13
 
 # designate path to 1000 genomes data, hg19 fasta, and change directories
-thousand_genomes=../../../../data/wynton_databases/1000_genomes/release/20190312_biallelic_SNV_and_INDEL/
-hg38_fasta=../../../../data/hg38_fasta/2022-03-14/hg38.fa
+thousand_genomes="../../../../data/wynton_databases/1000_genomes/release/20190312_biallelic_SNV_and_INDEL/"
+hg38_fasta="../../../../data/hg38_fasta/2022-03-14/hg38.fa"
 cd ../../data/thousand_genomes
 
 # list chromosomes
