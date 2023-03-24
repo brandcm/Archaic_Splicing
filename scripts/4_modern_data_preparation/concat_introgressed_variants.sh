@@ -8,9 +8,7 @@
 #$ -l h_rt=1:00:00
 #$ -l mem_free=5G
 
-# load modules
-
-# set path and change directories
+# change directories and set path
 cd ../../data/introgression
 vernot="../../../../data/vernot_et_al_2016/introgressed_tag_snp_frequencies"
 
