@@ -32,29 +32,29 @@ echo "moving files finished"
 chrs=('chr1' 'chr2' 'chr3' 'chr4' 'chr5' 'chr6' 'chr7' 'chr8' 'chr9' 'chr10' 'chr11' 'chr12' 'chr13' 'chr14' 'chr15' 'chr16' 'chr17' 'chr18' 'chr19' 'chr20' 'chr21' 'chr22' 'chrX' )
 
 # chagyrskaya does not appear to be properly bgzipped; let's change that
-for c in ${chrs[@]}; do bcftools view chagyrskaya_$c.vcf.gz -O z -o bgzipped_chagyrskaya_$c.vcf.gz & done
+for c in ${chrs[@]}; do bcftools view chagyrskaya_"$c".vcf.gz -O z -o bgzipped_chagyrskaya_$c.vcf.gz & done
 wait
 echo "chagyrskaya bgzipped"
 
-for c in ${chrs[@]}; do bcftools index -t bgzipped_chagyrskaya_$c.vcf.gz & done
+for c in ${chrs[@]}; do bcftools index -t bgzipped_chagyrskaya_"$c".vcf.gz & done
 wait
 echo "indexing chagryskaya done"
 
 # combine VCFs
-for c in ${chrs[@]}; do bcftools merge altai_$c.vcf.gz bgzipped_chagyrskaya_$c.vcf.gz denisovan_$c.vcf.gz vindija_$c.vcf.gz -O z -o combined_$c.vcf.gz & done
+for c in ${chrs[@]}; do bcftools merge altai_"$c".vcf.gz bgzipped_chagyrskaya_"$c".vcf.gz denisovan_"$c".vcf.gz vindija_"$c".vcf.gz -O z -o combined_"$c"_snvs.vcf.gz & done
 wait
 echo "combining VCFs complete"
 
 # rename chromosomes and samples, index new VCFs
-for c in ${chrs[@]}; do bcftools annotate --rename-chrs new_chr_names.txt combined_$c.vcf.gz -o combined_2_$c.vcf.gz & done
+for c in ${chrs[@]}; do bcftools annotate --rename-chrs new_chr_names.txt combined_"$c"_snvs.vcf.gz -o combined_2_"$c"_snvs.vcf.gz & done
 wait
 echo "chromosomes renamed"
 
-for c in ${chrs[@]}; do bcftools reheader -s new_sample_names.txt combined_2_$c.vcf.gz -o combined_archaic_$c.vcf.gz & done
+for c in ${chrs[@]}; do bcftools reheader -s new_sample_names.txt combined_2_"$c"_snvs.vcf.gz -o combined_archaic_"$c"_snvs.vcf.gz & done
 wait
 echo "samples renamed"
 
-for c in ${chrs[@]}; do bcftools index -t combined_archaic_$c.vcf.gz & done
+for c in ${chrs[@]}; do bcftools index -t combined_archaic_"$c"_snvs.vcf.gz & done
 wait
 echo "combined VCFs indexed"
 
@@ -62,3 +62,4 @@ echo "combined VCFs indexed"
 mv combined_archaic_*.vcf.gz ~/../../../group/capra/projects/archaic_splicing/data/archaic_genomes
 mv combined_archaic_*.vcf.gz.tbi ~/../../../group/capra/projects/archaic_splicing/data/archaic_genomes
 echo "script completed"
+

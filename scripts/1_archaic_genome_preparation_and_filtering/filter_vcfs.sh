@@ -29,3 +29,6 @@ bcftools norm -m - -f "$hg19" combined_archaic_indels.vcf.gz | bcftools filter -
 bcftools index -t filtered_combined_archaic_indels.vcf.gz
 
 echo "filtering and indexing complete"
+
+bcftools concat filtered_combined_archaic_chr*.vcf.gz -O z -o filtered_combined_archaic_snvs_2.vcf.gz
+bcftools sort filtered_combined_archaic_snvs_2.vcf.gz -O z -o filtered_combined_archaic_snvs.vcf.gz
